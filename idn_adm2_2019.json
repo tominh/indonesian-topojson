@@ -1,7 +1,7 @@
 {
     "type": "Topology",
     "objects": {
-        "idn_adm2_bps_2019": {
+        "cities": {
             "type": "GeometryCollection",
             "geometries": [
                 {
