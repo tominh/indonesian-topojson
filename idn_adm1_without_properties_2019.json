@@ -1,7 +1,7 @@
 {
     "type": "Topology",
     "objects": {
-        "provinces": {
+        "regions": {
             "type": "GeometryCollection",
             "geometries": [
                 {
@@ -54,6 +54,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2390836,
+                        "country": "IDN",
+                        "name": "Aceh",
+                        "enname": "",
+                        "locname": "Aceh",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q1823",
+                        "wikimedia": "en:Aceh",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "2390836,304751,0",
+                        "ISO3166_2": "ID-AC",
+                        "iso_name": "Aceh",
+                        "hasc": "ID.AC",
+                        "fips": "ID01",
+                        "cx": 96.96588216093942,
+                        "cy": 4.412830401701306
+                    },
                     "id": "ID11"
                 },
                 {
@@ -70,6 +91,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 1615621,
+                        "country": "IDN",
+                        "name": "Bali",
+                        "enname": "",
+                        "locname": "Bali",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3125978",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "1615621,304751,0",
+                        "ISO3166_2": "ID-BA",
+                        "iso_name": "Bali",
+                        "hasc": "ID.BA",
+                        "fips": "ID02",
+                        "cx": 115.21330888075316,
+                        "cy": -8.345845304724776
+                    },
                     "id": "ID51"
                 },
                 {
@@ -88,6 +130,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2388356,
+                        "country": "IDN",
+                        "name": "Banten",
+                        "enname": "Banten",
+                        "locname": "Banten",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3540",
+                        "wikimedia": "en:Banten",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "2388356,304751,0",
+                        "ISO3166_2": "ID-BT",
+                        "iso_name": "Banten",
+                        "hasc": "ID.BT",
+                        "fips": "ID33",
+                        "cx": 106.1229749789834,
+                        "cy": -6.448907165068754
+                    },
                     "id": "ID36"
                 },
                 {
@@ -108,6 +171,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2390837,
+                        "country": "IDN",
+                        "name": "Bengkulu",
+                        "enname": "",
+                        "locname": "Bengkulu",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q1890",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:20",
+                        "note": "",
+                        "rpath": "2390837,304751,0",
+                        "ISO3166_2": "ID-BE",
+                        "iso_name": "Bengkulu",
+                        "hasc": "ID.BE",
+                        "fips": "ID03",
+                        "cx": 102.50076920126128,
+                        "cy": -3.5692783878466434
+                    },
                     "id": "ID17"
                 },
                 {
@@ -118,6 +202,27 @@
                             23
                         ]
                     ],
+                    "properties": {
+                        "id": 5616105,
+                        "country": "IDN",
+                        "name": "Special Region of Yogyakarta",
+                        "enname": "Special Region of Yogyakarta",
+                        "locname": "Daerah Istimewa Yogyakarta",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3741",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "5616105,304751,0",
+                        "ISO3166_2": "ID-YO",
+                        "iso_name": "Yogyakarta",
+                        "hasc": "ID.YO",
+                        "fips": "ID10",
+                        "cx": 110.37649191152748,
+                        "cy": -7.875957516563329
+                    },
                     "id": "ID34"
                 },
                 {
@@ -129,6 +234,27 @@
                             25
                         ]
                     ],
+                    "properties": {
+                        "id": 6362934,
+                        "country": "IDN",
+                        "name": "Jakarta Special Capital Region",
+                        "enname": "Jakarta Special Capital Region",
+                        "locname": "Daerah Khusus Ibukota Jakarta",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3630",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "6362934,304751,0",
+                        "ISO3166_2": "ID-JK",
+                        "iso_name": "Jakarta Raya",
+                        "hasc": "ID.JK",
+                        "fips": "ID04",
+                        "cx": 106.83648480809883,
+                        "cy": -6.212327852234836
+                    },
                     "id": "ID31"
                 },
                 {
@@ -148,6 +274,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2388665,
+                        "country": "IDN",
+                        "name": "Gorontalo",
+                        "enname": "",
+                        "locname": "Gorontalo",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q5067",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "2388665,304751,0",
+                        "ISO3166_2": "ID-GO",
+                        "iso_name": "Gorontalo",
+                        "hasc": "ID.GO",
+                        "fips": "ID34",
+                        "cx": 122.36041641267192,
+                        "cy": 0.7569366473098219
+                    },
                     "id": "ID75"
                 },
                 {
@@ -161,6 +308,27 @@
                             34
                         ]
                     ],
+                    "properties": {
+                        "id": 2390838,
+                        "country": "IDN",
+                        "name": "Jambi",
+                        "enname": "",
+                        "locname": "Jambi",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q2051",
+                        "wikimedia": "id:Jambi",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "2390838,304751,0",
+                        "ISO3166_2": "ID-JA",
+                        "iso_name": "Jambi",
+                        "hasc": "ID.JA",
+                        "fips": "ID05",
+                        "cx": 102.5816949311523,
+                        "cy": -1.73659784809473
+                    },
                     "id": "ID15"
                 },
                 {
@@ -174,6 +342,27 @@
                             37
                         ]
                     ],
+                    "properties": {
+                        "id": 2388361,
+                        "country": "IDN",
+                        "name": "West Java",
+                        "enname": "West Java",
+                        "locname": "Jawa Barat",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3724",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:20",
+                        "note": "",
+                        "rpath": "2388361,304751,0",
+                        "ISO3166_2": "ID-JB",
+                        "iso_name": "Jawa Barat",
+                        "hasc": "ID.JR",
+                        "fips": "ID30",
+                        "cx": 107.59847296358592,
+                        "cy": -6.879731866832154
+                    },
                     "id": "ID32"
                 },
                 {
@@ -195,6 +384,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2388357,
+                        "country": "IDN",
+                        "name": "Central Java",
+                        "enname": "Central Java",
+                        "locname": "Jawa Tengah",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3557",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "2388357,304751,0",
+                        "ISO3166_2": "ID-JT",
+                        "iso_name": "Jawa Tengah",
+                        "hasc": "ID.JT",
+                        "fips": "ID07",
+                        "cx": 109.74004411158585,
+                        "cy": -7.344749754828346
+                    },
                     "id": "ID33"
                 },
                 {
@@ -277,6 +487,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 3438227,
+                        "country": "IDN",
+                        "name": "East Java",
+                        "enname": "East Java",
+                        "locname": "Jawa Timur",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3586",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:20",
+                        "note": "",
+                        "rpath": "3438227,304751,0",
+                        "ISO3166_2": "ID-JI",
+                        "iso_name": "Jawa Timur",
+                        "hasc": "ID.JI",
+                        "fips": "ID08",
+                        "cx": 112.12183193262986,
+                        "cy": -7.608282444192399
+                    },
                     "id": "ID35"
                 },
                 {
@@ -395,6 +626,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2388616,
+                        "country": "IDN",
+                        "name": "West Kalimantan",
+                        "enname": "West Kalimantan",
+                        "locname": "Kalimantan Barat",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3916",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "2388616,304751,0",
+                        "ISO3166_2": "ID-KB",
+                        "iso_name": "Kalimantan Barat",
+                        "hasc": "ID.KB",
+                        "fips": "ID11",
+                        "cx": 110.7276817047008,
+                        "cy": -0.3106216096485479
+                    },
                     "id": "ID61"
                 },
                 {
@@ -428,6 +680,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2388615,
+                        "country": "IDN",
+                        "name": "South Kalimantan",
+                        "enname": "South Kalimantan",
+                        "locname": "Kalimantan Selatan",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3906",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "2388615,304751,0",
+                        "ISO3166_2": "ID-KS",
+                        "iso_name": "Kalimantan Selatan",
+                        "hasc": "ID.KS",
+                        "fips": "ID12",
+                        "cx": 115.40034424162654,
+                        "cy": -2.99774973519183
+                    },
                     "id": "ID63"
                 },
                 {
@@ -447,6 +720,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2388613,
+                        "country": "IDN",
+                        "name": "Central Kalimantan",
+                        "enname": "Central Kalimantan",
+                        "locname": "Kalimantan Tengah",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3891",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "2388613,304751,0",
+                        "ISO3166_2": "ID-KT",
+                        "iso_name": "Kalimantan Tengah",
+                        "hasc": "ID.KT",
+                        "fips": "ID13",
+                        "cx": 113.37816857283102,
+                        "cy": -1.71835717745685
+                    },
                     "id": "ID62"
                 },
                 {
@@ -628,6 +922,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 5449459,
+                        "country": "IDN",
+                        "name": "East Kalimantan",
+                        "enname": "East Kalimantan",
+                        "locname": "Kalimantan Timur",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3899",
+                        "wikimedia": "id:Kalimantan Timur",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "5449459,304751,0",
+                        "ISO3166_2": "ID-KI",
+                        "iso_name": "Kalimantan Timur",
+                        "hasc": "ID.KM",
+                        "fips": "ID14",
+                        "cx": 116.43537820836656,
+                        "cy": 0.43001029403897795
+                    },
                     "id": "ID64"
                 },
                 {
@@ -810,6 +1125,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 5449460,
+                        "country": "IDN",
+                        "name": "North Kalimantan",
+                        "enname": "North Kalimantan",
+                        "locname": "Kalimantan Utara",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q3903",
+                        "wikimedia": "de:Kalimantan Utara",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "5449460,304751,0",
+                        "ISO3166_2": "ID-KU",
+                        "iso_name": "Kalimantan Utara",
+                        "hasc": "ID.KU",
+                        "fips": "ID42",
+                        "cx": 116.45934659007821,
+                        "cy": 3.29148591795048
+                    },
                     "id": "ID65"
                 },
                 {
@@ -856,6 +1192,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 3797243,
+                        "country": "IDN",
+                        "name": "Bangka-Belitung Islands",
+                        "enname": "Bangka-Belitung Islands",
+                        "locname": "Kepulauan Bangka Belitung",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q1866",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "3797243,304751,0",
+                        "ISO3166_2": "ID-BB",
+                        "iso_name": "Bangka-Belitung",
+                        "hasc": "ID.BB",
+                        "fips": "ID35",
+                        "cx": 105.75096279662584,
+                        "cy": -1.8358813392083289
+                    },
                     "id": "ID19"
                 },
                 {
@@ -1130,6 +1487,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 3797244,
+                        "country": "IDN",
+                        "name": "Riau Islands",
+                        "enname": "Riau Islands",
+                        "locname": "Kepulauan Riau",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q2223",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "3797244,304751,0",
+                        "ISO3166_2": "ID-KR",
+                        "iso_name": "Kepulauan Riau",
+                        "hasc": "ID.KR",
+                        "fips": "ID40",
+                        "cx": 108.17952292758308,
+                        "cy": 3.95928966884186
+                    },
                     "id": "ID21"
                 },
                 {
@@ -1163,6 +1541,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2390839,
+                        "country": "IDN",
+                        "name": "Lampung",
+                        "enname": "",
+                        "locname": "Lampung",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q2110",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "2390839,304751,0",
+                        "ISO3166_2": "ID-LA",
+                        "iso_name": "Lampung",
+                        "hasc": "ID.LA",
+                        "fips": "ID15",
+                        "cx": 105.00375730021776,
+                        "cy": -4.897761994195427
+                    },
                     "id": "ID18"
                 },
                 {
@@ -1579,6 +1978,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2396795,
+                        "country": "IDN",
+                        "name": "Maluku",
+                        "enname": "",
+                        "locname": "Maluku",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q5093",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "2396795,304751,0",
+                        "ISO3166_2": "ID-MA",
+                        "iso_name": "Maluku",
+                        "hasc": "ID.MA",
+                        "fips": "ID28",
+                        "cx": 129.56553132946755,
+                        "cy": -3.055269601604878
+                    },
                     "id": "ID81"
                 },
                 {
@@ -1755,6 +2175,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2396796,
+                        "country": "IDN",
+                        "name": "North Maluku",
+                        "enname": "North Maluku",
+                        "locname": "Maluku Utara",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q5094",
+                        "wikimedia": "id:Maluku Utara",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "2396796,304751,0",
+                        "ISO3166_2": "ID-MU",
+                        "iso_name": "Maluku Utara",
+                        "hasc": "ID.MU",
+                        "fips": "ID29",
+                        "cx": 127.77725080796858,
+                        "cy": 1.5136077474097043
+                    },
                     "id": "ID82"
                 },
                 {
@@ -1801,6 +2242,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 1615622,
+                        "country": "IDN",
+                        "name": "West Nusa Tenggara",
+                        "enname": "West Nusa Tenggara",
+                        "locname": "Nusa Tenggara Barat",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q5062",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:20",
+                        "note": "",
+                        "rpath": "1615622,304751,0",
+                        "ISO3166_2": "ID-NB",
+                        "iso_name": "Nusa Tenggara Barat",
+                        "hasc": "ID.NB",
+                        "fips": "ID17",
+                        "cx": 117.36471698124754,
+                        "cy": -8.753854137286277
+                    },
                     "id": "ID52"
                 },
                 {
@@ -1912,6 +2374,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2396778,
+                        "country": "IDN",
+                        "name": "East Nusa Tenggara",
+                        "enname": "East Nusa Tenggara",
+                        "locname": "Nusa Tenggara Timur",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q5061",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "2396778,304751,0",
+                        "ISO3166_2": "ID-NT",
+                        "iso_name": "Nusa Tenggara Timur",
+                        "hasc": "ID.NT",
+                        "fips": "ID18",
+                        "cx": 121.03269670180752,
+                        "cy": -8.683120922282269
+                    },
                     "id": "ID53"
                 },
                 {
@@ -2009,6 +2492,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 4521144,
+                        "country": "IDN",
+                        "name": "Papua",
+                        "enname": "Papua",
+                        "locname": "Papua",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q5095",
+                        "wikimedia": "en:Papua (province)",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "4521144,304751,0",
+                        "ISO3166_2": "ID-PA",
+                        "iso_name": "Papua",
+                        "hasc": "ID.PA",
+                        "fips": "ID36",
+                        "cx": 139.24662348776846,
+                        "cy": -4.246020417795567
+                    },
                     "id": "ID94"
                 },
                 {
@@ -2186,6 +2690,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 4521145,
+                        "country": "IDN",
+                        "name": "West Papua",
+                        "enname": "West Papua",
+                        "locname": "Papua Barat",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q5096",
+                        "wikimedia": "en:West Papua (province)",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "4521145,304751,0",
+                        "ISO3166_2": "ID-PB",
+                        "iso_name": "Papua Barat",
+                        "hasc": "ID.IB",
+                        "fips": "ID39",
+                        "cx": 132.86090226072474,
+                        "cy": -1.4441857037437713
+                    },
                     "id": "ID91"
                 },
                 {
@@ -2305,6 +2830,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2390840,
+                        "country": "IDN",
+                        "name": "Riau",
+                        "enname": "",
+                        "locname": "Riau",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q2175",
+                        "wikimedia": "id:Riau",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "2390840,304751,0",
+                        "ISO3166_2": "ID-RI",
+                        "iso_name": "Riau",
+                        "hasc": "ID.RI",
+                        "fips": "ID37",
+                        "cx": 101.77609566681511,
+                        "cy": 0.16735195077529316
+                    },
                     "id": "ID14"
                 },
                 {
@@ -2316,6 +2862,27 @@
                             455
                         ]
                     ],
+                    "properties": {
+                        "id": 2388669,
+                        "country": "IDN",
+                        "name": "West Sulawesi",
+                        "enname": "West Sulawesi",
+                        "locname": "Sulawesi Barat",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q5082",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "2388669,304751,0",
+                        "ISO3166_2": "ID-SR",
+                        "iso_name": "Sulawesi Barat",
+                        "hasc": "ID.SR",
+                        "fips": "ID41",
+                        "cx": 119.19597549255171,
+                        "cy": -2.8592691692340284
+                    },
                     "id": "ID76"
                 },
                 {
@@ -2393,6 +2960,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2388667,
+                        "country": "IDN",
+                        "name": "South Sulawesi",
+                        "enname": "South Sulawesi",
+                        "locname": "Sulawesi Selatan",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q5078",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "2388667,304751,0",
+                        "ISO3166_2": "ID-SN",
+                        "iso_name": "Sulawesi Selatan",
+                        "hasc": "ID.SE",
+                        "fips": "ID38",
+                        "cx": 119.95477233292891,
+                        "cy": -3.6676118157420525
+                    },
                     "id": "ID73"
                 },
                 {
@@ -2499,6 +3087,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2388664,
+                        "country": "IDN",
+                        "name": "Central Sulawesi",
+                        "enname": "Central Sulawesi",
+                        "locname": "Sulawesi Tengah",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "2388664,304751,0",
+                        "ISO3166_2": "ID-ST",
+                        "iso_name": "Sulawesi Tengah",
+                        "hasc": "ID.ST",
+                        "fips": "ID21",
+                        "cx": 121.57673926304213,
+                        "cy": -1.4133509126697916
+                    },
                     "id": "ID72"
                 },
                 {
@@ -2597,6 +3206,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2388668,
+                        "country": "IDN",
+                        "name": "Southeast Sulawesi",
+                        "enname": "Southeast Sulawesi",
+                        "locname": "Sulawesi Tenggara",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q5075",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "2388668,304751,0",
+                        "ISO3166_2": "ID-SG",
+                        "iso_name": "Sulawesi Tenggara",
+                        "hasc": "ID.SG",
+                        "fips": "ID22",
+                        "cx": 121.67904855754178,
+                        "cy": -3.5085411103871684
+                    },
                     "id": "ID74"
                 },
                 {
@@ -2679,6 +3309,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2388666,
+                        "country": "IDN",
+                        "name": "North Sulawesi",
+                        "enname": "North Sulawesi",
+                        "locname": "Sulawesi Utara",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q5068",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:18",
+                        "note": "",
+                        "rpath": "2388666,304751,0",
+                        "ISO3166_2": "ID-SA",
+                        "iso_name": "Sulawesi Utara",
+                        "hasc": "ID.SW",
+                        "fips": "ID31",
+                        "cx": 124.28411575745936,
+                        "cy": 0.7100909404083409
+                    },
                     "id": "ID71"
                 },
                 {
@@ -2724,6 +3375,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2390841,
+                        "country": "IDN",
+                        "name": "West Sumatra",
+                        "enname": "West Sumatra",
+                        "locname": "Sumatera Barat",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q2772",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "2390841,304751,0",
+                        "ISO3166_2": "ID-SB",
+                        "iso_name": "Sumatera Barat",
+                        "hasc": "ID.SB",
+                        "fips": "ID24",
+                        "cx": 100.8951018313169,
+                        "cy": -0.9744004580384165
+                    },
                     "id": "ID13"
                 },
                 {
@@ -2748,6 +3420,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2390842,
+                        "country": "IDN",
+                        "name": "South Sumatra",
+                        "enname": "South Sumatra",
+                        "locname": "Sumatera Selatan",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q2271",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:20",
+                        "note": "",
+                        "rpath": "2390842,304751,0",
+                        "ISO3166_2": "ID-SS",
+                        "iso_name": "Sumatera Selatan",
+                        "hasc": "ID.SL",
+                        "fips": "ID32",
+                        "cx": 104.14760009897849,
+                        "cy": -3.250726441074292
+                    },
                     "id": "ID16"
                 },
                 {
@@ -2803,6 +3496,27 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "id": 2390843,
+                        "country": "IDN",
+                        "name": "North Sumatra",
+                        "enname": "North Sumatra",
+                        "locname": "Sumatera Utara",
+                        "offname": "",
+                        "boundary": "administrative",
+                        "adminlevel": 4,
+                        "wikidata": "Q2140",
+                        "wikimedia": "",
+                        "timestamp": "2018-08-29 05:32:19",
+                        "note": "",
+                        "rpath": "2390843,304751,0",
+                        "ISO3166_2": "ID-SU",
+                        "iso_name": "Sumatera Utara",
+                        "hasc": "ID.SU",
+                        "fips": "ID26",
+                        "cx": 99.13231807725195,
+                        "cy": 2.4906303840429747
+                    },
                     "id": "ID12"
                 }
             ]
