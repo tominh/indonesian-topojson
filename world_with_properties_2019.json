@@ -13,7 +13,8 @@
                         "name": "Afghanistan",
                         "iso_2": "AF",
                         "iso_3": "AFG",
-                        "iso_3_digit": "004"
+                        "iso_3_digit": "004",
+                        "iso_name": "Afghanistan"
                     },
                     "arcs": [
                         [
@@ -35,7 +36,8 @@
                         "name": "Angola",
                         "iso_2": "AO",
                         "iso_3": "AGO",
-                        "iso_3_digit": "024"
+                        "iso_3_digit": "024",
+                        "iso_name": "Angola"
                     },
                     "arcs": [
                         [
@@ -64,7 +66,8 @@
                         "name": "Albania",
                         "iso_2": "AL",
                         "iso_3": "ALB",
-                        "iso_3_digit": "008"
+                        "iso_3_digit": "008",
+                        "iso_name": "Albania"
                     },
                     "arcs": [
                         [
@@ -85,7 +88,8 @@
                         "name": "United Arab Emirates",
                         "iso_2": "AE",
                         "iso_3": "ARE",
-                        "iso_3_digit": "784"
+                        "iso_3_digit": "784",
+                        "iso_name": "United Arab Emirates"
                     },
                     "arcs": [
                         [
@@ -106,7 +110,8 @@
                         "name": "Argentina",
                         "iso_2": "AR",
                         "iso_3": "ARG",
-                        "iso_3_digit": "032"
+                        "iso_3_digit": "032",
+                        "iso_name": "Argentina"
                     },
                     "arcs": [
                         [
@@ -136,7 +141,8 @@
                         "name": "Armenia",
                         "iso_2": "AM",
                         "iso_3": "ARM",
-                        "iso_3_digit": "051"
+                        "iso_3_digit": "051",
+                        "iso_name": "Armenia"
                     },
                     "arcs": [
                         [
@@ -222,7 +228,8 @@
                         "name": "Australia",
                         "iso_2": "AU",
                         "iso_3": "AUS",
-                        "iso_3_digit": "36"
+                        "iso_3_digit": "36",
+                        "iso_name": "Australia"
                     },
                     "arcs": [
                         [
@@ -246,7 +253,8 @@
                         "name": "Austria",
                         "iso_2": "AT",
                         "iso_3": "AUT",
-                        "iso_3_digit": "40"
+                        "iso_3_digit": "40",
+                        "iso_name": "Austria"
                     },
                     "arcs": [
                         [
@@ -273,7 +281,8 @@
                         "name": "Azerbaijan",
                         "iso_2": "AZ",
                         "iso_3": "AZE",
-                        "iso_3_digit": "031"
+                        "iso_3_digit": "031",
+                        "iso_name": "Azerbaijan"
                     },
                     "arcs": [
                         [
@@ -302,7 +311,8 @@
                         "name": "Burundi",
                         "iso_2": "BI",
                         "iso_3": "BDI",
-                        "iso_3_digit": "108"
+                        "iso_3_digit": "108",
+                        "iso_name": "Burundi"
                     },
                     "arcs": [
                         [
@@ -322,7 +332,8 @@
                         "name": "Belgium",
                         "iso_2": "BE",
                         "iso_3": "BEL",
-                        "iso_3_digit": "056"
+                        "iso_3_digit": "056",
+                        "iso_name": "Belgium"
                     },
                     "arcs": [
                         [
@@ -343,7 +354,8 @@
                         "name": "Benin",
                         "iso_2": "BJ",
                         "iso_3": "BEN",
-                        "iso_3_digit": "204"
+                        "iso_3_digit": "204",
+                        "iso_name": "Benin"
                     },
                     "arcs": [
                         [
@@ -364,7 +376,8 @@
                         "name": "Burkina Faso",
                         "iso_2": "BF",
                         "iso_3": "BFA",
-                        "iso_3_digit": "854"
+                        "iso_3_digit": "854",
+                        "iso_name": "Burkina Faso"
                     },
                     "arcs": [
                         [
@@ -386,7 +399,8 @@
                         "name": "Bangladesh",
                         "iso_2": "BD",
                         "iso_3": "BGD",
-                        "iso_3_digit": "050"
+                        "iso_3_digit": "050",
+                        "iso_name": "Bangladesh"
                     },
                     "arcs": [
                         [
@@ -405,7 +419,8 @@
                         "name": "Bulgaria",
                         "iso_2": "BG",
                         "iso_3": "BGR",
-                        "iso_3_digit": "100"
+                        "iso_3_digit": "100",
+                        "iso_name": "Bulgaria"
                     },
                     "arcs": [
                         [
@@ -427,7 +442,8 @@
                         "name": "Bahamas",
                         "iso_2": "BS",
                         "iso_3": "BHS",
-                        "iso_3_digit": "044"
+                        "iso_3_digit": "044",
+                        "iso_name": "Bahamas"
                     },
                     "arcs": [
                         [
@@ -456,7 +472,8 @@
                         "name": "Bosnia and Herzegovina",
                         "iso_2": "BA",
                         "iso_3": "BIH",
-                        "iso_3_digit": "070"
+                        "iso_3_digit": "070",
+                        "iso_name": "Bosnia and Herzegovina"
                     },
                     "arcs": [
                         [
@@ -476,7 +493,8 @@
                         "name": "Belarus",
                         "iso_2": "BY",
                         "iso_3": "BLR",
-                        "iso_3_digit": "112"
+                        "iso_3_digit": "112",
+                        "iso_name": "Belarus"
                     },
                     "arcs": [
                         [
@@ -500,7 +518,8 @@
                         "name": "Belize",
                         "iso_2": "BZ",
                         "iso_3": "BLZ",
-                        "iso_3_digit": "084"
+                        "iso_3_digit": "084",
+                        "iso_name": "Belize"
                     },
                     "arcs": [
                         [
@@ -519,7 +538,8 @@
                         "name": "Bolivia (Plurinational State of)",
                         "iso_2": "BO",
                         "iso_3": "BOL",
-                        "iso_3_digit": "068"
+                        "iso_3_digit": "068",
+                        "iso_name": "Bolivia"
                     },
                     "arcs": [
                         [
@@ -540,7 +560,8 @@
                         "name": "Brazil",
                         "iso_2": "BR",
                         "iso_3": "BRA",
-                        "iso_3_digit": "076"
+                        "iso_3_digit": "076",
+                        "iso_name": "Brazil"
                     },
                     "arcs": [
                         [
@@ -567,7 +588,8 @@
                         "name": "Brunei Darussalam",
                         "iso_2": "BN",
                         "iso_3": "BRN",
-                        "iso_3_digit": "096"
+                        "iso_3_digit": "096",
+                        "iso_name": "Brunei Darussalam"
                     },
                     "arcs": [
                         [
@@ -585,7 +607,8 @@
                         "name": "Bhutan",
                         "iso_2": "BT",
                         "iso_3": "BTN",
-                        "iso_3_digit": "064"
+                        "iso_3_digit": "064",
+                        "iso_name": "Bhutan"
                     },
                     "arcs": [
                         [
@@ -603,7 +626,8 @@
                         "name": "Botswana",
                         "iso_2": "BW",
                         "iso_3": "BWA",
-                        "iso_3_digit": "072"
+                        "iso_3_digit": "072",
+                        "iso_name": "Botswana"
                     },
                     "arcs": [
                         [
@@ -623,7 +647,8 @@
                         "name": "Central African Republic",
                         "iso_2": "CF",
                         "iso_3": "CAF",
-                        "iso_3_digit": "140"
+                        "iso_3_digit": "140",
+                        "iso_name": "Central African Republic"
                     },
                     "arcs": [
                         [
@@ -646,7 +671,8 @@
                         "name": "Canada",
                         "iso_2": "CA",
                         "iso_3": "CAN",
-                        "iso_3_digit": "124"
+                        "iso_3_digit": "124",
+                        "iso_name": "Canada"
                     },
                     "arcs": [
                         [
@@ -815,7 +841,8 @@
                         "name": "Switzerland",
                         "iso_2": "CH",
                         "iso_3": "CHE",
-                        "iso_3_digit": "756"
+                        "iso_3_digit": "756",
+                        "iso_name": "Switzerland"
                     },
                     "arcs": [
                         [
@@ -839,7 +866,8 @@
                         "name": "Chile",
                         "iso_2": "CL",
                         "iso_3": "CHL",
-                        "iso_3_digit": "152"
+                        "iso_3_digit": "152",
+                        "iso_name": "Chile"
                     },
                     "arcs": [
                         [
@@ -867,7 +895,8 @@
                         "name": "China",
                         "iso_2": "CN",
                         "iso_3": "CHN",
-                        "iso_3_digit": "156"
+                        "iso_3_digit": "156",
+                        "iso_name": "China"
                     },
                     "arcs": [
                         [
@@ -921,7 +950,8 @@
                         "name": "C\u00c3\u00b4te d'Ivoire",
                         "iso_2": "CI",
                         "iso_3": "CIV",
-                        "iso_3_digit": "384"
+                        "iso_3_digit": "384",
+                        "iso_name": "Cote d'Ivoire"
                     },
                     "arcs": [
                         [
@@ -943,7 +973,8 @@
                         "name": "Cameroon",
                         "iso_2": "CM",
                         "iso_3": "CMR",
-                        "iso_3_digit": "120"
+                        "iso_3_digit": "120",
+                        "iso_name": "Cameroon"
                     },
                     "arcs": [
                         [
@@ -968,7 +999,8 @@
                         "name": "Democratic Republic of the Congo",
                         "iso_2": "CD",
                         "iso_3": "COD",
-                        "iso_3_digit": "180"
+                        "iso_3_digit": "180",
+                        "iso_name": "Congo, The Democratic Republic of"
                     },
                     "arcs": [
                         [
@@ -999,7 +1031,8 @@
                         "name": "Congo",
                         "iso_2": "CG",
                         "iso_3": "COG",
-                        "iso_3_digit": "178"
+                        "iso_3_digit": "178",
+                        "iso_name": "Congo"
                     },
                     "arcs": [
                         [
@@ -1021,7 +1054,8 @@
                         "name": "Colombia",
                         "iso_2": "CO",
                         "iso_3": "COL",
-                        "iso_3_digit": "170"
+                        "iso_3_digit": "170",
+                        "iso_name": "Colombia"
                     },
                     "arcs": [
                         [
@@ -1044,7 +1078,8 @@
                         "name": "Costa Rica",
                         "iso_2": "CR",
                         "iso_3": "CRI",
-                        "iso_3_digit": "188"
+                        "iso_3_digit": "188",
+                        "iso_name": "Costa Rica"
                     },
                     "arcs": [
                         [
@@ -1064,7 +1099,8 @@
                         "name": "Cuba",
                         "iso_2": "CU",
                         "iso_3": "CUB",
-                        "iso_3_digit": "192"
+                        "iso_3_digit": "192",
+                        "iso_name": "Cuba"
                     },
                     "arcs": [
                         [
@@ -1081,7 +1117,8 @@
                         "name": "Cyprus",
                         "iso_2": "CY",
                         "iso_3": "CYP",
-                        "iso_3_digit": "196"
+                        "iso_3_digit": "196",
+                        "iso_name": "Cyprus"
                     },
                     "arcs": [
                         [
@@ -1098,7 +1135,8 @@
                         "name": "Czech Republic",
                         "iso_2": "CZ",
                         "iso_3": "CZE",
-                        "iso_3_digit": "203"
+                        "iso_3_digit": "203",
+                        "iso_name": "Czechia Republic"
                     },
                     "arcs": [
                         [
@@ -1118,7 +1156,8 @@
                         "name": "Germany",
                         "iso_2": "DE",
                         "iso_3": "DEU",
-                        "iso_3_digit": "276"
+                        "iso_3_digit": "276",
+                        "iso_name": "Germany"
                     },
                     "arcs": [
                         [
@@ -1145,7 +1184,8 @@
                         "name": "Djibouti",
                         "iso_2": "DJ",
                         "iso_3": "DJI",
-                        "iso_3_digit": "262"
+                        "iso_3_digit": "262",
+                        "iso_name": "Djibouti"
                     },
                     "arcs": [
                         [
@@ -1165,7 +1205,8 @@
                         "name": "Denmark",
                         "iso_2": "DK",
                         "iso_3": "DNK",
-                        "iso_3_digit": "208"
+                        "iso_3_digit": "208",
+                        "iso_name": "Denmark"
                     },
                     "arcs": [
                         [
@@ -1210,7 +1251,8 @@
                         "name": "Algeria",
                         "iso_2": "DZ",
                         "iso_3": "DZA",
-                        "iso_3_digit": "012"
+                        "iso_3_digit": "012",
+                        "iso_name": "Algeria"
                     },
                     "arcs": [
                         [
@@ -1234,7 +1276,8 @@
                         "name": "Ecuador",
                         "iso_2": "EC",
                         "iso_3": "ECU",
-                        "iso_3_digit": "218"
+                        "iso_3_digit": "218",
+                        "iso_name": "Ecuador"
                     },
                     "arcs": [
                         [
@@ -1253,7 +1296,8 @@
                         "name": "Egypt",
                         "iso_2": "EG",
                         "iso_3": "EGY",
-                        "iso_3_digit": "818"
+                        "iso_3_digit": "818",
+                        "iso_name": "Egypt"
                     },
                     "arcs": [
                         [
@@ -1272,7 +1316,8 @@
                         "name": "Eritrea",
                         "iso_2": "ER",
                         "iso_3": "ERI",
-                        "iso_3_digit": "232"
+                        "iso_3_digit": "232",
+                        "iso_name": "Eritrea"
                     },
                     "arcs": [
                         [
@@ -1296,7 +1341,8 @@
                         "name": "Spain",
                         "iso_2": "ES",
                         "iso_3": "ESP",
-                        "iso_3_digit": "724"
+                        "iso_3_digit": "724",
+                        "iso_name": "Spain"
                     },
                     "arcs": [
                         [
@@ -1316,7 +1362,8 @@
                         "name": "Estonia",
                         "iso_2": "EE",
                         "iso_3": "EST",
-                        "iso_3_digit": "233"
+                        "iso_3_digit": "233",
+                        "iso_name": "Estonia"
                     },
                     "arcs": [
                         [
@@ -1336,7 +1383,8 @@
                         "name": "Ethiopia",
                         "iso_2": "ET",
                         "iso_3": "ETH",
-                        "iso_3_digit": "231"
+                        "iso_3_digit": "231",
+                        "iso_name": "Ethiopia"
                     },
                     "arcs": [
                         [
@@ -1365,7 +1413,8 @@
                         "name": "Finland",
                         "iso_2": "FI",
                         "iso_3": "FIN",
-                        "iso_3_digit": "246"
+                        "iso_3_digit": "246",
+                        "iso_name": "Finland"
                     },
                     "arcs": [
                         [
@@ -1385,7 +1434,8 @@
                         "name": "Fiji",
                         "iso_2": "FJ",
                         "iso_3": "FJI",
-                        "iso_3_digit": "242"
+                        "iso_3_digit": "242",
+                        "iso_name": "Fiji"
                     },
                     "arcs": [
                         [
@@ -1414,7 +1464,8 @@
                         "name": "France",
                         "iso_2": "FR",
                         "iso_3": "FRA",
-                        "iso_3_digit": "250"
+                        "iso_3_digit": "250",
+                        "iso_name": "France"
                     },
                     "arcs": [
                         [
@@ -1462,7 +1513,8 @@
                         "name": "Gabon",
                         "iso_2": "GA",
                         "iso_3": "GAB",
-                        "iso_3_digit": "266"
+                        "iso_3_digit": "266",
+                        "iso_name": "Gabon"
                     },
                     "arcs": [
                         [
@@ -1482,7 +1534,8 @@
                         "name": "United Kingdom of Great Britain and Northern Ireland",
                         "iso_2": "GB",
                         "iso_3": "GBR",
-                        "iso_3_digit": "826"
+                        "iso_3_digit": "826",
+                        "iso_name": "United Kingdom"
                     },
                     "arcs": [
                         [
@@ -1507,7 +1560,8 @@
                         "name": "Georgia",
                         "iso_2": "GE",
                         "iso_3": "GEO",
-                        "iso_3_digit": "268"
+                        "iso_3_digit": "268",
+                        "iso_name": "Georgia"
                     },
                     "arcs": [
                         [
@@ -1531,7 +1585,8 @@
                         "name": "Ghana",
                         "iso_2": "GH",
                         "iso_3": "GHA",
-                        "iso_3_digit": "288"
+                        "iso_3_digit": "288",
+                        "iso_name": "Ghana"
                     },
                     "arcs": [
                         [
@@ -1551,7 +1606,8 @@
                         "name": "Guinea",
                         "iso_2": "GN",
                         "iso_3": "GIN",
-                        "iso_3_digit": "324"
+                        "iso_3_digit": "324",
+                        "iso_name": "Guinea"
                     },
                     "arcs": [
                         [
@@ -1589,7 +1645,8 @@
                         "name": "Guinea-Bissau",
                         "iso_2": "GW",
                         "iso_3": "GNB",
-                        "iso_3_digit": "624"
+                        "iso_3_digit": "624",
+                        "iso_name": "Guinea-Bissau"
                     },
                     "arcs": [
                         [
@@ -1608,7 +1665,8 @@
                         "name": "Equatorial Guinea",
                         "iso_2": "GQ",
                         "iso_3": "GNQ",
-                        "iso_3_digit": "226"
+                        "iso_3_digit": "226",
+                        "iso_name": "Equatorial Guinea"
                     },
                     "arcs": [
                         [
@@ -1627,7 +1685,8 @@
                         "name": "Greece",
                         "iso_2": "GR",
                         "iso_3": "GRC",
-                        "iso_3_digit": "300"
+                        "iso_3_digit": "300",
+                        "iso_name": "Greece"
                     },
                     "arcs": [
                         [
@@ -1655,7 +1714,8 @@
                         "name": "Guatemala",
                         "iso_2": "GT",
                         "iso_3": "GTM",
-                        "iso_3_digit": "320"
+                        "iso_3_digit": "320",
+                        "iso_name": "Guatemala"
                     },
                     "arcs": [
                         [
@@ -1677,7 +1737,8 @@
                         "name": "Guyana",
                         "iso_2": "GY",
                         "iso_3": "GUY",
-                        "iso_3_digit": "328"
+                        "iso_3_digit": "328",
+                        "iso_name": "Guyana"
                     },
                     "arcs": [
                         [
@@ -1697,7 +1758,8 @@
                         "name": "Honduras",
                         "iso_2": "HN",
                         "iso_3": "HND",
-                        "iso_3_digit": "340"
+                        "iso_3_digit": "340",
+                        "iso_name": "Honduras"
                     },
                     "arcs": [
                         [
@@ -1718,7 +1780,8 @@
                         "name": "Croatia",
                         "iso_2": "HR",
                         "iso_3": "HRV",
-                        "iso_3_digit": "191"
+                        "iso_3_digit": "191",
+                        "iso_name": "Croatia"
                     },
                     "arcs": [
                         [
@@ -1741,7 +1804,8 @@
                         "name": "Haiti",
                         "iso_2": "HT",
                         "iso_3": "HTI",
-                        "iso_3_digit": "332"
+                        "iso_3_digit": "332",
+                        "iso_name": "Haiti"
                     },
                     "arcs": [
                         [
@@ -1759,7 +1823,8 @@
                         "name": "Hungary",
                         "iso_2": "HU",
                         "iso_3": "HUN",
-                        "iso_3_digit": "348"
+                        "iso_3_digit": "348",
+                        "iso_name": "Hungary"
                     },
                     "arcs": [
                         [
@@ -1783,7 +1848,8 @@
                         "name": "Indonesia",
                         "iso_2": "ID",
                         "iso_3": "IDN",
-                        "iso_3_digit": "360"
+                        "iso_3_digit": "360",
+                        "iso_name": "Indonesia"
                     },
                     "arcs": [
                         [
@@ -1865,7 +1931,8 @@
                         "name": "India",
                         "iso_2": "IN",
                         "iso_3": "IND",
-                        "iso_3_digit": "356"
+                        "iso_3_digit": "356",
+                        "iso_name": "India"
                     },
                     "arcs": [
                         [
@@ -1890,7 +1957,8 @@
                         "name": "Ireland",
                         "iso_2": "IE",
                         "iso_3": "IRL",
-                        "iso_3_digit": "372"
+                        "iso_3_digit": "372",
+                        "iso_name": "Ireland"
                     },
                     "arcs": [
                         [
@@ -1908,7 +1976,8 @@
                         "name": "Iran (Islamic Republic of)",
                         "iso_2": "IR",
                         "iso_3": "IRN",
-                        "iso_3_digit": "364"
+                        "iso_3_digit": "364",
+                        "iso_name": "Iran, Islamic Republic of"
                     },
                     "arcs": [
                         [
@@ -1935,7 +2004,8 @@
                         "name": "Iraq",
                         "iso_2": "IQ",
                         "iso_3": "IRQ",
-                        "iso_3_digit": "368"
+                        "iso_3_digit": "368",
+                        "iso_name": "Iraq"
                     },
                     "arcs": [
                         [
@@ -1959,7 +2029,8 @@
                         "name": "Iceland",
                         "iso_2": "IS",
                         "iso_3": "ISL",
-                        "iso_3_digit": "352"
+                        "iso_3_digit": "352",
+                        "iso_name": "Iceland"
                     },
                     "arcs": [
                         [
@@ -1976,7 +2047,8 @@
                         "name": "Israel",
                         "iso_2": "IL",
                         "iso_3": "ISR",
-                        "iso_3_digit": "376"
+                        "iso_3_digit": "376",
+                        "iso_name": "Israel"
                     },
                     "arcs": [
                         [
@@ -1998,7 +2070,8 @@
                         "name": "Italy",
                         "iso_2": "IT",
                         "iso_3": "ITA",
-                        "iso_3_digit": "380"
+                        "iso_3_digit": "380",
+                        "iso_name": "Italy"
                     },
                     "arcs": [
                         [
@@ -2031,7 +2104,8 @@
                         "name": "Jamaica",
                         "iso_2": "JM",
                         "iso_3": "JAM",
-                        "iso_3_digit": "388"
+                        "iso_3_digit": "388",
+                        "iso_name": "Jamaica"
                     },
                     "arcs": [
                         [
@@ -2048,7 +2122,8 @@
                         "name": "Jordan",
                         "iso_2": "JO",
                         "iso_3": "JOR",
-                        "iso_3_digit": "400"
+                        "iso_3_digit": "400",
+                        "iso_name": "Jordan"
                     },
                     "arcs": [
                         [
@@ -2071,7 +2146,8 @@
                         "name": "Japan",
                         "iso_2": "JP",
                         "iso_3": "JPN",
-                        "iso_3_digit": "392"
+                        "iso_3_digit": "392",
+                        "iso_name": "Japan"
                     },
                     "arcs": [
                         [
@@ -2100,7 +2176,8 @@
                         "name": "Kazakhstan",
                         "iso_2": "KZ",
                         "iso_3": "KAZ",
-                        "iso_3_digit": "398"
+                        "iso_3_digit": "398",
+                        "iso_name": "Kazakhstan"
                     },
                     "arcs": [
                         [
@@ -2131,7 +2208,8 @@
                         "name": "Kenya",
                         "iso_2": "KE",
                         "iso_3": "KEN",
-                        "iso_3_digit": "404"
+                        "iso_3_digit": "404",
+                        "iso_name": "Kenya"
                     },
                     "arcs": [
                         [
@@ -2153,7 +2231,8 @@
                         "name": "Kyrgyzstan",
                         "iso_2": "KG",
                         "iso_3": "KGZ",
-                        "iso_3_digit": "417"
+                        "iso_3_digit": "417",
+                        "iso_name": "Kyrgyzstan"
                     },
                     "arcs": [
                         [
@@ -2173,7 +2252,8 @@
                         "name": "Cambodia",
                         "iso_2": "KH",
                         "iso_3": "KHM",
-                        "iso_3_digit": "116"
+                        "iso_3_digit": "116",
+                        "iso_name": "Cambodia"
                     },
                     "arcs": [
                         [
@@ -2193,7 +2273,8 @@
                         "name": "Republic of Korea",
                         "iso_2": "KR",
                         "iso_3": "KOR",
-                        "iso_3_digit": "410"
+                        "iso_3_digit": "410",
+                        "iso_name": "Korea, Republic of"
                     },
                     "arcs": [
                         [
@@ -2229,7 +2310,8 @@
                         "name": "Kuwait",
                         "iso_2": "KW",
                         "iso_3": "KWT",
-                        "iso_3_digit": "414"
+                        "iso_3_digit": "414",
+                        "iso_name": "Kuwait"
                     },
                     "arcs": [
                         [
@@ -2248,7 +2330,8 @@
                         "name": "Lao People's Democratic Republic",
                         "iso_2": "LA",
                         "iso_3": "LAO",
-                        "iso_3_digit": "418"
+                        "iso_3_digit": "418",
+                        "iso_name": "Lao People's Democratic Republic"
                     },
                     "arcs": [
                         [
@@ -2269,7 +2352,8 @@
                         "name": "Lebanon",
                         "iso_2": "LB",
                         "iso_3": "LBN",
-                        "iso_3_digit": "422"
+                        "iso_3_digit": "422",
+                        "iso_name": "Lebanon"
                     },
                     "arcs": [
                         [
@@ -2288,7 +2372,8 @@
                         "name": "Liberia",
                         "iso_2": "LR",
                         "iso_3": "LBR",
-                        "iso_3_digit": "430"
+                        "iso_3_digit": "430",
+                        "iso_name": "Liberia"
                     },
                     "arcs": [
                         [
@@ -2308,7 +2393,8 @@
                         "name": "Libya",
                         "iso_2": "LY",
                         "iso_3": "LBY",
-                        "iso_3_digit": "434"
+                        "iso_3_digit": "434",
+                        "iso_name": "Libya"
                     },
                     "arcs": [
                         [
@@ -2331,7 +2417,8 @@
                         "name": "Sri Lanka",
                         "iso_2": "LK",
                         "iso_3": "LKA",
-                        "iso_3_digit": "144"
+                        "iso_3_digit": "144",
+                        "iso_name": "Sri Lanka"
                     },
                     "arcs": [
                         [
@@ -2348,7 +2435,8 @@
                         "name": "Lesotho",
                         "iso_2": "LS",
                         "iso_3": "LSO",
-                        "iso_3_digit": "426"
+                        "iso_3_digit": "426",
+                        "iso_name": "Lesotho"
                     },
                     "arcs": [
                         [
@@ -2365,7 +2453,8 @@
                         "name": "Lithuania",
                         "iso_2": "LT",
                         "iso_3": "LTU",
-                        "iso_3_digit": "440"
+                        "iso_3_digit": "440",
+                        "iso_name": "Lithuania"
                     },
                     "arcs": [
                         [
@@ -2386,7 +2475,8 @@
                         "name": "Luxembourg",
                         "iso_2": "LU",
                         "iso_3": "LUX",
-                        "iso_3_digit": "442"
+                        "iso_3_digit": "442",
+                        "iso_name": "Luxembourg"
                     },
                     "arcs": [
                         [
@@ -2405,7 +2495,8 @@
                         "name": "Latvia",
                         "iso_2": "LV",
                         "iso_3": "LVA",
-                        "iso_3_digit": "428"
+                        "iso_3_digit": "428",
+                        "iso_name": "Latvia"
                     },
                     "arcs": [
                         [
@@ -2426,7 +2517,8 @@
                         "name": "Morocco",
                         "iso_2": "MA",
                         "iso_3": "MAR",
-                        "iso_3_digit": "504"
+                        "iso_3_digit": "504",
+                        "iso_name": "Morocco"
                     },
                     "arcs": [
                         [
@@ -2445,7 +2537,8 @@
                         "name": "Republic of Moldova",
                         "iso_2": "MD",
                         "iso_3": "MDA",
-                        "iso_3_digit": "498"
+                        "iso_3_digit": "498",
+                        "iso_name": "Moldova, Republic of"
                     },
                     "arcs": [
                         [
@@ -2463,7 +2556,8 @@
                         "name": "Madagascar",
                         "iso_2": "MG",
                         "iso_3": "MDG",
-                        "iso_3_digit": "450"
+                        "iso_3_digit": "450",
+                        "iso_name": "Madagascar"
                     },
                     "arcs": [
                         [
@@ -2480,7 +2574,8 @@
                         "name": "Mexico",
                         "iso_2": "MX",
                         "iso_3": "MEX",
-                        "iso_3_digit": "484"
+                        "iso_3_digit": "484",
+                        "iso_name": "Mexico"
                     },
                     "arcs": [
                         [
@@ -2501,7 +2596,8 @@
                         "name": "The former Yugoslav Republic of Macedonia",
                         "iso_2": "MK",
                         "iso_3": "MKD",
-                        "iso_3_digit": "807"
+                        "iso_3_digit": "807",
+                        "iso_name": "Macedonia, The Former Yugoslav Republic Of"
                     },
                     "arcs": [
                         [
@@ -2522,7 +2618,8 @@
                         "name": "Mali",
                         "iso_2": "ML",
                         "iso_3": "MLI",
-                        "iso_3_digit": "466"
+                        "iso_3_digit": "466",
+                        "iso_name": "Mali"
                     },
                     "arcs": [
                         [
@@ -2545,7 +2642,8 @@
                         "name": "Myanmar",
                         "iso_2": "MM",
                         "iso_3": "MMR",
-                        "iso_3_digit": "104"
+                        "iso_3_digit": "104",
+                        "iso_name": "Myanmar"
                     },
                     "arcs": [
                         [
@@ -2567,7 +2665,8 @@
                         "name": "Montenegro",
                         "iso_2": "ME",
                         "iso_3": "MNE",
-                        "iso_3_digit": "499"
+                        "iso_3_digit": "499",
+                        "iso_name": "Montenegro"
                     },
                     "arcs": [
                         [
@@ -2588,7 +2687,8 @@
                         "name": "Mongolia",
                         "iso_2": "MN",
                         "iso_3": "MNG",
-                        "iso_3_digit": "496"
+                        "iso_3_digit": "496",
+                        "iso_name": "Mongolia"
                     },
                     "arcs": [
                         [
@@ -2613,7 +2713,8 @@
                         "name": "Mozambique",
                         "iso_2": "MZ",
                         "iso_3": "MOZ",
-                        "iso_3_digit": "508"
+                        "iso_3_digit": "508",
+                        "iso_name": "Mozambique"
                     },
                     "arcs": [
                         [
@@ -2638,7 +2739,8 @@
                         "name": "Mauritania",
                         "iso_2": "MR",
                         "iso_3": "MRT",
-                        "iso_3_digit": "478"
+                        "iso_3_digit": "478",
+                        "iso_name": "Mauritania"
                     },
                     "arcs": [
                         [
@@ -2659,7 +2761,8 @@
                         "name": "Malawi",
                         "iso_2": "MW",
                         "iso_3": "MWI",
-                        "iso_3_digit": "454"
+                        "iso_3_digit": "454",
+                        "iso_name": "Malawi"
                     },
                     "arcs": [
                         [
@@ -2679,7 +2782,8 @@
                         "name": "Malaysia",
                         "iso_2": "MY",
                         "iso_3": "MYS",
-                        "iso_3_digit": "458"
+                        "iso_3_digit": "458",
+                        "iso_name": "Malaysia"
                     },
                     "arcs": [
                         [
@@ -2709,7 +2813,8 @@
                         "name": "Namibia",
                         "iso_2": "NA",
                         "iso_3": "NAM",
-                        "iso_3_digit": "516"
+                        "iso_3_digit": "516",
+                        "iso_name": "Namibia"
                     },
                     "arcs": [
                         [
@@ -2744,7 +2849,8 @@
                         "name": "Niger",
                         "iso_2": "NE",
                         "iso_3": "NER",
-                        "iso_3_digit": "562"
+                        "iso_3_digit": "562",
+                        "iso_name": "Niger"
                     },
                     "arcs": [
                         [
@@ -2772,7 +2878,8 @@
                         "name": "Nigeria",
                         "iso_2": "NG",
                         "iso_3": "NGA",
-                        "iso_3_digit": "566"
+                        "iso_3_digit": "566",
+                        "iso_name": "Nigeria"
                     },
                     "arcs": [
                         [
@@ -2792,7 +2899,8 @@
                         "name": "Nicaragua",
                         "iso_2": "NI",
                         "iso_3": "NIC",
-                        "iso_3_digit": "558"
+                        "iso_3_digit": "558",
+                        "iso_name": "Nicaragua"
                     },
                     "arcs": [
                         [
@@ -2812,7 +2920,8 @@
                         "name": "Netherlands",
                         "iso_2": "NL",
                         "iso_3": "NLD",
-                        "iso_3_digit": "528"
+                        "iso_3_digit": "528",
+                        "iso_name": "Netherlands"
                     },
                     "arcs": [
                         [
@@ -2831,7 +2940,8 @@
                         "name": "Norway",
                         "iso_2": "NO",
                         "iso_3": "NOR",
-                        "iso_3_digit": "578"
+                        "iso_3_digit": "578",
+                        "iso_name": "Norway"
                     },
                     "arcs": [
                         [
@@ -2867,7 +2977,8 @@
                         "name": "Nepal",
                         "iso_2": "NP",
                         "iso_3": "NPL",
-                        "iso_3_digit": "524"
+                        "iso_3_digit": "524",
+                        "iso_name": "Nepal"
                     },
                     "arcs": [
                         [
@@ -2885,7 +2996,8 @@
                         "name": "New Zealand",
                         "iso_2": "NZ",
                         "iso_3": "NZL",
-                        "iso_3_digit": "554"
+                        "iso_3_digit": "554",
+                        "iso_name": "New Zealand"
                     },
                     "arcs": [
                         [
@@ -2909,7 +3021,8 @@
                         "name": "Oman",
                         "iso_2": "OM",
                         "iso_3": "OMN",
-                        "iso_3_digit": "512"
+                        "iso_3_digit": "512",
+                        "iso_name": "Oman"
                     },
                     "arcs": [
                         [
@@ -2937,7 +3050,8 @@
                         "name": "Pakistan",
                         "iso_2": "PK",
                         "iso_3": "PAK",
-                        "iso_3_digit": "586"
+                        "iso_3_digit": "586",
+                        "iso_name": "Pakistan"
                     },
                     "arcs": [
                         [
@@ -2958,7 +3072,8 @@
                         "name": "Panama",
                         "iso_2": "PA",
                         "iso_3": "PAN",
-                        "iso_3_digit": "591"
+                        "iso_3_digit": "591",
+                        "iso_name": "Panama"
                     },
                     "arcs": [
                         [
@@ -2978,7 +3093,8 @@
                         "name": "Peru",
                         "iso_2": "PE",
                         "iso_3": "PER",
-                        "iso_3_digit": "604"
+                        "iso_3_digit": "604",
+                        "iso_name": "Peru"
                     },
                     "arcs": [
                         [
@@ -3000,7 +3116,8 @@
                         "name": "Philippines",
                         "iso_2": "PH",
                         "iso_3": "PHL",
-                        "iso_3_digit": "608"
+                        "iso_3_digit": "608",
+                        "iso_name": "Philippines"
                     },
                     "arcs": [
                         [
@@ -3049,7 +3166,8 @@
                         "name": "Papua New Guinea",
                         "iso_2": "PG",
                         "iso_3": "PNG",
-                        "iso_3_digit": "598"
+                        "iso_3_digit": "598",
+                        "iso_name": "Papua New Guinea"
                     },
                     "arcs": [
                         [
@@ -3084,7 +3202,8 @@
                         "name": "Poland",
                         "iso_2": "PL",
                         "iso_3": "POL",
-                        "iso_3_digit": "616"
+                        "iso_3_digit": "616",
+                        "iso_name": "Poland"
                     },
                     "arcs": [
                         [
@@ -3122,7 +3241,8 @@
                         "name": "Democratic People's Republic of Korea",
                         "iso_2": "KP",
                         "iso_3": "PRK",
-                        "iso_3_digit": "408"
+                        "iso_3_digit": "408",
+                        "iso_name": "Korea, Democratic People's Republic of"
                     },
                     "arcs": [
                         [
@@ -3142,7 +3262,8 @@
                         "name": "Portugal",
                         "iso_2": "PT",
                         "iso_3": "PRT",
-                        "iso_3_digit": "620"
+                        "iso_3_digit": "620",
+                        "iso_name": "Portugal"
                     },
                     "arcs": [
                         [
@@ -3160,7 +3281,8 @@
                         "name": "Paraguay",
                         "iso_2": "PY",
                         "iso_3": "PRY",
-                        "iso_3_digit": "600"
+                        "iso_3_digit": "600",
+                        "iso_name": "Paraguay"
                     },
                     "arcs": [
                         [
@@ -3179,7 +3301,8 @@
                         "name": "Qatar",
                         "iso_2": "QA",
                         "iso_3": "QAT",
-                        "iso_3_digit": "634"
+                        "iso_3_digit": "634",
+                        "iso_name": "Qatar"
                     },
                     "arcs": [
                         [
@@ -3197,7 +3320,8 @@
                         "name": "Romania",
                         "iso_2": "RO",
                         "iso_3": "ROU",
-                        "iso_3_digit": "642"
+                        "iso_3_digit": "642",
+                        "iso_name": "Romania"
                     },
                     "arcs": [
                         [
@@ -3220,7 +3344,8 @@
                         "name": "Russian Federation",
                         "iso_2": "RU",
                         "iso_3": "RUS",
-                        "iso_3_digit": "643"
+                        "iso_3_digit": "643",
+                        "iso_name": "Russian Federation"
                     },
                     "arcs": [
                         [
@@ -3356,7 +3481,8 @@
                         "name": "Rwanda",
                         "iso_2": "RW",
                         "iso_3": "RWA",
-                        "iso_3_digit": "646"
+                        "iso_3_digit": "646",
+                        "iso_name": "Rwanda"
                     },
                     "arcs": [
                         [
@@ -3377,7 +3503,8 @@
                         "name": "Western Sahara",
                         "iso_2": "EH",
                         "iso_3": "ESH",
-                        "iso_3_digit": "732"
+                        "iso_3_digit": "732",
+                        "iso_name": "Western Sahara"
                     },
                     "arcs": [
                         [
@@ -3397,7 +3524,8 @@
                         "name": "Saudi Arabia",
                         "iso_2": "SA",
                         "iso_3": "SAU",
-                        "iso_3_digit": "682"
+                        "iso_3_digit": "682",
+                        "iso_name": "Saudi Arabia"
                     },
                     "arcs": [
                         [
@@ -3423,7 +3551,8 @@
                         "name": "Sudan",
                         "iso_2": "SD",
                         "iso_3": "SDN",
-                        "iso_3_digit": "736"
+                        "iso_3_digit": "736",
+                        "iso_name": "Sudan"
                     },
                     "arcs": [
                         [
@@ -3450,7 +3579,8 @@
                         "name": "South Sudan",
                         "iso_2": "SS",
                         "iso_3": "SSD",
-                        "iso_3_digit": "728"
+                        "iso_3_digit": "728",
+                        "iso_name": "South Sudan"
                     },
                     "arcs": [
                         [
@@ -3475,7 +3605,8 @@
                         "name": "Senegal",
                         "iso_2": "SN",
                         "iso_3": "SEN",
-                        "iso_3_digit": "686"
+                        "iso_3_digit": "686",
+                        "iso_name": "Senegal"
                     },
                     "arcs": [
                         [
@@ -3498,7 +3629,8 @@
                         "name": "Solomon Islands",
                         "iso_2": "SB",
                         "iso_3": "SLB",
-                        "iso_3_digit": "090"
+                        "iso_3_digit": "090",
+                        "iso_name": "Solomon Islands"
                     },
                     "arcs": [
                         [
@@ -3537,7 +3669,8 @@
                         "name": "Sierra Leone",
                         "iso_2": "SL",
                         "iso_3": "SLE",
-                        "iso_3_digit": "694"
+                        "iso_3_digit": "694",
+                        "iso_name": "Sierra Leone"
                     },
                     "arcs": [
                         [
@@ -3556,7 +3689,8 @@
                         "name": "El Salvador",
                         "iso_2": "SV",
                         "iso_3": "SLV",
-                        "iso_3_digit": "222"
+                        "iso_3_digit": "222",
+                        "iso_name": "El Salvador"
                     },
                     "arcs": [
                         [
@@ -3575,7 +3709,8 @@
                         "name": "Somalia",
                         "iso_2": "SO",
                         "iso_3": "SOM",
-                        "iso_3_digit": "706"
+                        "iso_3_digit": "706",
+                        "iso_name": "Somalia"
                     },
                     "arcs": [
                         [
@@ -3598,7 +3733,8 @@
                         "name": "Republic of Serbia",
                         "iso_2": "RS",
                         "iso_3": "SRB",
-                        "iso_3_digit": "688"
+                        "iso_3_digit": "688",
+                        "iso_name": "Serbia"
                     },
                     "arcs": [
                         [
@@ -3624,7 +3760,8 @@
                         "name": "Suriname",
                         "iso_2": "SR",
                         "iso_3": "SUR",
-                        "iso_3_digit": "740"
+                        "iso_3_digit": "740",
+                        "iso_name": "Suriname"
                     },
                     "arcs": [
                         [
@@ -3645,7 +3782,8 @@
                         "name": "Slovakia",
                         "iso_2": "SK",
                         "iso_3": "SVK",
-                        "iso_3_digit": "703"
+                        "iso_3_digit": "703",
+                        "iso_name": "Slovakia"
                     },
                     "arcs": [
                         [
@@ -3666,7 +3804,8 @@
                         "name": "Slovenia",
                         "iso_2": "SI",
                         "iso_3": "SVN",
-                        "iso_3_digit": "705"
+                        "iso_3_digit": "705",
+                        "iso_name": "Slovenia"
                     },
                     "arcs": [
                         [
@@ -3687,7 +3826,8 @@
                         "name": "Sweden",
                         "iso_2": "SE",
                         "iso_3": "SWE",
-                        "iso_3_digit": "752"
+                        "iso_3_digit": "752",
+                        "iso_name": "Sweden"
                     },
                     "arcs": [
                         [
@@ -3706,7 +3846,8 @@
                         "name": "Swaziland",
                         "iso_2": "SZ",
                         "iso_3": "SWZ",
-                        "iso_3_digit": "748"
+                        "iso_3_digit": "748",
+                        "iso_name": "Swaziland"
                     },
                     "arcs": [
                         [
@@ -3724,7 +3865,8 @@
                         "name": "Syrian Arab Republic",
                         "iso_2": "SY",
                         "iso_3": "SYR",
-                        "iso_3_digit": "760"
+                        "iso_3_digit": "760",
+                        "iso_name": "Syrian Arab Republic"
                     },
                     "arcs": [
                         [
@@ -3746,7 +3888,8 @@
                         "name": "Chad",
                         "iso_2": "TD",
                         "iso_3": "TCD",
-                        "iso_3_digit": "148"
+                        "iso_3_digit": "148",
+                        "iso_name": "Chad"
                     },
                     "arcs": [
                         [
@@ -3772,7 +3915,8 @@
                         "name": "Togo",
                         "iso_2": "TG",
                         "iso_3": "TGO",
-                        "iso_3_digit": "768"
+                        "iso_3_digit": "768",
+                        "iso_name": "Togo"
                     },
                     "arcs": [
                         [
@@ -3792,7 +3936,8 @@
                         "name": "Thailand",
                         "iso_2": "TH",
                         "iso_3": "THA",
-                        "iso_3_digit": "764"
+                        "iso_3_digit": "764",
+                        "iso_name": "Thailand"
                     },
                     "arcs": [
                         [
@@ -3814,7 +3959,8 @@
                         "name": "Tajikistan",
                         "iso_2": "TJ",
                         "iso_3": "TJK",
-                        "iso_3_digit": "762"
+                        "iso_3_digit": "762",
+                        "iso_name": "Tajikistan"
                     },
                     "arcs": [
                         [
@@ -3834,7 +3980,8 @@
                         "name": "Turkmenistan",
                         "iso_2": "TM",
                         "iso_3": "TKM",
-                        "iso_3_digit": "795"
+                        "iso_3_digit": "795",
+                        "iso_name": "Turkmenistan"
                     },
                     "arcs": [
                         [
@@ -3855,7 +4002,8 @@
                         "name": "Timor-Leste",
                         "iso_2": "TL",
                         "iso_3": "TLS",
-                        "iso_3_digit": "626"
+                        "iso_3_digit": "626",
+                        "iso_name": "Timor-Leste"
                     },
                     "arcs": [
                         [
@@ -3873,7 +4021,8 @@
                         "name": "Trinidad and Tobago",
                         "iso_2": "TT",
                         "iso_3": "TTO",
-                        "iso_3_digit": "780"
+                        "iso_3_digit": "780",
+                        "iso_name": "Trinidad and Tobago"
                     },
                     "arcs": [
                         [
@@ -3890,7 +4039,8 @@
                         "name": "Tunisia",
                         "iso_2": "TN",
                         "iso_3": "TUN",
-                        "iso_3_digit": "788"
+                        "iso_3_digit": "788",
+                        "iso_name": "Tunisia"
                     },
                     "arcs": [
                         [
@@ -3909,7 +4059,8 @@
                         "name": "Turkey",
                         "iso_2": "TR",
                         "iso_3": "TUR",
-                        "iso_3_digit": "792"
+                        "iso_3_digit": "792",
+                        "iso_name": "Turkey"
                     },
                     "arcs": [
                         [
@@ -3941,7 +4092,8 @@
                         "name": "Taiwan",
                         "iso_2": "TW",
                         "iso_3": "TWN",
-                        "iso_3_digit": "158"
+                        "iso_3_digit": "158",
+                        "iso_name": "Taiwan, Province of China"
                     },
                     "arcs": [
                         [
@@ -3958,7 +4110,8 @@
                         "name": "United Republic of Tanzania",
                         "iso_2": "TZ",
                         "iso_3": "TZA",
-                        "iso_3_digit": "834"
+                        "iso_3_digit": "834",
+                        "iso_name": "Tanzania, United Republic of"
                     },
                     "arcs": [
                         [
@@ -3987,7 +4140,8 @@
                         "name": "Uganda",
                         "iso_2": "UG",
                         "iso_3": "UGA",
-                        "iso_3_digit": "800"
+                        "iso_3_digit": "800",
+                        "iso_name": "Uganda"
                     },
                     "arcs": [
                         [
@@ -4011,7 +4165,8 @@
                         "name": "Ukraine",
                         "iso_2": "UA",
                         "iso_3": "UKR",
-                        "iso_3_digit": "804"
+                        "iso_3_digit": "804",
+                        "iso_name": "Ukraine"
                     },
                     "arcs": [
                         [
@@ -4043,7 +4198,8 @@
                         "name": "Uruguay",
                         "iso_2": "UY",
                         "iso_3": "URY",
-                        "iso_3_digit": "858"
+                        "iso_3_digit": "858",
+                        "iso_name": "Uruguay"
                     },
                     "arcs": [
                         [
@@ -4062,7 +4218,8 @@
                         "name": "United States of America",
                         "iso_2": "US",
                         "iso_3": "USA",
-                        "iso_3_digit": "840"
+                        "iso_3_digit": "840",
+                        "iso_name": "United States of America"
                     },
                     "arcs": [
                         [
@@ -4132,7 +4289,8 @@
                         "name": "Uzbekistan",
                         "iso_2": "UZ",
                         "iso_3": "UZB",
-                        "iso_3_digit": "860"
+                        "iso_3_digit": "860",
+                        "iso_name": "Uzbekistan"
                     },
                     "arcs": [
                         [
@@ -4153,7 +4311,8 @@
                         "name": "Venezuela (Bolivarian Republic of)",
                         "iso_2": "VE",
                         "iso_3": "VEN",
-                        "iso_3_digit": "862"
+                        "iso_3_digit": "862",
+                        "iso_name": "Venezuela"
                     },
                     "arcs": [
                         [
@@ -4173,7 +4332,8 @@
                         "name": "Viet Nam",
                         "iso_2": "VN",
                         "iso_3": "VNM",
-                        "iso_3_digit": "704"
+                        "iso_3_digit": "704",
+                        "iso_name": "Vietnam"
                     },
                     "arcs": [
                         [
@@ -4193,7 +4353,8 @@
                         "name": "Vanuatu",
                         "iso_2": "VU",
                         "iso_3": "VUT",
-                        "iso_3_digit": "548"
+                        "iso_3_digit": "548",
+                        "iso_name": "Vanuatu"
                     },
                     "arcs": [
                         [
@@ -4217,7 +4378,8 @@
                         "name": "West Bank",
                         "iso_2": "PS",
                         "iso_3": "PSE",
-                        "iso_3_digit": "275"
+                        "iso_3_digit": "275",
+                        "iso_name": "Palestine"
                     },
                     "arcs": [
                         [
@@ -4235,7 +4397,8 @@
                         "name": "Yemen",
                         "iso_2": "YE",
                         "iso_3": "YEM",
-                        "iso_3_digit": "887"
+                        "iso_3_digit": "887",
+                        "iso_name": "Yemen"
                     },
                     "arcs": [
                         [
@@ -4254,7 +4417,8 @@
                         "name": "South Africa",
                         "iso_2": "ZA",
                         "iso_3": "ZAF",
-                        "iso_3_digit": "710"
+                        "iso_3_digit": "710",
+                        "iso_name": "South Africa"
                     },
                     "arcs": [
                         [
@@ -4280,7 +4444,8 @@
                         "name": "Zambia",
                         "iso_2": "ZM",
                         "iso_3": "ZMB",
-                        "iso_3_digit": "894"
+                        "iso_3_digit": "894",
+                        "iso_name": "Zambia"
                     },
                     "arcs": [
                         [
@@ -4305,7 +4470,8 @@
                         "name": "Zimbabwe",
                         "iso_2": "ZW",
                         "iso_3": "ZWE",
-                        "iso_3_digit": "716"
+                        "iso_3_digit": "716",
+                        "iso_name": "Zimbabwe"
                     },
                     "arcs": [
                         [
@@ -4325,7 +4491,8 @@
                         "name": "Cabo Verde",
                         "iso_2": "CV",
                         "iso_3": "CPV",
-                        "iso_3_digit": "132"
+                        "iso_3_digit": "132",
+                        "iso_name": "Cape Verde"
                     },
                     "arcs": [
                         [
@@ -4379,7 +4546,8 @@
                         "name": "Comoros",
                         "iso_2": "KM",
                         "iso_3": "COM",
-                        "iso_3_digit": "174"
+                        "iso_3_digit": "174",
+                        "iso_name": "Comoros"
                     },
                     "arcs": [
                         [
@@ -4408,7 +4576,8 @@
                         "name": "Mauritius",
                         "iso_2": "MU",
                         "iso_3": "MUS",
-                        "iso_3_digit": "480"
+                        "iso_3_digit": "480",
+                        "iso_name": "Mauritius"
                     },
                     "arcs": [
                         [
@@ -4425,7 +4594,8 @@
                         "name": "Seychelles",
                         "iso_2": "SC",
                         "iso_3": "SYC",
-                        "iso_3_digit": "690"
+                        "iso_3_digit": "690",
+                        "iso_name": "Seychelles"
                     },
                     "arcs": [
                         [
@@ -4442,7 +4612,8 @@
                         "name": "Bahrain",
                         "iso_2": "BH",
                         "iso_3": "BHR",
-                        "iso_3_digit": "048"
+                        "iso_3_digit": "048",
+                        "iso_name": "Bahrain"
                     },
                     "arcs": [
                         [
@@ -4459,7 +4630,8 @@
                         "name": "Maldives",
                         "iso_2": "MV",
                         "iso_3": "MDV",
-                        "iso_3_digit": "462"
+                        "iso_3_digit": "462",
+                        "iso_name": "Maldives"
                     },
                     "arcs": [
                         [
@@ -4483,7 +4655,8 @@
                         "name": "Marshall Islands",
                         "iso_2": "MH",
                         "iso_3": "MHL",
-                        "iso_3_digit": "584"
+                        "iso_3_digit": "584",
+                        "iso_name": "Marshall Islands"
                     },
                     "arcs": [
                         [
@@ -4507,7 +4680,8 @@
                         "name": "Micronesia (Federated States of)",
                         "iso_2": "FM",
                         "iso_3": "FSM",
-                        "iso_3_digit": "583"
+                        "iso_3_digit": "583",
+                        "iso_name": "Micronesia, Federated States of"
                     },
                     "arcs": [
                         [
@@ -4546,7 +4720,8 @@
                         "name": "Nauru",
                         "iso_2": "NR",
                         "iso_3": "NRU",
-                        "iso_3_digit": "420"
+                        "iso_3_digit": "420",
+                        "iso_name": "Nauru"
                     },
                     "arcs": [
                         [
@@ -4563,7 +4738,8 @@
                         "name": "Palau",
                         "iso_2": "PW",
                         "iso_3": "PLW",
-                        "iso_3_digit": "585"
+                        "iso_3_digit": "585",
+                        "iso_name": "Palau"
                     },
                     "arcs": [
                         [
@@ -4580,7 +4756,8 @@
                         "name": "Samoa",
                         "iso_2": "WS",
                         "iso_3": "WSM",
-                        "iso_3_digit": "882"
+                        "iso_3_digit": "882",
+                        "iso_name": "Samoa"
                     },
                     "arcs": [
                         [
@@ -4604,7 +4781,8 @@
                         "name": "Singapore",
                         "iso_2": "SG",
                         "iso_3": "SGP",
-                        "iso_3_digit": "702"
+                        "iso_3_digit": "702",
+                        "iso_name": "Singapore"
                     },
                     "arcs": [
                         [
@@ -4622,7 +4800,8 @@
                         "name": "Tonga",
                         "iso_2": "TO",
                         "iso_3": "TON",
-                        "iso_3_digit": "776"
+                        "iso_3_digit": "776",
+                        "iso_name": "Tonga"
                     },
                     "arcs": [
                         [
@@ -4651,7 +4830,8 @@
                         "name": "Tuvalu",
                         "iso_2": "TV",
                         "iso_3": "TUV",
-                        "iso_3_digit": "798"
+                        "iso_3_digit": "798",
+                        "iso_name": "Tuvalu"
                     },
                     "arcs": [
                         [
@@ -4700,7 +4880,8 @@
                         "name": "Antigua and Barbuda",
                         "iso_2": "AG",
                         "iso_3": "ATG",
-                        "iso_3_digit": "028"
+                        "iso_3_digit": "028",
+                        "iso_name": "Antigua and Barbuda"
                     },
                     "arcs": [
                         [
@@ -4724,7 +4905,8 @@
                         "name": "Barbados",
                         "iso_2": "BB",
                         "iso_3": "BRB",
-                        "iso_3_digit": "052"
+                        "iso_3_digit": "052",
+                        "iso_name": "Barbados"
                     },
                     "arcs": [
                         [
@@ -4741,7 +4923,8 @@
                         "name": "Dominica",
                         "iso_2": "DM",
                         "iso_3": "DMA",
-                        "iso_3_digit": "212"
+                        "iso_3_digit": "212",
+                        "iso_name": "Dominica"
                     },
                     "arcs": [
                         [
@@ -4758,7 +4941,8 @@
                         "name": "Grenada",
                         "iso_2": "GD",
                         "iso_3": "GRD",
-                        "iso_3_digit": "308"
+                        "iso_3_digit": "308",
+                        "iso_name": "Grenada"
                     },
                     "arcs": [
                         [
@@ -4775,7 +4959,8 @@
                         "name": "Saint Kitts and Nevis",
                         "iso_2": "KN",
                         "iso_3": "KNA",
-                        "iso_3_digit": "659"
+                        "iso_3_digit": "659",
+                        "iso_name": "Saint Kitts & Nevis"
                     },
                     "arcs": [
                         [
@@ -4799,7 +4984,8 @@
                         "name": "Saint Lucia",
                         "iso_2": "LC",
                         "iso_3": "LCA",
-                        "iso_3_digit": "662"
+                        "iso_3_digit": "662",
+                        "iso_name": "Saint Lucia"
                     },
                     "arcs": [
                         [
@@ -4816,7 +5002,8 @@
                         "name": "Saint Vincent and the Grenadines",
                         "iso_2": "VC",
                         "iso_3": "VCT",
-                        "iso_3_digit": "670"
+                        "iso_3_digit": "670",
+                        "iso_name": "Saint Vincent and the Grenadines"
                     },
                     "arcs": [
                         [
@@ -4833,7 +5020,8 @@
                         "name": "Andorra",
                         "iso_2": "AD",
                         "iso_3": "AND",
-                        "iso_3_digit": "020"
+                        "iso_3_digit": "020",
+                        "iso_name": "Andorra"
                     },
                     "arcs": [
                         [
@@ -4850,7 +5038,8 @@
                         "name": "Liechtenstein",
                         "iso_2": "LI",
                         "iso_3": "LIE",
-                        "iso_3_digit": "438"
+                        "iso_3_digit": "438",
+                        "iso_name": "Liechtenstein"
                     },
                     "arcs": [
                         [
@@ -4870,7 +5059,8 @@
                         "name": "Malta",
                         "iso_2": "MT",
                         "iso_3": "MLT",
-                        "iso_3_digit": "470"
+                        "iso_3_digit": "470",
+                        "iso_name": "Malta"
                     },
                     "arcs": [
                         [
@@ -4887,7 +5077,8 @@
                         "name": "Monaco",
                         "iso_2": "MC",
                         "iso_3": "MCO",
-                        "iso_3_digit": "492"
+                        "iso_3_digit": "492",
+                        "iso_name": "Monaco"
                     },
                     "arcs": [
                         [
@@ -4904,7 +5095,8 @@
                         "name": "San Marino",
                         "iso_2": "SM",
                         "iso_3": "SMR",
-                        "iso_3_digit": "674"
+                        "iso_3_digit": "674",
+                        "iso_name": "San Marino"
                     },
                     "arcs": [
                         [
@@ -4921,7 +5113,8 @@
                         "name": "Kiribati",
                         "iso_2": "KI",
                         "iso_3": "KIR",
-                        "iso_3_digit": "296"
+                        "iso_3_digit": "296",
+                        "iso_name": "Kiribati"
                     },
                     "arcs": [
                         [
@@ -4938,7 +5131,8 @@
                         "name": "Sao Tome and Principe",
                         "iso_2": "ST",
                         "iso_3": "STP",
-                        "iso_3_digit": "678"
+                        "iso_3_digit": "678",
+                        "iso_name": "Sao Tome and Principe"
                     },
                     "arcs": [
                         [
