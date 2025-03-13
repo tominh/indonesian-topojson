@@ -15,6 +15,11 @@
                             4
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ACEH BARAT",
+                        "latitude": 4.45,
+                        "longitude": 96.16667
+                    },
                     "id": "ID1107"
                 },
                 {
@@ -27,6 +32,11 @@
                             8
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ACEH BARAT DAYA",
+                        "latitude": 3.83333,
+                        "longitude": 96.88333
+                    },
                     "id": "ID1112"
                 },
                 {
@@ -52,6 +62,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ACEH BESAR",
+                        "latitude": 5.38333,
+                        "longitude": 95.51667
+                    },
                     "id": "ID1108"
                 },
                 {
@@ -64,6 +79,11 @@
                             -11
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ACEH JAYA",
+                        "latitude": 4.86,
+                        "longitude": 95.64
+                    },
                     "id": "ID1116"
                 },
                 {
@@ -78,6 +98,11 @@
                             22
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ACEH SELATAN",
+                        "latitude": 3.16667,
+                        "longitude": 97.41667
+                    },
                     "id": "ID1103"
                 },
                 {
@@ -103,6 +128,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ACEH SINGKIL",
+                        "latitude": 2.41667,
+                        "longitude": 97.91667
+                    },
                     "id": "ID1102"
                 },
                 {
@@ -116,6 +146,11 @@
                             33
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ACEH TAMIANG",
+                        "latitude": 4.25,
+                        "longitude": 97.96667
+                    },
                     "id": "ID1114"
                 },
                 {
@@ -131,6 +166,11 @@
                             39
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ACEH TENGAH",
+                        "latitude": 4.51,
+                        "longitude": 96.855
+                    },
                     "id": "ID1106"
                 },
                 {
@@ -145,6 +185,11 @@
                             44
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ACEH TENGGARA",
+                        "latitude": 3.36667,
+                        "longitude": 97.7
+                    },
                     "id": "ID1104"
                 },
                 {
@@ -174,6 +219,11 @@
                             54
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ACEH UTARA",
+                        "latitude": 4.97,
+                        "longitude": 97.14
+                    },
                     "id": "ID1111"
                 },
                 {
@@ -186,6 +236,11 @@
                             55
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BENER MERIAH",
+                        "latitude": 4.73015,
+                        "longitude": 96.86156
+                    },
                     "id": "ID1117"
                 },
                 {
@@ -200,6 +255,11 @@
                             58
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BIREUEN",
+                        "latitude": 5.08333,
+                        "longitude": 96.58333
+                    },
                     "id": "ID1110"
                 },
                 {
@@ -216,6 +276,11 @@
                             -37
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN GAYO LUES",
+                        "latitude": 3.95,
+                        "longitude": 97.39
+                    },
                     "id": "ID1113"
                 },
                 {
@@ -226,6 +291,11 @@
                             -13
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BANDA ACEH",
+                        "latitude": 5.54167,
+                        "longitude": 95.33333
+                    },
                     "id": "ID1171"
                 },
                 {
@@ -237,6 +307,11 @@
                             62
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA LANGSA",
+                        "latitude": 4.47,
+                        "longitude": 97.93
+                    },
                     "id": "ID1173"
                 },
                 {
@@ -247,6 +322,11 @@
                             63
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA LHOKSEUMAWE",
+                        "latitude": 5.13333,
+                        "longitude": 97.06667
+                    },
                     "id": "ID1174"
                 },
                 {
@@ -256,6 +336,11 @@
                             64
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SABANG",
+                        "latitude": 5.82164,
+                        "longitude": 95.31086
+                    },
                     "id": "ID1172"
                 },
                 {
@@ -269,6 +354,9 @@
                             -44
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID1175"
                 },
                 {
@@ -282,6 +370,11 @@
                             -38
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN NAGAN RAYA",
+                        "latitude": 4.16667,
+                        "longitude": 96.51667
+                    },
                     "id": "ID1115"
                 },
                 {
@@ -297,6 +390,11 @@
                             69
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PIDIE",
+                        "latitude": 5.08,
+                        "longitude": 96.11
+                    },
                     "id": "ID1109"
                 },
                 {
@@ -308,6 +406,9 @@
                             -69
                         ]
                     ],
+                    "properties": {
+
+                    },
                     "id": "ID1118"
                 },
                 {
@@ -324,6 +425,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SIMEULUE",
+                        "latitude": 2.61667,
+                        "longitude": 96.08333
+                    },
                     "id": "ID1101"
                 },
                 {
@@ -338,6 +444,11 @@
                             78
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BADUNG",
+                        "latitude": -8.51667,
+                        "longitude": 115.2
+                    },
                     "id": "ID5103"
                 },
                 {
@@ -351,6 +462,11 @@
                             82
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANGLI",
+                        "latitude": -8.28333,
+                        "longitude": 115.35
+                    },
                     "id": "ID5106"
                 },
                 {
@@ -365,6 +481,11 @@
                             86
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BULELENG",
+                        "latitude": -8.25,
+                        "longitude": 114.96667
+                    },
                     "id": "ID5108"
                 },
                 {
@@ -378,6 +499,11 @@
                             -82
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN GIANYAR",
+                        "latitude": -8.46667,
+                        "longitude": 115.28333
+                    },
                     "id": "ID5104"
                 },
                 {
@@ -389,6 +515,11 @@
                             91
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN JEMBRANA",
+                        "latitude": -8.3,
+                        "longitude": 114.66667
+                    },
                     "id": "ID5101"
                 },
                 {
@@ -401,6 +532,11 @@
                             93
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KARANG ASEM",
+                        "latitude": -8.3891,
+                        "longitude": 115.5393
+                    },
                     "id": "ID5107"
                 },
                 {
@@ -420,6 +556,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KLUNGKUNG",
+                        "latitude": -8.55,
+                        "longitude": 115.4
+                    },
                     "id": "ID5105"
                 },
                 {
@@ -431,6 +572,11 @@
                             -75
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA DENPASAR",
+                        "latitude": -8.66667,
+                        "longitude": 115.21663
+                    },
                     "id": "ID5171"
                 },
                 {
@@ -443,6 +589,11 @@
                             -77
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TABANAN",
+                        "latitude": -8.43333,
+                        "longitude": 115.06667
+                    },
                     "id": "ID5102"
                 },
                 {
@@ -453,6 +604,11 @@
                             99
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA CILEGON",
+                        "latitude": -6.01667,
+                        "longitude": 106.01667
+                    },
                     "id": "ID3672"
                 },
                 {
@@ -463,6 +619,9 @@
                             101
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID3673"
                 },
                 {
@@ -475,6 +634,11 @@
                             105
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA TANGERANG",
+                        "latitude": -6.17944,
+                        "longitude": 106.62991
+                    },
                     "id": "ID3671"
                 },
                 {
@@ -488,6 +652,9 @@
                             -105
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID3674"
                 },
                 {
@@ -502,6 +669,11 @@
                             115
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LEBAK",
+                        "latitude": -6.65,
+                        "longitude": 106.21667
+                    },
                     "id": "ID3602"
                 },
                 {
@@ -520,6 +692,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PANDEGLANG",
+                        "latitude": -6.63333,
+                        "longitude": 105.75
+                    },
                     "id": "ID3601"
                 },
                 {
@@ -536,6 +713,11 @@
                             122
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SERANG",
+                        "latitude": -6.15,
+                        "longitude": 106
+                    },
                     "id": "ID3604"
                 },
                 {
@@ -552,6 +734,11 @@
                             126
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TANGERANG",
+                        "latitude": -6.2,
+                        "longitude": 106.46667
+                    },
                     "id": "ID3603"
                 },
                 {
@@ -565,6 +752,11 @@
                             131
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BENGKULU SELATAN",
+                        "latitude": -4.35,
+                        "longitude": 103.03333
+                    },
                     "id": "ID1701"
                 },
                 {
@@ -579,6 +771,11 @@
                             137
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BENGKULU TENGAH",
+                        "latitude": -3.20679,
+                        "longitude": 102.12616
+                    },
                     "id": "ID1709"
                 },
                 {
@@ -600,6 +797,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BENGKULU UTARA",
+                        "latitude": -3.33333,
+                        "longitude": 102.05
+                    },
                     "id": "ID1703"
                 },
                 {
@@ -614,6 +816,11 @@
                             148
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KAUR",
+                        "latitude": -4.78179,
+                        "longitude": 103.36109
+                    },
                     "id": "ID1704"
                 },
                 {
@@ -626,6 +833,11 @@
                             151
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEPAHIANG",
+                        "latitude": -3.60194,
+                        "longitude": 102.56424
+                    },
                     "id": "ID1708"
                 },
                 {
@@ -637,6 +849,9 @@
                             -134
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID1771"
                 },
                 {
@@ -650,6 +865,11 @@
                             157
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LEBONG",
+                        "latitude": -3.24278,
+                        "longitude": 102.3349
+                    },
                     "id": "ID1707"
                 },
                 {
@@ -663,6 +883,11 @@
                             161
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MUKOMUKO",
+                        "latitude": -3.07438,
+                        "longitude": 101.54766
+                    },
                     "id": "ID1706"
                 },
                 {
@@ -679,6 +904,11 @@
                             -152
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN REJANG LEBONG",
+                        "latitude": -3.43333,
+                        "longitude": 102.71667
+                    },
                     "id": "ID1702"
                 },
                 {
@@ -694,6 +924,11 @@
                             168
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SELUMA",
+                        "latitude": -3.96644,
+                        "longitude": 102.47429
+                    },
                     "id": "ID1705"
                 },
                 {
@@ -708,6 +943,11 @@
                             174
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANTUL",
+                        "latitude": -7.9,
+                        "longitude": 110.36667
+                    },
                     "id": "ID3402"
                 },
                 {
@@ -722,6 +962,11 @@
                             179
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN GUNUNG KIDUL",
+                        "latitude": -7.98333,
+                        "longitude": 110.61667
+                    },
                     "id": "ID3403"
                 },
                 {
@@ -732,6 +977,11 @@
                             180
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA YOGYAKARTA",
+                        "latitude": -7.8,
+                        "longitude": 110.375
+                    },
                     "id": "ID3471"
                 },
                 {
@@ -745,6 +995,11 @@
                             184
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KULON PROGO",
+                        "latitude": -7.645,
+                        "longitude": 110.02694
+                    },
                     "id": "ID3401"
                 },
                 {
@@ -760,10 +1015,20 @@
                             186
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SLEMAN",
+                        "latitude": -7.68167,
+                        "longitude": 110.32333
+                    },
                     "id": "ID3404"
                 },
                 {
                     "type": null,
+                    "properties": {
+                        "name": "KABUPATEN KEPULAUAN SERIBU",
+                        "latitude": -5.5985,
+                        "longitude": 106.55271
+                    },
                     "id": "ID3101"
                 },
                 {
@@ -777,6 +1042,11 @@
                             -125
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA JAKARTA BARAT",
+                        "latitude": -6.1676,
+                        "longitude": 106.7673
+                    },
                     "id": "ID3174"
                 },
                 {
@@ -789,6 +1059,11 @@
                             192
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA JAKARTA PUSAT",
+                        "latitude": -6.1777,
+                        "longitude": 106.8403
+                    },
                     "id": "ID3173"
                 },
                 {
@@ -803,6 +1078,11 @@
                             -192
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA JAKARTA SELATAN",
+                        "latitude": -6.266,
+                        "longitude": 106.8135
+                    },
                     "id": "ID3171"
                 },
                 {
@@ -817,6 +1097,11 @@
                             198
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA JAKARTA TIMUR",
+                        "latitude": -6.2521,
+                        "longitude": 106.884
+                    },
                     "id": "ID3172"
                 },
                 {
@@ -831,6 +1116,11 @@
                             200
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA JAKARTA UTARA",
+                        "latitude": -6.1339,
+                        "longitude": 106.8823
+                    },
                     "id": "ID3175"
                 },
                 {
@@ -843,6 +1133,11 @@
                             204
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BOALEMO",
+                        "latitude": 0.62689,
+                        "longitude": 122.3568
+                    },
                     "id": "ID7501"
                 },
                 {
@@ -857,6 +1152,11 @@
                             210
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BONE BOLANGO",
+                        "latitude": 0.50296,
+                        "longitude": 123.27501
+                    },
                     "id": "ID7504"
                 },
                 {
@@ -870,6 +1170,11 @@
                             213
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN GORONTALO",
+                        "latitude": 0.5728,
+                        "longitude": 122.2337
+                    },
                     "id": "ID7502"
                 },
                 {
@@ -885,6 +1190,9 @@
                             217
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID7505"
                 },
                 {
@@ -896,6 +1204,11 @@
                             -209
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA GORONTALO",
+                        "latitude": 0.53333,
+                        "longitude": 123.1
+                    },
                     "id": "ID7571"
                 },
                 {
@@ -909,6 +1222,11 @@
                             221
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN POHUWATO",
+                        "latitude": 0.7098,
+                        "longitude": 121.59582
+                    },
                     "id": "ID7503"
                 },
                 {
@@ -922,6 +1240,11 @@
                             226
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BATANG HARI",
+                        "latitude": -1.75,
+                        "longitude": 103.11667
+                    },
                     "id": "ID1504"
                 },
                 {
@@ -934,6 +1257,11 @@
                             230
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BUNGO",
+                        "latitude": -1.50222,
+                        "longitude": 101.96
+                    },
                     "id": "ID1509"
                 },
                 {
@@ -950,6 +1278,11 @@
                             236
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KERINCI",
+                        "latitude": -2.03333,
+                        "longitude": 101.53333
+                    },
                     "id": "ID1501"
                 },
                 {
@@ -959,6 +1292,11 @@
                             237
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA JAMBI",
+                        "latitude": -1.61667,
+                        "longitude": 103.65
+                    },
                     "id": "ID1571"
                 },
                 {
@@ -969,6 +1307,9 @@
                             -234
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID1572"
                 },
                 {
@@ -985,6 +1326,11 @@
                             241
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MERANGIN",
+                        "latitude": -2.06933,
+                        "longitude": 102.13303
+                    },
                     "id": "ID1502"
                 },
                 {
@@ -1001,6 +1347,11 @@
                             -238
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MUARO JAMBI",
+                        "latitude": -1.55214,
+                        "longitude": 103.82163
+                    },
                     "id": "ID1505"
                 },
                 {
@@ -1014,6 +1365,11 @@
                             -224
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SAROLANGUN",
+                        "latitude": -2.3,
+                        "longitude": 102.65
+                    },
                     "id": "ID1503"
                 },
                 {
@@ -1028,6 +1384,11 @@
                             252
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TANJUNG JABUNG BARAT",
+                        "latitude": -1.1544,
+                        "longitude": 103.24402
+                    },
                     "id": "ID1507"
                 },
                 {
@@ -1040,6 +1401,11 @@
                             254
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TANJUNG JABUNG TIMUR",
+                        "latitude": -1.13198,
+                        "longitude": 103.61755
+                    },
                     "id": "ID1506"
                 },
                 {
@@ -1057,6 +1423,11 @@
                             258
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TEBO",
+                        "latitude": -1.45576,
+                        "longitude": 102.37473
+                    },
                     "id": "ID1508"
                 },
                 {
@@ -1073,6 +1444,11 @@
                             266
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANDUNG",
+                        "latitude": -7.1,
+                        "longitude": 107.6
+                    },
                     "id": "ID3204"
                 },
                 {
@@ -1089,6 +1465,9 @@
                             272
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID3217"
                 },
                 {
@@ -1103,6 +1482,11 @@
                             276
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BEKASI",
+                        "latitude": -6.24667,
+                        "longitude": 107.10833
+                    },
                     "id": "ID3216"
                 },
                 {
@@ -1124,6 +1508,11 @@
                             283
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BOGOR",
+                        "latitude": -6.58333,
+                        "longitude": 106.71667
+                    },
                     "id": "ID3201"
                 },
                 {
@@ -1141,6 +1530,11 @@
                             292
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN CIAMIS",
+                        "latitude": -7.28333,
+                        "longitude": 108.41667
+                    },
                     "id": "ID3207"
                 },
                 {
@@ -1157,6 +1551,11 @@
                             297
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN CIANJUR",
+                        "latitude": -6.7725,
+                        "longitude": 107.08306
+                    },
                     "id": "ID3203"
                 },
                 {
@@ -1172,6 +1571,11 @@
                             304
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN CIREBON",
+                        "latitude": -6.8,
+                        "longitude": 108.56667
+                    },
                     "id": "ID3209"
                 },
                 {
@@ -1185,6 +1589,11 @@
                             307
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN GARUT",
+                        "latitude": -7.38333,
+                        "longitude": 107.76667
+                    },
                     "id": "ID3205"
                 },
                 {
@@ -1198,6 +1607,11 @@
                             311
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN INDRAMAYU",
+                        "latitude": -6.45,
+                        "longitude": 108.16667
+                    },
                     "id": "ID3212"
                 },
                 {
@@ -1211,6 +1625,11 @@
                             314
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KARAWANG",
+                        "latitude": -6.26667,
+                        "longitude": 107.41667
+                    },
                     "id": "ID3215"
                 },
                 {
@@ -1222,6 +1641,11 @@
                             -269
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BANDUNG",
+                        "latitude": -6.9175,
+                        "longitude": 107.62444
+                    },
                     "id": "ID3273"
                 },
                 {
@@ -1232,6 +1656,11 @@
                             -287
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BANJAR",
+                        "latitude": -7.36996,
+                        "longitude": 108.53209
+                    },
                     "id": "ID3279"
                 },
                 {
@@ -1244,6 +1673,11 @@
                             -276
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BEKASI",
+                        "latitude": -6.28333,
+                        "longitude": 106.98333
+                    },
                     "id": "ID3275"
                 },
                 {
@@ -1253,6 +1687,11 @@
                             -284
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BOGOR",
+                        "latitude": -6.59167,
+                        "longitude": 106.8
+                    },
                     "id": "ID3271"
                 },
                 {
@@ -1264,6 +1703,11 @@
                             -270
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA CIMAHI",
+                        "latitude": -6.89167,
+                        "longitude": 107.55
+                    },
                     "id": "ID3277"
                 },
                 {
@@ -1274,6 +1718,11 @@
                             318
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA CIREBON",
+                        "latitude": -6.75,
+                        "longitude": 108.55
+                    },
                     "id": "ID3274"
                 },
                 {
@@ -1287,6 +1736,11 @@
                             -195
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA DEPOK",
+                        "latitude": -6.4,
+                        "longitude": 106.81667
+                    },
                     "id": "ID3276"
                 },
                 {
@@ -1296,6 +1750,11 @@
                             319
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SUKABUMI",
+                        "latitude": -6.95,
+                        "longitude": 106.93333
+                    },
                     "id": "ID3272"
                 },
                 {
@@ -1306,6 +1765,11 @@
                             -291
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA TASIKMALAYA",
+                        "latitude": -7.35,
+                        "longitude": 108.21667
+                    },
                     "id": "ID3278"
                 },
                 {
@@ -1319,6 +1783,11 @@
                             -303
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KUNINGAN",
+                        "latitude": -7,
+                        "longitude": 108.55
+                    },
                     "id": "ID3208"
                 },
                 {
@@ -1333,6 +1802,11 @@
                             -309
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MAJALENGKA",
+                        "latitude": -6.81667,
+                        "longitude": 108.28333
+                    },
                     "id": "ID3210"
                 },
                 {
@@ -1345,6 +1819,9 @@
                             -289
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID3218"
                 },
                 {
@@ -1359,6 +1836,11 @@
                             -314
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PURWAKARTA",
+                        "latitude": -6.58333,
+                        "longitude": 107.45
+                    },
                     "id": "ID3214"
                 },
                 {
@@ -1374,6 +1856,11 @@
                             332
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SUBANG",
+                        "latitude": -6.50833,
+                        "longitude": 107.7025
+                    },
                     "id": "ID3213"
                 },
                 {
@@ -1389,6 +1876,11 @@
                             -320
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SUKABUMI",
+                        "latitude": -7.06667,
+                        "longitude": 106.7
+                    },
                     "id": "ID3202"
                 },
                 {
@@ -1403,6 +1895,11 @@
                             -310
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SUMEDANG",
+                        "latitude": -6.81667,
+                        "longitude": 107.98333
+                    },
                     "id": "ID3211"
                 },
                 {
@@ -1419,6 +1916,11 @@
                             -325
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TASIKMALAYA",
+                        "latitude": -7.5,
+                        "longitude": 108.13333
+                    },
                     "id": "ID3206"
                 },
                 {
@@ -1430,6 +1932,9 @@
                             -331
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID3288"
                 },
                 {
@@ -1444,6 +1949,11 @@
                             341
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANJARNEGARA",
+                        "latitude": -7.35111,
+                        "longitude": 109.5875
+                    },
                     "id": "ID3304"
                 },
                 {
@@ -1459,6 +1969,11 @@
                             347
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANYUMAS",
+                        "latitude": -7.45,
+                        "longitude": 109.16667
+                    },
                     "id": "ID3302"
                 },
                 {
@@ -1473,6 +1988,11 @@
                             352
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BATANG",
+                        "latitude": -7.03333,
+                        "longitude": 109.88333
+                    },
                     "id": "ID3325"
                 },
                 {
@@ -1487,6 +2007,11 @@
                             358
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BLORA",
+                        "latitude": -7.06667,
+                        "longitude": 111.38333
+                    },
                     "id": "ID3316"
                 },
                 {
@@ -1505,6 +2030,11 @@
                             368
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BOYOLALI",
+                        "latitude": -7.5,
+                        "longitude": 110.7
+                    },
                     "id": "ID3309"
                 },
                 {
@@ -1520,6 +2050,11 @@
                             372
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BREBES",
+                        "latitude": -7.05,
+                        "longitude": 108.9
+                    },
                     "id": "ID3329"
                 },
                 {
@@ -1537,6 +2072,11 @@
                             -323
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN CILACAP",
+                        "latitude": -7.57417,
+                        "longitude": 108.98861
+                    },
                     "id": "ID3301"
                 },
                 {
@@ -1551,6 +2091,11 @@
                             380
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN DEMAK",
+                        "latitude": -6.8993,
+                        "longitude": 110.6122
+                    },
                     "id": "ID3321"
                 },
                 {
@@ -1568,6 +2113,11 @@
                             386
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN GROBOGAN",
+                        "latitude": -7.11667,
+                        "longitude": 110.91667
+                    },
                     "id": "ID3315"
                 },
                 {
@@ -1578,6 +2128,9 @@
                             388
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID3399"
                 },
                 {
@@ -1597,6 +2150,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN JEPARA",
+                        "latitude": -6.58333,
+                        "longitude": 110.76667
+                    },
                     "id": "ID3320"
                 },
                 {
@@ -1625,6 +2183,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KARANGANYAR",
+                        "latitude": -7.62806,
+                        "longitude": 111.0625
+                    },
                     "id": "ID3313"
                 },
                 {
@@ -1639,6 +2202,11 @@
                             405
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEBUMEN",
+                        "latitude": -7.63917,
+                        "longitude": 109.66056
+                    },
                     "id": "ID3305"
                 },
                 {
@@ -1655,6 +2223,11 @@
                             411
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KENDAL",
+                        "latitude": -7.0256,
+                        "longitude": 110.1685
+                    },
                     "id": "ID3324"
                 },
                 {
@@ -1667,6 +2240,11 @@
                             -366
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KLATEN",
+                        "latitude": -7.68333,
+                        "longitude": 110.61667
+                    },
                     "id": "ID3310"
                 },
                 {
@@ -1676,6 +2254,11 @@
                             413
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA MAGELANG",
+                        "latitude": -7.5,
+                        "longitude": 110.225
+                    },
                     "id": "ID3371"
                 },
                 {
@@ -1687,6 +2270,11 @@
                             415
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PEKALONGAN",
+                        "latitude": -6.9,
+                        "longitude": 109.68333
+                    },
                     "id": "ID3375"
                 },
                 {
@@ -1696,6 +2284,11 @@
                             416
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SALATIGA",
+                        "latitude": -7.33278,
+                        "longitude": 110.48333
+                    },
                     "id": "ID3373"
                 },
                 {
@@ -1708,6 +2301,11 @@
                             418
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SEMARANG",
+                        "latitude": -7.03333,
+                        "longitude": 110.38333
+                    },
                     "id": "ID3374"
                 },
                 {
@@ -1720,6 +2318,11 @@
                             -395
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SURAKARTA",
+                        "latitude": -7.55,
+                        "longitude": 110.81667
+                    },
                     "id": "ID3372"
                 },
                 {
@@ -1731,6 +2334,11 @@
                             421
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA TEGAL",
+                        "latitude": -6.8686,
+                        "longitude": 109.1129
+                    },
                     "id": "ID3376"
                 },
                 {
@@ -1743,6 +2351,11 @@
                             -391
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KUDUS",
+                        "latitude": -6.8,
+                        "longitude": 110.86667
+                    },
                     "id": "ID3319"
                 },
                 {
@@ -1761,6 +2374,11 @@
                             -414
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MAGELANG",
+                        "latitude": -7.4275,
+                        "longitude": 110.16194
+                    },
                     "id": "ID3308"
                 },
                 {
@@ -1775,6 +2393,11 @@
                             428
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PATI",
+                        "latitude": -6.76667,
+                        "longitude": 111.1
+                    },
                     "id": "ID3318"
                 },
                 {
@@ -1789,6 +2412,11 @@
                             431
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PEKALONGAN",
+                        "latitude": -7.0319,
+                        "longitude": 109.624
+                    },
                     "id": "ID3326"
                 },
                 {
@@ -1802,6 +2430,11 @@
                             434
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PEMALANG",
+                        "latitude": -7.03333,
+                        "longitude": 109.4
+                    },
                     "id": "ID3327"
                 },
                 {
@@ -1814,6 +2447,11 @@
                             -433
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PURBALINGGA",
+                        "latitude": -7.28417,
+                        "longitude": 109.35028
+                    },
                     "id": "ID3303"
                 },
                 {
@@ -1827,6 +2465,11 @@
                             436
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PURWOREJO",
+                        "latitude": -7.7,
+                        "longitude": 109.96667
+                    },
                     "id": "ID3306"
                 },
                 {
@@ -1839,6 +2482,11 @@
                             438
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN REMBANG",
+                        "latitude": -6.78333,
+                        "longitude": 111.46667
+                    },
                     "id": "ID3317"
                 },
                 {
@@ -1859,6 +2507,11 @@
                             -417
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SEMARANG",
+                        "latitude": -7.20667,
+                        "longitude": 110.44139
+                    },
                     "id": "ID3322"
                 },
                 {
@@ -1876,6 +2529,11 @@
                             -383
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SRAGEN",
+                        "latitude": -7.41278,
+                        "longitude": 110.935
+                    },
                     "id": "ID3314"
                 },
                 {
@@ -1891,6 +2549,11 @@
                             -394
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SUKOHARJO",
+                        "latitude": -7.68333,
+                        "longitude": 110.83333
+                    },
                     "id": "ID3311"
                 },
                 {
@@ -1904,6 +2567,11 @@
                             -422
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TEGAL",
+                        "latitude": -7.03333,
+                        "longitude": 109.16667
+                    },
                     "id": "ID3328"
                 },
                 {
@@ -1916,6 +2584,11 @@
                             -410
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TEMANGGUNG",
+                        "latitude": -7.25,
+                        "longitude": 110.11667
+                    },
                     "id": "ID3323"
                 },
                 {
@@ -1927,6 +2600,9 @@
                             -360
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID3388"
                 },
                 {
@@ -1942,6 +2618,11 @@
                             448
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN WONOGIRI",
+                        "latitude": -7.91667,
+                        "longitude": 111
+                    },
                     "id": "ID3312"
                 },
                 {
@@ -1957,6 +2638,11 @@
                             -437
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN WONOSOBO",
+                        "latitude": -7.36139,
+                        "longitude": 109.92667
+                    },
                     "id": "ID3307"
                 },
                 {
@@ -1967,6 +2653,11 @@
                             450
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANGKALAN",
+                        "latitude": -7.05,
+                        "longitude": 112.93333
+                    },
                     "id": "ID3526"
                 },
                 {
@@ -1979,6 +2670,11 @@
                             454
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANYUWANGI",
+                        "latitude": -8.33333,
+                        "longitude": 114.2
+                    },
                     "id": "ID3510"
                 },
                 {
@@ -1994,6 +2690,11 @@
                             459
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BLITAR",
+                        "latitude": -8.13333,
+                        "longitude": 112.25
+                    },
                     "id": "ID3505"
                 },
                 {
@@ -2009,6 +2710,11 @@
                             465
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BOJONEGORO",
+                        "latitude": -7.25,
+                        "longitude": 111.8
+                    },
                     "id": "ID3522"
                 },
                 {
@@ -2021,6 +2727,11 @@
                             468
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BONDOWOSO",
+                        "latitude": -7.9404,
+                        "longitude": 113.9834
+                    },
                     "id": "ID3511"
                 },
                 {
@@ -2041,6 +2752,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN GRESIK",
+                        "latitude": -7.1933,
+                        "longitude": 112.553
+                    },
                     "id": "ID3525"
                 },
                 {
@@ -2061,6 +2777,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN JEMBER",
+                        "latitude": -8.25,
+                        "longitude": 113.65
+                    },
                     "id": "ID3509"
                 },
                 {
@@ -2075,6 +2796,11 @@
                             483
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN JOMBANG",
+                        "latitude": -7.55,
+                        "longitude": 112.25
+                    },
                     "id": "ID3517"
                 },
                 {
@@ -2091,6 +2817,11 @@
                             487
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEDIRI",
+                        "latitude": -7.83333,
+                        "longitude": 112.16667
+                    },
                     "id": "ID3506"
                 },
                 {
@@ -2102,6 +2833,11 @@
                             490
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BATU",
+                        "latitude": -7.83272,
+                        "longitude": 112.53751
+                    },
                     "id": "ID3579"
                 },
                 {
@@ -2111,6 +2847,11 @@
                             -460
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BLITAR",
+                        "latitude": -8.1,
+                        "longitude": 112.16667
+                    },
                     "id": "ID3572"
                 },
                 {
@@ -2120,6 +2861,11 @@
                             -488
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA KEDIRI",
+                        "latitude": -7.83333,
+                        "longitude": 112.01667
+                    },
                     "id": "ID3571"
                 },
                 {
@@ -2130,6 +2876,11 @@
                             492
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA MADIUN",
+                        "latitude": -7.63333,
+                        "longitude": 111.53333
+                    },
                     "id": "ID3577"
                 },
                 {
@@ -2139,6 +2890,11 @@
                             493
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA MALANG",
+                        "latitude": -7.975,
+                        "longitude": 112.63333
+                    },
                     "id": "ID3573"
                 },
                 {
@@ -2148,6 +2904,11 @@
                             494
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA MOJOKERTO",
+                        "latitude": -7.46667,
+                        "longitude": 112.43333
+                    },
                     "id": "ID3576"
                 },
                 {
@@ -2158,6 +2919,11 @@
                             496
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PASURUAN",
+                        "latitude": -7.65,
+                        "longitude": 112.9
+                    },
                     "id": "ID3575"
                 },
                 {
@@ -2168,6 +2934,11 @@
                             498
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PROBOLINGGO",
+                        "latitude": -7.78333,
+                        "longitude": 113.21667
+                    },
                     "id": "ID3574"
                 },
                 {
@@ -2179,6 +2950,11 @@
                             500
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SURABAYA",
+                        "latitude": -7.26667,
+                        "longitude": 112.71667
+                    },
                     "id": "ID3578"
                 },
                 {
@@ -2193,6 +2969,11 @@
                             503
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LAMONGAN",
+                        "latitude": -7.13333,
+                        "longitude": 112.31667
+                    },
                     "id": "ID3524"
                 },
                 {
@@ -2205,6 +2986,11 @@
                             506
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LUMAJANG",
+                        "latitude": -8.11667,
+                        "longitude": 113.15
+                    },
                     "id": "ID3508"
                 },
                 {
@@ -2220,6 +3006,11 @@
                             -464
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MADIUN",
+                        "latitude": -7.61667,
+                        "longitude": 111.65
+                    },
                     "id": "ID3519"
                 },
                 {
@@ -2235,6 +3026,11 @@
                             513
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MAGETAN",
+                        "latitude": -7.64472,
+                        "longitude": 111.35917
+                    },
                     "id": "ID3520"
                 },
                 {
@@ -2255,6 +3051,11 @@
                             -494
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MALANG",
+                        "latitude": -8.16667,
+                        "longitude": 112.66667
+                    },
                     "id": "ID3507"
                 },
                 {
@@ -2273,6 +3074,11 @@
                             -495
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MOJOKERTO",
+                        "latitude": -7.55,
+                        "longitude": 112.5
+                    },
                     "id": "ID3516"
                 },
                 {
@@ -2287,6 +3093,11 @@
                             -463
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN NGANJUK",
+                        "latitude": -7.6,
+                        "longitude": 111.93333
+                    },
                     "id": "ID3518"
                 },
                 {
@@ -2302,6 +3113,11 @@
                             -382
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN NGAWI",
+                        "latitude": -7.47444,
+                        "longitude": 111.33444
+                    },
                     "id": "ID3521"
                 },
                 {
@@ -2314,6 +3130,11 @@
                             -447
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PACITAN",
+                        "latitude": -8.13333,
+                        "longitude": 111.16667
+                    },
                     "id": "ID3501"
                 },
                 {
@@ -2326,6 +3147,11 @@
                             528
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PAMEKASAN",
+                        "latitude": -7.06667,
+                        "longitude": 113.5
+                    },
                     "id": "ID3528"
                 },
                 {
@@ -2342,6 +3168,11 @@
                             532
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PASURUAN",
+                        "latitude": -7.73333,
+                        "longitude": 112.83333
+                    },
                     "id": "ID3514"
                 },
                 {
@@ -2357,6 +3188,11 @@
                             -509
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PONOROGO",
+                        "latitude": -7.93333,
+                        "longitude": 111.5
+                    },
                     "id": "ID3502"
                 },
                 {
@@ -2374,6 +3210,11 @@
                             -507
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PROBOLINGGO",
+                        "latitude": -7.86667,
+                        "longitude": 113.31667
+                    },
                     "id": "ID3513"
                 },
                 {
@@ -2386,6 +3227,11 @@
                             539
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SAMPANG",
+                        "latitude": -7.05,
+                        "longitude": 113.25
+                    },
                     "id": "ID3527"
                 },
                 {
@@ -2399,6 +3245,11 @@
                             540
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SIDOARJO",
+                        "latitude": -7.45,
+                        "longitude": 112.7
+                    },
                     "id": "ID3515"
                 },
                 {
@@ -2411,6 +3262,11 @@
                             541
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SITUBONDO",
+                        "latitude": -7.71667,
+                        "longitude": 114.05
+                    },
                     "id": "ID3512"
                 },
                 {
@@ -2458,6 +3314,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SUMENEP",
+                        "latitude": -7.11667,
+                        "longitude": 114.33333
+                    },
                     "id": "ID3529"
                 },
                 {
@@ -2470,6 +3331,11 @@
                             -535
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TRENGGALEK",
+                        "latitude": -8.16667,
+                        "longitude": 111.61667
+                    },
                     "id": "ID3503"
                 },
                 {
@@ -2483,6 +3349,11 @@
                             552
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TUBAN",
+                        "latitude": -6.96667,
+                        "longitude": 111.9
+                    },
                     "id": "ID3523"
                 },
                 {
@@ -2497,6 +3368,11 @@
                             -521
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TULUNGAGUNG",
+                        "latitude": -8.11667,
+                        "longitude": 111.91667
+                    },
                     "id": "ID3504"
                 },
                 {
@@ -2512,6 +3388,11 @@
                             560
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BENGKAYANG",
+                        "latitude": 1.06911,
+                        "longitude": 109.66393
+                    },
                     "id": "ID6102"
                 },
                 {
@@ -2524,6 +3405,11 @@
                             564
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KAPUAS HULU",
+                        "latitude": 0.81667,
+                        "longitude": 112.76667
+                    },
                     "id": "ID6108"
                 },
                 {
@@ -2552,6 +3438,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID6111"
                 },
                 {
@@ -2581,6 +3470,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KETAPANG",
+                        "latitude": -1.58333,
+                        "longitude": 110.5
+                    },
                     "id": "ID6106"
                 },
                 {
@@ -2600,6 +3494,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PONTIANAK",
+                        "latitude": -0.08333,
+                        "longitude": 109.36667
+                    },
                     "id": "ID6171"
                 },
                 {
@@ -2611,6 +3510,11 @@
                             587
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SINGKAWANG",
+                        "latitude": 0.90734,
+                        "longitude": 109.00103
+                    },
                     "id": "ID6172"
                 },
                 {
@@ -2675,6 +3579,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID6112"
                 },
                 {
@@ -2687,6 +3594,11 @@
                             -556
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LANDAK",
+                        "latitude": 0.42373,
+                        "longitude": 109.75917
+                    },
                     "id": "ID6103"
                 },
                 {
@@ -2700,6 +3612,11 @@
                             607
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MELAWI",
+                        "latitude": -0.33617,
+                        "longitude": 111.698
+                    },
                     "id": "ID6110"
                 },
                 {
@@ -2713,6 +3630,9 @@
                             -604
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID6104"
                 },
                 {
@@ -2724,6 +3644,11 @@
                             609
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SAMBAS",
+                        "latitude": 1.41667,
+                        "longitude": 109.33333
+                    },
                     "id": "ID6101"
                 },
                 {
@@ -2739,6 +3664,11 @@
                             612
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SANGGAU",
+                        "latitude": 0.25472,
+                        "longitude": 110.45
+                    },
                     "id": "ID6105"
                 },
                 {
@@ -2750,6 +3680,11 @@
                             613
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SEKADAU",
+                        "latitude": 0.03485,
+                        "longitude": 110.95066
+                    },
                     "id": "ID6109"
                 },
                 {
@@ -2767,6 +3702,11 @@
                             617
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SINTANG",
+                        "latitude": -0.08333,
+                        "longitude": 112.08333
+                    },
                     "id": "ID6107"
                 },
                 {
@@ -2780,6 +3720,11 @@
                             622
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BALANGAN",
+                        "latitude": -2.32314,
+                        "longitude": 115.62922
+                    },
                     "id": "ID6311"
                 },
                 {
@@ -2799,6 +3744,11 @@
                             633
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANJAR",
+                        "latitude": -3.31667,
+                        "longitude": 115.08333
+                    },
                     "id": "ID6303"
                 },
                 {
@@ -2815,6 +3765,11 @@
                             639
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BARITO KUALA",
+                        "latitude": -3.08333,
+                        "longitude": 114.61667
+                    },
                     "id": "ID6304"
                 },
                 {
@@ -2828,6 +3783,11 @@
                             643
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN HULU SUNGAI SELATAN",
+                        "latitude": -2.75,
+                        "longitude": 115.2
+                    },
                     "id": "ID6306"
                 },
                 {
@@ -2840,6 +3800,11 @@
                             -620
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN HULU SUNGAI TENGAH",
+                        "latitude": -2.61667,
+                        "longitude": 115.41667
+                    },
                     "id": "ID6307"
                 },
                 {
@@ -2856,6 +3821,11 @@
                             649
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN HULU SUNGAI UTARA",
+                        "latitude": -2.45,
+                        "longitude": 115.13333
+                    },
                     "id": "ID6308"
                 },
                 {
@@ -2866,6 +3836,11 @@
                             -627
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BANJAR BARU",
+                        "latitude": -3.41667,
+                        "longitude": 114.83333
+                    },
                     "id": "ID6372"
                 },
                 {
@@ -2876,6 +3851,11 @@
                             -635
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BANJARMASIN",
+                        "latitude": -3.32444,
+                        "longitude": 114.59102
+                    },
                     "id": "ID6371"
                 },
                 {
@@ -2913,6 +3893,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KOTA BARU",
+                        "latitude": -3,
+                        "longitude": 116
+                    },
                     "id": "ID6302"
                 },
                 {
@@ -2927,6 +3912,11 @@
                             661
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TABALONG",
+                        "latitude": -1.88333,
+                        "longitude": 115.5
+                    },
                     "id": "ID6309"
                 },
                 {
@@ -2939,6 +3929,11 @@
                             -657
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TANAH BUMBU",
+                        "latitude": -3.45413,
+                        "longitude": 115.70372
+                    },
                     "id": "ID6310"
                 },
                 {
@@ -2952,6 +3947,11 @@
                             -651
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TANAH LAUT",
+                        "latitude": -3.88333,
+                        "longitude": 114.86667
+                    },
                     "id": "ID6301"
                 },
                 {
@@ -2964,6 +3964,11 @@
                             -643
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TAPIN",
+                        "latitude": -2.91667,
+                        "longitude": 115.03333
+                    },
                     "id": "ID6305"
                 },
                 {
@@ -2978,6 +3983,11 @@
                             667
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BARITO SELATAN",
+                        "latitude": -1.86667,
+                        "longitude": 114.73333
+                    },
                     "id": "ID6204"
                 },
                 {
@@ -2989,6 +3999,11 @@
                             -660
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BARITO TIMUR",
+                        "latitude": -1.93333,
+                        "longitude": 115.1
+                    },
                     "id": "ID6212"
                 },
                 {
@@ -3004,6 +4019,11 @@
                             672
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BARITO UTARA",
+                        "latitude": -0.98333,
+                        "longitude": 115.1
+                    },
                     "id": "ID6205"
                 },
                 {
@@ -3018,6 +4038,11 @@
                             677
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN GUNUNG MAS",
+                        "latitude": -0.95,
+                        "longitude": 113.5
+                    },
                     "id": "ID6211"
                 },
                 {
@@ -3033,6 +4058,11 @@
                             680
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KAPUAS",
+                        "latitude": -2.01667,
+                        "longitude": 114.38333
+                    },
                     "id": "ID6203"
                 },
                 {
@@ -3056,6 +4086,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KATINGAN",
+                        "latitude": -2.06667,
+                        "longitude": 113.4
+                    },
                     "id": "ID6209"
                 },
                 {
@@ -3067,6 +4102,11 @@
                             -676
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PALANGKA RAYA",
+                        "latitude": -1.76979,
+                        "longitude": 113.73126
+                    },
                     "id": "ID6271"
                 },
                 {
@@ -3079,6 +4119,11 @@
                             691
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KOTAWARINGIN BARAT",
+                        "latitude": -2.4,
+                        "longitude": 111.73333
+                    },
                     "id": "ID6201"
                 },
                 {
@@ -3090,6 +4135,11 @@
                             -686
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KOTAWARINGIN TIMUR",
+                        "latitude": -2.08333,
+                        "longitude": 112.75
+                    },
                     "id": "ID6202"
                 },
                 {
@@ -3103,6 +4153,11 @@
                             695
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LAMANDAU",
+                        "latitude": -1.83828,
+                        "longitude": 111.2869
+                    },
                     "id": "ID6207"
                 },
                 {
@@ -3117,6 +4172,11 @@
                             696
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MURUNG RAYA",
+                        "latitude": -0.01667,
+                        "longitude": 114.26667
+                    },
                     "id": "ID6213"
                 },
                 {
@@ -3130,6 +4190,11 @@
                             -680
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PULANG PISAU",
+                        "latitude": -3.11858,
+                        "longitude": 113.8623
+                    },
                     "id": "ID6210"
                 },
                 {
@@ -3144,6 +4209,11 @@
                             -606
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SERUYAN",
+                        "latitude": -2.33333,
+                        "longitude": 112.25
+                    },
                     "id": "ID6208"
                 },
                 {
@@ -3156,6 +4226,11 @@
                             -695
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SUKAMARA",
+                        "latitude": -2.62675,
+                        "longitude": 111.23681
+                    },
                     "id": "ID6206"
                 },
                 {
@@ -3205,6 +4280,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BERAU",
+                        "latitude": 2,
+                        "longitude": 117.3
+                    },
                     "id": "ID6405"
                 },
                 {
@@ -3216,6 +4296,11 @@
                             713
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BALIKPAPAN",
+                        "latitude": -1.16667,
+                        "longitude": 116.88333
+                    },
                     "id": "ID6471"
                 },
                 {
@@ -3227,6 +4312,11 @@
                             716
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BONTANG",
+                        "latitude": 0.12526,
+                        "longitude": 117.49603
+                    },
                     "id": "ID6474"
                 },
                 {
@@ -3237,6 +4327,11 @@
                             718
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SAMARINDA",
+                        "latitude": -0.43333,
+                        "longitude": 117.18333
+                    },
                     "id": "ID6472"
                 },
                 {
@@ -3250,6 +4345,11 @@
                             722
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KUTAI BARAT",
+                        "latitude": -0.59417,
+                        "longitude": 115.51575
+                    },
                     "id": "ID6402"
                 },
                 {
@@ -3366,6 +4466,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KUTAI KARTANEGARA",
+                        "latitude": -0.44019,
+                        "longitude": 116.98139
+                    },
                     "id": "ID6403"
                 },
                 {
@@ -3381,6 +4486,11 @@
                             -709
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KUTAI TIMUR",
+                        "latitude": 1.03769,
+                        "longitude": 117.83112
+                    },
                     "id": "ID6404"
                 },
                 {
@@ -3396,6 +4506,9 @@
                             753
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID6411"
                 },
                 {
@@ -3411,6 +4524,11 @@
                             755
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PASER",
+                        "latitude": -1.43517,
+                        "longitude": 116.23535
+                    },
                     "id": "ID6401"
                 },
                 {
@@ -3424,6 +4542,11 @@
                             -747
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PENAJAM PASER UTARA",
+                        "latitude": -1.25,
+                        "longitude": 116.83333
+                    },
                     "id": "ID6409"
                 },
                 {
@@ -3515,6 +4638,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BULUNGAN",
+                        "latitude": 3,
+                        "longitude": 117.16667
+                    },
                     "id": "ID6502"
                 },
                 {
@@ -3524,6 +4652,11 @@
                             777
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA TARAKAN",
+                        "latitude": 3.36667,
+                        "longitude": 117.6
+                    },
                     "id": "ID6571"
                 },
                 {
@@ -3540,6 +4673,11 @@
                             780
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MALINAU",
+                        "latitude": 2.45,
+                        "longitude": 115.68333
+                    },
                     "id": "ID6501"
                 },
                 {
@@ -3578,6 +4716,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN NUNUKAN",
+                        "latitude": 4.13333,
+                        "longitude": 116.7
+                    },
                     "id": "ID6504"
                 },
                 {
@@ -3628,6 +4771,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID6503"
                 },
                 {
@@ -3641,6 +4787,11 @@
                             800
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANGKA",
+                        "latitude": -1.91667,
+                        "longitude": 105.93333
+                    },
                     "id": "ID1901"
                 },
                 {
@@ -3651,6 +4802,11 @@
                             801
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANGKA BARAT",
+                        "latitude": -1.95839,
+                        "longitude": 105.53741
+                    },
                     "id": "ID1903"
                 },
                 {
@@ -3673,6 +4829,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANGKA SELATAN",
+                        "latitude": -2.66803,
+                        "longitude": 106.01257
+                    },
                     "id": "ID1905"
                 },
                 {
@@ -3686,6 +4847,11 @@
                             808
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANGKA TENGAH",
+                        "latitude": -2.33989,
+                        "longitude": 106.1142
+                    },
                     "id": "ID1904"
                 },
                 {
@@ -3713,6 +4879,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BELITUNG",
+                        "latitude": -2.86667,
+                        "longitude": 107.7
+                    },
                     "id": "ID1902"
                 },
                 {
@@ -3723,6 +4894,11 @@
                             814
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BELITUNG TIMUR",
+                        "latitude": -2.9627,
+                        "longitude": 108.15216
+                    },
                     "id": "ID1906"
                 },
                 {
@@ -3734,6 +4910,11 @@
                             -797
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PANGKAL PINANG",
+                        "latitude": -2.13333,
+                        "longitude": 106.13333
+                    },
                     "id": "ID1971"
                 },
                 {
@@ -3786,6 +4967,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID2102"
                 },
                 {
@@ -3847,6 +5031,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KARIMUN",
+                        "latitude": 0.80764,
+                        "longitude": 103.41911
+                    },
                     "id": "ID2101"
                 },
                 {
@@ -3883,6 +5072,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID2105"
                 },
                 {
@@ -3932,6 +5124,11 @@
                             -825
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA TANJUNG PINANG",
+                        "latitude": 0.91683,
+                        "longitude": 104.44329
+                    },
                     "id": "ID2172"
                 },
                 {
@@ -3968,6 +5165,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LINGGA",
+                        "latitude": 0.2,
+                        "longitude": 104.61667
+                    },
                     "id": "ID2104"
                 },
                 {
@@ -3999,6 +5201,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN NATUNA",
+                        "latitude": 4.71417,
+                        "longitude": 107.97639
+                    },
                     "id": "ID2103"
                 },
                 {
@@ -4010,6 +5217,9 @@
                             864
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID1888"
                 },
                 {
@@ -4021,6 +5231,11 @@
                             867
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BANDAR LAMPUNG",
+                        "latitude": -5.41667,
+                        "longitude": 105.25
+                    },
                     "id": "ID1871"
                 },
                 {
@@ -4031,6 +5246,11 @@
                             869
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA METRO",
+                        "latitude": -5.11856,
+                        "longitude": 105.29949
+                    },
                     "id": "ID1872"
                 },
                 {
@@ -4050,6 +5270,11 @@
                             878
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LAMPUNG BARAT",
+                        "latitude": -5.14904,
+                        "longitude": 104.19309
+                    },
                     "id": "ID1801"
                 },
                 {
@@ -4075,6 +5300,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LAMPUNG SELATAN",
+                        "latitude": -5.4531,
+                        "longitude": 104.9877
+                    },
                     "id": "ID1803"
                 },
                 {
@@ -4093,6 +5323,11 @@
                             891
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LAMPUNG TENGAH",
+                        "latitude": -4.86667,
+                        "longitude": 105.26667
+                    },
                     "id": "ID1805"
                 },
                 {
@@ -4106,6 +5341,11 @@
                             893
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LAMPUNG TIMUR",
+                        "latitude": -5.10273,
+                        "longitude": 105.68003
+                    },
                     "id": "ID1804"
                 },
                 {
@@ -4118,6 +5358,11 @@
                             895
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LAMPUNG UTARA",
+                        "latitude": -4.81667,
+                        "longitude": 104.8
+                    },
                     "id": "ID1806"
                 },
                 {
@@ -4129,6 +5374,9 @@
                             898
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID1811"
                 },
                 {
@@ -4143,6 +5391,7 @@
                             -887
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1809"
                 },
                 {
@@ -4154,6 +5403,9 @@
                             -877
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID1813"
                 },
                 {
@@ -4165,6 +5417,7 @@
                             904
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1810"
                 },
                 {
@@ -4186,6 +5439,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TANGGAMUS",
+                        "latitude": -5.38508,
+                        "longitude": 104.62349
+                    },
                     "id": "ID1802"
                 },
                 {
@@ -4200,6 +5458,11 @@
                             909
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TULANG BAWANG BARAT",
+                        "latitude": -4.43975,
+                        "longitude": 105.0444
+                    },
                     "id": "ID1812"
                 },
                 {
@@ -4214,6 +5477,9 @@
                             911
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID1808"
                 },
                 {
@@ -4228,6 +5494,11 @@
                             914
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN WAY KANAN",
+                        "latitude": -4.44705,
+                        "longitude": 104.52753
+                    },
                     "id": "ID1807"
                 },
                 {
@@ -4238,6 +5509,11 @@
                             916
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BURU",
+                        "latitude": -3.32767,
+                        "longitude": 126.68413
+                    },
                     "id": "ID8104"
                 },
                 {
@@ -4255,6 +5531,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID8109"
                 },
                 {
@@ -4381,6 +5660,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEPULAUAN ARU",
+                        "latitude": -6.17059,
+                        "longitude": 134.46991
+                    },
                     "id": "ID8105"
                 },
                 {
@@ -4391,6 +5675,11 @@
                             944
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA AMBON",
+                        "latitude": -3.7,
+                        "longitude": 128.18333
+                    },
                     "id": "ID8171"
                 },
                 {
@@ -4417,6 +5706,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID8172"
                 },
                 {
@@ -4488,6 +5780,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID8108"
                 },
                 {
@@ -4523,6 +5818,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MALUKU TENGAH",
+                        "latitude": -3.29167,
+                        "longitude": 128.9675
+                    },
                     "id": "ID8103"
                 },
                 {
@@ -4539,6 +5839,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MALUKU TENGGARA",
+                        "latitude": -5.75,
+                        "longitude": 132.73334
+                    },
                     "id": "ID8102"
                 },
                 {
@@ -4595,6 +5900,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MALUKU TENGGARA BARAT",
+                        "latitude": -7.61186,
+                        "longitude": 131.38
+                    },
                     "id": "ID8101"
                 },
                 {
@@ -4622,6 +5932,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SERAM BAGIAN BARAT",
+                        "latitude": -3.1027,
+                        "longitude": 128.42996
+                    },
                     "id": "ID8106"
                 },
                 {
@@ -4649,6 +5964,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SERAM BAGIAN TIMUR",
+                        "latitude": -3.39851,
+                        "longitude": 130.39166
+                    },
                     "id": "ID8107"
                 },
                 {
@@ -4661,6 +5981,11 @@
                             993
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN HALMAHERA BARAT",
+                        "latitude": 1.41709,
+                        "longitude": 127.55264
+                    },
                     "id": "ID8201"
                 },
                 {
@@ -4754,6 +6079,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN HALMAHERA SELATAN",
+                        "latitude": -0.3955,
+                        "longitude": 127.90833
+                    },
                     "id": "ID8204"
                 },
                 {
@@ -4783,6 +6113,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN HALMAHERA TENGAH",
+                        "latitude": 0.48056,
+                        "longitude": 128.25
+                    },
                     "id": "ID8202"
                 },
                 {
@@ -4796,6 +6131,11 @@
                             1021
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN HALMAHERA TIMUR",
+                        "latitude": 1.33517,
+                        "longitude": 128.48627
+                    },
                     "id": "ID8206"
                 },
                 {
@@ -4814,6 +6154,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN HALMAHERA UTARA",
+                        "latitude": 1.73194,
+                        "longitude": 128.00778
+                    },
                     "id": "ID8205"
                 },
                 {
@@ -4835,6 +6180,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEPULAUAN SULA",
+                        "latitude": -1.8646,
+                        "longitude": 125.69046
+                    },
                     "id": "ID8203"
                 },
                 {
@@ -4851,6 +6201,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA TERNATE",
+                        "latitude": 0.89618,
+                        "longitude": 127.31016
+                    },
                     "id": "ID8271"
                 },
                 {
@@ -4871,6 +6226,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA TIDORE KEPULAUAN",
+                        "latitude": 0.60962,
+                        "longitude": 127.56981
+                    },
                     "id": "ID8272"
                 },
                 {
@@ -4887,6 +6247,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID8207"
                 },
                 {
@@ -4903,6 +6266,7 @@
                             ]
                         ]
                     ],
+                    "properties": {},
                     "id": "ID8208"
                 },
                 {
@@ -4933,6 +6297,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BIMA",
+                        "latitude": -8.6,
+                        "longitude": 118.61667
+                    },
                     "id": "ID5206"
                 },
                 {
@@ -4947,6 +6316,11 @@
                             1046
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN DOMPU",
+                        "latitude": -8.5094,
+                        "longitude": 118.4816
+                    },
                     "id": "ID5205"
                 },
                 {
@@ -4957,6 +6331,11 @@
                             -1037
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BIMA",
+                        "latitude": -8.46728,
+                        "longitude": 118.75259
+                    },
                     "id": "ID5272"
                 },
                 {
@@ -4967,6 +6346,11 @@
                             1049
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA MATARAM",
+                        "latitude": -8.5833,
+                        "longitude": 116.1167
+                    },
                     "id": "ID5271"
                 },
                 {
@@ -4980,6 +6364,11 @@
                             1053
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LOMBOK BARAT",
+                        "latitude": -8.69583,
+                        "longitude": 116.11667
+                    },
                     "id": "ID5201"
                 },
                 {
@@ -4992,6 +6381,11 @@
                             1056
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LOMBOK TENGAH",
+                        "latitude": -8.7,
+                        "longitude": 116.3
+                    },
                     "id": "ID5202"
                 },
                 {
@@ -5003,6 +6397,11 @@
                             1058
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LOMBOK TIMUR",
+                        "latitude": -8.53333,
+                        "longitude": 116.53333
+                    },
                     "id": "ID5203"
                 },
                 {
@@ -5015,6 +6414,9 @@
                             1059
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID5208"
                 },
                 {
@@ -5044,6 +6446,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SUMBAWA",
+                        "latitude": -8.7439,
+                        "longitude": 117.3324
+                    },
                     "id": "ID5204"
                 },
                 {
@@ -5054,6 +6461,11 @@
                             1066
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SUMBAWA BARAT",
+                        "latitude": -8.75159,
+                        "longitude": 116.92132
+                    },
                     "id": "ID5207"
                 },
                 {
@@ -5075,6 +6487,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ALOR",
+                        "latitude": -8.3,
+                        "longitude": 124.56667
+                    },
                     "id": "ID5307"
                 },
                 {
@@ -5086,6 +6503,11 @@
                             1072
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BELU",
+                        "latitude": -9.41258,
+                        "longitude": 124.95066
+                    },
                     "id": "ID5306"
                 },
                 {
@@ -5098,6 +6520,11 @@
                             1076
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ENDE",
+                        "latitude": -8.84056,
+                        "longitude": 121.66389
+                    },
                     "id": "ID5311"
                 },
                 {
@@ -5120,6 +6547,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN FLORES TIMUR",
+                        "latitude": -8.24224,
+                        "longitude": 122.96817
+                    },
                     "id": "ID5309"
                 },
                 {
@@ -5130,6 +6562,11 @@
                             1082
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA KUPANG",
+                        "latitude": -10.21667,
+                        "longitude": 123.6
+                    },
                     "id": "ID5371"
                 },
                 {
@@ -5150,6 +6587,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KUPANG",
+                        "latitude": -9.91667,
+                        "longitude": 123.83333
+                    },
                     "id": "ID5303"
                 },
                 {
@@ -5159,6 +6601,11 @@
                             1088
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LEMBATA",
+                        "latitude": -8.41396,
+                        "longitude": 123.55225
+                    },
                     "id": "ID5308"
                 },
                 {
@@ -5171,6 +6618,9 @@
                             1091
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID5321"
                 },
                 {
@@ -5190,6 +6640,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MANGGARAI",
+                        "latitude": -8.56667,
+                        "longitude": 120.41667
+                    },
                     "id": "ID5313"
                 },
                 {
@@ -5212,6 +6667,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MANGGARAI BARAT",
+                        "latitude": -8.64484,
+                        "longitude": 119.88281
+                    },
                     "id": "ID5315"
                 },
                 {
@@ -5224,6 +6684,9 @@
                             1102
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID5319"
                 },
                 {
@@ -5236,6 +6699,7 @@
                             1105
                         ]
                     ],
+                    "properties": {},
                     "id": "ID5318"
                 },
                 {
@@ -5248,6 +6712,11 @@
                             1107
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN NGADA",
+                        "latitude": -8.66667,
+                        "longitude": 121
+                    },
                     "id": "ID5312"
                 },
                 {
@@ -5257,6 +6726,11 @@
                             1108
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ROTE NDAO",
+                        "latitude": -10.73617,
+                        "longitude": 123.12054
+                    },
                     "id": "ID5314"
                 },
                 {
@@ -5273,6 +6747,7 @@
                             ]
                         ]
                     ],
+                    "properties": {},
                     "id": "ID5320"
                 },
                 {
@@ -5297,6 +6772,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SIKKA",
+                        "latitude": -8.66667,
+                        "longitude": 122.36667
+                    },
                     "id": "ID5310"
                 },
                 {
@@ -5309,6 +6789,11 @@
                             1118
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SUMBA BARAT",
+                        "latitude": -9.56667,
+                        "longitude": 119.45
+                    },
                     "id": "ID5301"
                 },
                 {
@@ -5319,6 +6804,7 @@
                             1119
                         ]
                     ],
+                    "properties": {},
                     "id": "ID5317"
                 },
                 {
@@ -5331,6 +6817,7 @@
                             1122
                         ]
                     ],
+                    "properties": {},
                     "id": "ID5316"
                 },
                 {
@@ -5341,6 +6828,11 @@
                             1123
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SUMBA TIMUR",
+                        "latitude": -9.88333,
+                        "longitude": 120.25
+                    },
                     "id": "ID5302"
                 },
                 {
@@ -5353,6 +6845,11 @@
                             -1086
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TIMOR TENGAH SELATAN",
+                        "latitude": -9.83333,
+                        "longitude": 124.4
+                    },
                     "id": "ID5304"
                 },
                 {
@@ -5366,6 +6863,11 @@
                             1126
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TIMOR TENGAH UTARA",
+                        "latitude": -9.33136,
+                        "longitude": 124.51904
+                    },
                     "id": "ID5305"
                 },
                 {
@@ -5379,6 +6881,11 @@
                             1131
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ASMAT",
+                        "latitude": -5.3795,
+                        "longitude": 138.46344
+                    },
                     "id": "ID9415"
                 },
                 {
@@ -5396,6 +6903,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BIAK NUMFOR",
+                        "latitude": -1.03333,
+                        "longitude": 136
+                    },
                     "id": "ID9409"
                 },
                 {
@@ -5409,6 +6921,11 @@
                             1139
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BOVEN DIGOEL",
+                        "latitude": -5.70519,
+                        "longitude": 140.36349
+                    },
                     "id": "ID9413"
                 },
                 {
@@ -5420,6 +6937,7 @@
                             1142
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9436"
                 },
                 {
@@ -5433,6 +6951,7 @@
                             1146
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9434"
                 },
                 {
@@ -5445,6 +6964,7 @@
                             1150
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9435"
                 },
                 {
@@ -5460,6 +6980,11 @@
                             1157
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN JAYAPURA",
+                        "latitude": -3,
+                        "longitude": 139.95
+                    },
                     "id": "ID9403"
                 },
                 {
@@ -5473,6 +6998,11 @@
                             1162
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN JAYAWIJAYA",
+                        "latitude": -4.08333,
+                        "longitude": 139.08333
+                    },
                     "id": "ID9402"
                 },
                 {
@@ -5485,6 +7015,11 @@
                             1165
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEEROM",
+                        "latitude": -3.3,
+                        "longitude": 140.61667
+                    },
                     "id": "ID9420"
                 },
                 {
@@ -5501,6 +7036,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEPULAUAN YAPEN",
+                        "latitude": -1.78773,
+                        "longitude": 136.27716
+                    },
                     "id": "ID9408"
                 },
                 {
@@ -5512,6 +7052,11 @@
                             1168
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA JAYAPURA",
+                        "latitude": -2.64647,
+                        "longitude": 140.77779
+                    },
                     "id": "ID9471"
                 },
                 {
@@ -5526,6 +7071,7 @@
                             1173
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9430"
                 },
                 {
@@ -5541,6 +7087,7 @@
                             1180
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9428"
                 },
                 {
@@ -5555,6 +7102,7 @@
                             1183
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9431"
                 },
                 {
@@ -5574,6 +7122,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MAPPI",
+                        "latitude": -6.49971,
+                        "longitude": 139.34441
+                    },
                     "id": "ID9414"
                 },
                 {
@@ -5617,6 +7170,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MERAUKE",
+                        "latitude": -7.66667,
+                        "longitude": 139.66667
+                    },
                     "id": "ID9401"
                 },
                 {
@@ -5633,6 +7191,11 @@
                             1198
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MIMIKA",
+                        "latitude": -4.54357,
+                        "longitude": 136.56555
+                    },
                     "id": "ID9412"
                 },
                 {
@@ -5655,6 +7218,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN NABIRE",
+                        "latitude": -3.54016,
+                        "longitude": 135.55511
+                    },
                     "id": "ID9404"
                 },
                 {
@@ -5668,6 +7236,7 @@
                             -1171
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9429"
                 },
                 {
@@ -5682,6 +7251,11 @@
                             -1149
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PANIAI",
+                        "latitude": -3.9,
+                        "longitude": 136.60001
+                    },
                     "id": "ID9410"
                 },
                 {
@@ -5695,6 +7269,11 @@
                             -1154
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PEGUNUNGAN BINTANG",
+                        "latitude": -4.52167,
+                        "longitude": 140.29541
+                    },
                     "id": "ID9417"
                 },
                 {
@@ -5710,6 +7289,7 @@
                             -1179
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9433"
                 },
                 {
@@ -5722,6 +7302,11 @@
                             -1178
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PUNCAK JAYA",
+                        "latitude": -3.67241,
+                        "longitude": 137.43896
+                    },
                     "id": "ID9411"
                 },
                 {
@@ -5735,6 +7320,11 @@
                             1213
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SARMI",
+                        "latitude": -2.41667,
+                        "longitude": 139.08333
+                    },
                     "id": "ID9419"
                 },
                 {
@@ -5745,6 +7335,11 @@
                             1214
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SUPIORI",
+                        "latitude": -0.73881,
+                        "longitude": 135.61111
+                    },
                     "id": "ID9427"
                 },
                 {
@@ -5757,6 +7352,11 @@
                             -1177
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TOLIKARA",
+                        "latitude": -3.42661,
+                        "longitude": 137.41699
+                    },
                     "id": "ID9418"
                 },
                 {
@@ -5770,6 +7370,11 @@
                             1215
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN WAROPEN",
+                        "latitude": -2.286,
+                        "longitude": 137.01837
+                    },
                     "id": "ID9426"
                 },
                 {
@@ -5785,6 +7390,11 @@
                             -1155
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN YAHUKIMO",
+                        "latitude": -4.60403,
+                        "longitude": 139.58405
+                    },
                     "id": "ID9416"
                 },
                 {
@@ -5798,6 +7408,7 @@
                             -1156
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9432"
                 },
                 {
@@ -5816,6 +7427,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN FAK-FAK",
+                        "latitude": -2.92641,
+                        "longitude": 132.29608
+                    },
                     "id": "ID9101"
                 },
                 {
@@ -5848,6 +7464,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KAIMANA",
+                        "latitude": -3.66093,
+                        "longitude": 133.77451
+                    },
                     "id": "ID9102"
                 },
                 {
@@ -5858,6 +7479,11 @@
                             1228
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SORONG",
+                        "latitude": -0.86507,
+                        "longitude": 131.25153
+                    },
                     "id": "ID9171"
                 },
                 {
@@ -5870,6 +7496,11 @@
                             1232
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MANOKWARI",
+                        "latitude": -0.9,
+                        "longitude": 133.75
+                    },
                     "id": "ID9105"
                 },
                 {
@@ -5883,6 +7514,7 @@
                             1236
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9111"
                 },
                 {
@@ -5894,6 +7526,7 @@
                             1239
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9110"
                 },
                 {
@@ -5906,6 +7539,7 @@
                             -1231
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9112"
                 },
                 {
@@ -5958,6 +7592,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN RAJA AMPAT",
+                        "latitude": -0.5,
+                        "longitude": 130
+                    },
                     "id": "ID9108"
                 },
                 {
@@ -5979,6 +7618,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SORONG",
+                        "latitude": -1.16667,
+                        "longitude": 131.5
+                    },
                     "id": "ID9107"
                 },
                 {
@@ -5992,6 +7636,11 @@
                             -1254
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SORONG SELATAN",
+                        "latitude": -1.50495,
+                        "longitude": 132.28638
+                    },
                     "id": "ID9106"
                 },
                 {
@@ -6007,6 +7656,7 @@
                             1261
                         ]
                     ],
+                    "properties": {},
                     "id": "ID9109"
                 },
                 {
@@ -6041,6 +7691,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TELUK BINTUNI",
+                        "latitude": -1.88037,
+                        "longitude": 133.33105
+                    },
                     "id": "ID9104"
                 },
                 {
@@ -6071,6 +7726,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TELUK WONDAMA",
+                        "latitude": -2.7,
+                        "longitude": 134.5
+                    },
                     "id": "ID9103"
                 },
                 {
@@ -6096,6 +7756,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BENGKALIS",
+                        "latitude": 0.9838,
+                        "longitude": 102.5096
+                    },
                     "id": "ID1408"
                 },
                 {
@@ -6146,6 +7811,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN INDRAGIRI HILIR",
+                        "latitude": -0.33333,
+                        "longitude": 103.16667
+                    },
                     "id": "ID1403"
                 },
                 {
@@ -6158,6 +7828,11 @@
                             -1286
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN INDRAGIRI HULU",
+                        "latitude": -0.55,
+                        "longitude": 102.31667
+                    },
                     "id": "ID1402"
                 },
                 {
@@ -6175,6 +7850,11 @@
                             1297
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KAMPAR",
+                        "latitude": 0.2344,
+                        "longitude": 101.2131
+                    },
                     "id": "ID1406"
                 },
                 {
@@ -6206,6 +7886,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEPULAUAN MERANTI",
+                        "latitude": 0.97488,
+                        "longitude": 102.69539
+                    },
                     "id": "ID1410"
                 },
                 {
@@ -6217,6 +7902,11 @@
                             1304
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA DUMAI",
+                        "latitude": 1.61592,
+                        "longitude": 101.4917
+                    },
                     "id": "ID1473"
                 },
                 {
@@ -6229,6 +7919,11 @@
                             1306
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PEKANBARU",
+                        "latitude": 0.53333,
+                        "longitude": 101.46667
+                    },
                     "id": "ID1471"
                 },
                 {
@@ -6243,6 +7938,11 @@
                             -1295
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KUANTAN SINGINGI",
+                        "latitude": -0.47532,
+                        "longitude": 101.45857
+                    },
                     "id": "ID1401"
                 },
                 {
@@ -6275,6 +7975,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PELALAWAN",
+                        "latitude": 0.20822,
+                        "longitude": 102.18607
+                    },
                     "id": "ID1404"
                 },
                 {
@@ -6302,6 +8007,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ROKAN HILIR",
+                        "latitude": 2.16599,
+                        "longitude": 100.82514
+                    },
                     "id": "ID1409"
                 },
                 {
@@ -6318,6 +8028,11 @@
                             -1298
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ROKAN HULU",
+                        "latitude": 0.88333,
+                        "longitude": 100.48333
+                    },
                     "id": "ID1407"
                 },
                 {
@@ -6333,6 +8048,11 @@
                             -1273
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SIAK",
+                        "latitude": 0.97453,
+                        "longitude": 102.01355
+                    },
                     "id": "ID1405"
                 },
                 {
@@ -6345,6 +8065,11 @@
                             1331
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MAJENE",
+                        "latitude": -3.15,
+                        "longitude": 118.86667
+                    },
                     "id": "ID7601"
                 },
                 {
@@ -6358,6 +8083,11 @@
                             1335
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MAMASA",
+                        "latitude": -2.96492,
+                        "longitude": 119.30631
+                    },
                     "id": "ID7603"
                 },
                 {
@@ -6373,6 +8103,11 @@
                             1340
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MAMUJU",
+                        "latitude": -2.5,
+                        "longitude": 119.41667
+                    },
                     "id": "ID7604"
                 },
                 {
@@ -6386,6 +8121,9 @@
                             1344
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID7606"
                 },
                 {
@@ -6398,6 +8136,11 @@
                             1347
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MAMUJU UTARA",
+                        "latitude": -1.51639,
+                        "longitude": 119.42139
+                    },
                     "id": "ID7605"
                 },
                 {
@@ -6410,6 +8153,11 @@
                             -1335
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN POLEWALI MANDAR",
+                        "latitude": -3.3,
+                        "longitude": 119.16667
+                    },
                     "id": "ID7602"
                 },
                 {
@@ -6423,6 +8171,11 @@
                             1354
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANTAENG",
+                        "latitude": -5.48333,
+                        "longitude": 119.98333
+                    },
                     "id": "ID7303"
                 },
                 {
@@ -6437,6 +8190,11 @@
                             1360
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BARRU",
+                        "latitude": -4.43333,
+                        "longitude": 119.68333
+                    },
                     "id": "ID7310"
                 },
                 {
@@ -6453,6 +8211,11 @@
                             1367
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BONE",
+                        "latitude": -4.7,
+                        "longitude": 120.13333
+                    },
                     "id": "ID7311"
                 },
                 {
@@ -6464,6 +8227,11 @@
                             1369
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BULUKUMBA",
+                        "latitude": -5.41667,
+                        "longitude": 120.23333
+                    },
                     "id": "ID7302"
                 },
                 {
@@ -6476,6 +8244,11 @@
                             1373
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ENREKANG",
+                        "latitude": -3.5,
+                        "longitude": 119.86667
+                    },
                     "id": "ID7316"
                 },
                 {
@@ -6491,6 +8264,11 @@
                             -1364
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN GOWA",
+                        "latitude": -5.31667,
+                        "longitude": 119.75
+                    },
                     "id": "ID7306"
                 },
                 {
@@ -6503,6 +8281,11 @@
                             -1353
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN JENEPONTO",
+                        "latitude": -5.63333,
+                        "longitude": 119.73333
+                    },
                     "id": "ID7304"
                 },
                 {
@@ -6539,6 +8322,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEPULAUAN SELAYAR",
+                        "latitude": -6.81667,
+                        "longitude": 120.8
+                    },
                     "id": "ID7301"
                 },
                 {
@@ -6551,6 +8339,11 @@
                             1389
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA MAKASSAR",
+                        "latitude": -5.15,
+                        "longitude": 119.45
+                    },
                     "id": "ID7371"
                 },
                 {
@@ -6563,6 +8356,11 @@
                             1393
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PALOPO",
+                        "latitude": -2.97841,
+                        "longitude": 120.11078
+                    },
                     "id": "ID7373"
                 },
                 {
@@ -6575,6 +8373,11 @@
                             1396
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PARE-PARE",
+                        "latitude": -4.03333,
+                        "longitude": 119.65
+                    },
                     "id": "ID7372"
                 },
                 {
@@ -6600,6 +8403,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LUWU",
+                        "latitude": -2.5577,
+                        "longitude": 121.3242
+                    },
                     "id": "ID7317"
                 },
                 {
@@ -6615,6 +8423,11 @@
                             1411
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LUWU TIMUR",
+                        "latitude": -2.50957,
+                        "longitude": 120.3978
+                    },
                     "id": "ID7325"
                 },
                 {
@@ -6631,6 +8444,11 @@
                             -1411
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LUWU UTARA",
+                        "latitude": -2.6,
+                        "longitude": 120.25
+                    },
                     "id": "ID7322"
                 },
                 {
@@ -6644,6 +8462,11 @@
                             -1365
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MAROS",
+                        "latitude": -5.05,
+                        "longitude": 119.71667
+                    },
                     "id": "ID7308"
                 },
                 {
@@ -6671,6 +8494,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PANGKAJENE DAN KEPULAUAN",
+                        "latitude": -4.7827,
+                        "longitude": 119.5506
+                    },
                     "id": "ID7309"
                 },
                 {
@@ -6686,6 +8514,11 @@
                             1425
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PINRANG",
+                        "latitude": -3.61667,
+                        "longitude": 119.6
+                    },
                     "id": "ID7315"
                 },
                 {
@@ -6701,6 +8534,11 @@
                             -1395
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SIDENRENG RAPPANG",
+                        "latitude": -3.85,
+                        "longitude": 119.96667
+                    },
                     "id": "ID7314"
                 },
                 {
@@ -6714,6 +8552,11 @@
                             -1363
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SINJAI",
+                        "latitude": -5.21667,
+                        "longitude": 120.15
+                    },
                     "id": "ID7307"
                 },
                 {
@@ -6726,6 +8569,11 @@
                             -1428
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SOPPENG",
+                        "latitude": -4.3842,
+                        "longitude": 119.89
+                    },
                     "id": "ID7312"
                 },
                 {
@@ -6745,6 +8593,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TAKALAR",
+                        "latitude": -5.41667,
+                        "longitude": 119.51667
+                    },
                     "id": "ID7305"
                 },
                 {
@@ -6759,6 +8612,11 @@
                             -1339
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TANA TORAJA",
+                        "latitude": -3.0024,
+                        "longitude": 119.79655
+                    },
                     "id": "ID7318"
                 },
                 {
@@ -6773,6 +8631,9 @@
                             -1414
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID7326"
                 },
                 {
@@ -6786,6 +8647,11 @@
                             -1399
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN WAJO",
+                        "latitude": -4,
+                        "longitude": 120.16667
+                    },
                     "id": "ID7313"
                 },
                 {
@@ -6797,6 +8663,11 @@
                             1436
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANGGAI",
+                        "latitude": -1.2835,
+                        "longitude": 122.8892
+                    },
                     "id": "ID7202"
                 },
                 {
@@ -6813,6 +8684,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANGGAI KEPULAUAN",
+                        "latitude": -1.6424,
+                        "longitude": 123.54881
+                    },
                     "id": "ID7201"
                 },
                 {
@@ -6849,6 +8725,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID7211"
                 },
                 {
@@ -6862,6 +8741,11 @@
                             1447
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BUOL",
+                        "latitude": 0.75,
+                        "longitude": 120.75
+                    },
                     "id": "ID7207"
                 },
                 {
@@ -6884,6 +8768,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN DONGGALA",
+                        "latitude": -0.58333,
+                        "longitude": 119.85
+                    },
                     "id": "ID7205"
                 },
                 {
@@ -6897,6 +8786,11 @@
                             -1454
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PALU",
+                        "latitude": -0.86972,
+                        "longitude": 119.9
+                    },
                     "id": "ID7271"
                 },
                 {
@@ -6917,6 +8811,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MOROWALI",
+                        "latitude": -1.89342,
+                        "longitude": 121.25473
+                    },
                     "id": "ID7203"
                 },
                 {
@@ -6931,6 +8830,9 @@
                             1465
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID7212"
                 },
                 {
@@ -6947,6 +8849,11 @@
                             -1446
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PARIGI MOUTONG",
+                        "latitude": 0.3368,
+                        "longitude": 120.17841
+                    },
                     "id": "ID7208"
                 },
                 {
@@ -6962,6 +8869,11 @@
                             1472
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN POSO",
+                        "latitude": -1.65,
+                        "longitude": 120.5
+                    },
                     "id": "ID7204"
                 },
                 {
@@ -6977,6 +8889,9 @@
                             -1457
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID7210"
                 },
                 {
@@ -7016,6 +8931,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TOJO UNA-UNA",
+                        "latitude": -1.2036,
+                        "longitude": 121.48201
+                    },
                     "id": "ID7209"
                 },
                 {
@@ -7028,6 +8948,11 @@
                             1479
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TOLI-TOLI",
+                        "latitude": 1.30862,
+                        "longitude": 120.88643
+                    },
                     "id": "ID7206"
                 },
                 {
@@ -7048,6 +8973,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BOMBANA",
+                        "latitude": -4.6257,
+                        "longitude": 121.81641
+                    },
                     "id": "ID7406"
                 },
                 {
@@ -7062,6 +8992,11 @@
                             1491
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BUTON",
+                        "latitude": -5.31667,
+                        "longitude": 122.58333
+                    },
                     "id": "ID7401"
                 },
                 {
@@ -7085,6 +9020,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID7415"
                 },
                 {
@@ -7103,6 +9041,7 @@
                             ]
                         ]
                     ],
+                    "properties": {},
                     "id": "ID7414"
                 },
                 {
@@ -7121,6 +9060,7 @@
                             ]
                         ]
                     ],
+                    "properties": {},
                     "id": "ID7409"
                 },
                 {
@@ -7140,6 +9080,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KOLAKA",
+                        "latitude": -4.08333,
+                        "longitude": 121.66667
+                    },
                     "id": "ID7404"
                 },
                 {
@@ -7154,6 +9099,7 @@
                             1509
                         ]
                     ],
+                    "properties": {},
                     "id": "ID7411"
                 },
                 {
@@ -7168,6 +9114,11 @@
                             -1409
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KOLAKA UTARA",
+                        "latitude": -3.10452,
+                        "longitude": 121.12427
+                    },
                     "id": "ID7408"
                 },
                 {
@@ -7191,6 +9142,9 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID7403"
                 },
                 {
@@ -7200,6 +9154,7 @@
                             1518
                         ]
                     ],
+                    "properties": {},
                     "id": "ID7412"
                 },
                 {
@@ -7213,6 +9168,11 @@
                             -1516
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KONAWE SELATAN",
+                        "latitude": -4.19191,
+                        "longitude": 122.44854
+                    },
                     "id": "ID7405"
                 },
                 {
@@ -7239,6 +9199,7 @@
                             ]
                         ]
                     ],
+                    "properties": {},
                     "id": "ID7410"
                 },
                 {
@@ -7250,6 +9211,11 @@
                             1524
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BAUBAU",
+                        "latitude": -5.477,
+                        "longitude": 122.6166
+                    },
                     "id": "ID7472"
                 },
                 {
@@ -7261,6 +9227,11 @@
                             -1515
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA KENDARI",
+                        "latitude": -3.98333,
+                        "longitude": 122.5
+                    },
                     "id": "ID7471"
                 },
                 {
@@ -7287,6 +9258,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MUNA",
+                        "latitude": -4.96667,
+                        "longitude": 122.66667
+                    },
                     "id": "ID7402"
                 },
                 {
@@ -7297,6 +9273,7 @@
                             1531
                         ]
                     ],
+                    "properties": {},
                     "id": "ID7413"
                 },
                 {
@@ -7328,6 +9305,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN WAKATOBI",
+                        "latitude": -5.31934,
+                        "longitude": 123.5948
+                    },
                     "id": "ID7407"
                 },
                 {
@@ -7343,6 +9325,11 @@
                             1543
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BOLAANG MONGONDOW",
+                        "latitude": 0.75,
+                        "longitude": 124.08333
+                    },
                     "id": "ID7101"
                 },
                 {
@@ -7356,6 +9343,9 @@
                             1546
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID7110"
                 },
                 {
@@ -7371,6 +9361,7 @@
                             1550
                         ]
                     ],
+                    "properties": {},
                     "id": "ID7111"
                 },
                 {
@@ -7384,6 +9375,7 @@
                             1551
                         ]
                     ],
+                    "properties": {},
                     "id": "ID7107"
                 },
                 {
@@ -7393,6 +9385,7 @@
                             1552
                         ]
                     ],
+                    "properties": {},
                     "id": "ID7188"
                 },
                 {
@@ -7402,6 +9395,11 @@
                             1553
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEPULAUAN SANGIHE",
+                        "latitude": 3.5,
+                        "longitude": 125.55
+                    },
                     "id": "ID7103"
                 },
                 {
@@ -7423,6 +9421,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEPULAUAN TALAUD",
+                        "latitude": 4.31178,
+                        "longitude": 126.78085
+                    },
                     "id": "ID7104"
                 },
                 {
@@ -7440,6 +9443,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BITUNG",
+                        "latitude": 1.48333,
+                        "longitude": 125.15
+                    },
                     "id": "ID7172"
                 },
                 {
@@ -7450,6 +9458,7 @@
                             -1540
                         ]
                     ],
+                    "properties": {},
                     "id": "ID7174"
                 },
                 {
@@ -7461,6 +9470,11 @@
                             1562
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA MANADO",
+                        "latitude": 1.51667,
+                        "longitude": 124.88333
+                    },
                     "id": "ID7171"
                 },
                 {
@@ -7470,6 +9484,11 @@
                             1563
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA TOMOHON",
+                        "latitude": 1.31307,
+                        "longitude": 124.83404
+                    },
                     "id": "ID7173"
                 },
                 {
@@ -7490,6 +9509,11 @@
                             -1553
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MINAHASA",
+                        "latitude": 1.2537,
+                        "longitude": 124.83
+                    },
                     "id": "ID7102"
                 },
                 {
@@ -7503,6 +9527,11 @@
                             -1568
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MINAHASA SELATAN",
+                        "latitude": 1.21291,
+                        "longitude": 124.59708
+                    },
                     "id": "ID7105"
                 },
                 {
@@ -7515,6 +9544,9 @@
                             -1567
                         ]
                     ],
+                    "properties": {
+                        
+                    },
                     "id": "ID7109"
                 },
                 {
@@ -7535,6 +9567,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MINAHASA UTARA",
+                        "latitude": 1.4025,
+                        "longitude": 124.96
+                    },
                     "id": "ID7106"
                 },
                 {
@@ -7556,6 +9593,7 @@
                             ]
                         ]
                     ],
+                    "properties": {},
                     "id": "ID7108"
                 },
                 {
@@ -7573,6 +9611,11 @@
                             1584
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN AGAM",
+                        "latitude": -0.25,
+                        "longitude": 100.16667
+                    },
                     "id": "ID1307"
                 },
                 {
@@ -7583,6 +9626,7 @@
                             1586
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1388"
                 },
                 {
@@ -7598,6 +9642,11 @@
                             -1309
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN DHARMASRAYA",
+                        "latitude": -1.05,
+                        "longitude": 101.367
+                    },
                     "id": "ID1311"
                 },
                 {
@@ -7624,6 +9673,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KEPULAUAN MENTAWAI",
+                        "latitude": 1.98917,
+                        "longitude": 99.51889
+                    },
                     "id": "ID1301"
                 },
                 {
@@ -7633,6 +9687,11 @@
                             -1585
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BUKITTINGGI",
+                        "latitude": -0.275,
+                        "longitude": 100.375
+                    },
                     "id": "ID1375"
                 },
                 {
@@ -7647,6 +9706,11 @@
                             1599
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PADANG",
+                        "latitude": -0.98333,
+                        "longitude": 100.45
+                    },
                     "id": "ID1371"
                 },
                 {
@@ -7656,6 +9720,11 @@
                             1600
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PADANG PANJANG",
+                        "latitude": -0.45,
+                        "longitude": 100.43333
+                    },
                     "id": "ID1374"
                 },
                 {
@@ -7666,6 +9735,11 @@
                             1602
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PARIAMAN",
+                        "latitude": -0.62682,
+                        "longitude": 100.12047
+                    },
                     "id": "ID1377"
                 },
                 {
@@ -7675,6 +9749,11 @@
                             1603
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PAYAKUMBUH",
+                        "latitude": -0.23333,
+                        "longitude": 100.63333
+                    },
                     "id": "ID1376"
                 },
                 {
@@ -7686,6 +9765,11 @@
                             1606
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SAWAH LUNTO",
+                        "latitude": -0.6,
+                        "longitude": 100.75
+                    },
                     "id": "ID1373"
                 },
                 {
@@ -7696,6 +9780,11 @@
                             1607
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SOLOK",
+                        "latitude": -0.76667,
+                        "longitude": 100.61667
+                    },
                     "id": "ID1372"
                 },
                 {
@@ -7713,6 +9802,11 @@
                             -1604
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LIMA PULUH KOTA",
+                        "latitude": -0.0168,
+                        "longitude": 100.5872
+                    },
                     "id": "ID1308"
                 },
                 {
@@ -7728,6 +9822,11 @@
                             -1580
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PADANG PARIAMAN",
+                        "latitude": -0.6,
+                        "longitude": 100.28333
+                    },
                     "id": "ID1306"
                 },
                 {
@@ -7742,6 +9841,11 @@
                             1617
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PASAMAN",
+                        "latitude": 0.42503,
+                        "longitude": 99.94606
+                    },
                     "id": "ID1309"
                 },
                 {
@@ -7754,6 +9858,11 @@
                             1619
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PASAMAN BARAT",
+                        "latitude": 0.28152,
+                        "longitude": 99.51965
+                    },
                     "id": "ID1312"
                 },
                 {
@@ -7770,6 +9879,11 @@
                             1622
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PESISIR SELATAN",
+                        "latitude": -1.58333,
+                        "longitude": 100.85
+                    },
                     "id": "ID1302"
                 },
                 {
@@ -7785,6 +9899,11 @@
                             -1296
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SIJUNJUNG",
+                        "latitude": -1.1827,
+                        "longitude": 101.6056
+                    },
                     "id": "ID1304"
                 },
                 {
@@ -7805,6 +9924,11 @@
                             1627
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SOLOK",
+                        "latitude": -0.96667,
+                        "longitude": 100.81667
+                    },
                     "id": "ID1303"
                 },
                 {
@@ -7817,6 +9941,11 @@
                             -1588
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SOLOK SELATAN",
+                        "latitude": -1.23333,
+                        "longitude": 101.417
+                    },
                     "id": "ID1310"
                 },
                 {
@@ -7836,6 +9965,11 @@
                             -1601
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TANAH DATAR",
+                        "latitude": -0.4555,
+                        "longitude": 100.5771
+                    },
                     "id": "ID1305"
                 },
                 {
@@ -7865,6 +9999,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN BANYU ASIN",
+                        "latitude": -2.88333,
+                        "longitude": 104.38306
+                    },
                     "id": "ID1607"
                 },
                 {
@@ -7876,6 +10015,7 @@
                             1637
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1688"
                 },
                 {
@@ -7890,6 +10030,7 @@
                             -166
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1611"
                 },
                 {
@@ -7900,6 +10041,11 @@
                             1641
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA LUBUK LINGGAU",
+                        "latitude": -3.29308,
+                        "longitude": 102.85503
+                    },
                     "id": "ID1674"
                 },
                 {
@@ -7913,6 +10059,11 @@
                             1644
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PAGAR ALAM",
+                        "latitude": -4.13055,
+                        "longitude": 103.26822
+                    },
                     "id": "ID1673"
                 },
                 {
@@ -7924,6 +10075,11 @@
                             -1634
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PALEMBANG",
+                        "latitude": -3,
+                        "longitude": 104.71667
+                    },
                     "id": "ID1671"
                 },
                 {
@@ -7936,6 +10092,11 @@
                             1650
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PRABUMULIH",
+                        "latitude": -3.46202,
+                        "longitude": 104.2229
+                    },
                     "id": "ID1672"
                 },
                 {
@@ -7958,6 +10119,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LAHAT",
+                        "latitude": -3.7864,
+                        "longitude": 103.5428
+                    },
                     "id": "ID1604"
                 },
                 {
@@ -7986,6 +10152,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MUARA ENIM",
+                        "latitude": -4.2327,
+                        "longitude": 103.6141
+                    },
                     "id": "ID1603"
                 },
                 {
@@ -8001,6 +10172,11 @@
                             -244
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MUSI BANYU ASIN",
+                        "latitude": -2.41667,
+                        "longitude": 103.75
+                    },
                     "id": "ID1606"
                 },
                 {
@@ -8019,6 +10195,11 @@
                             -1662
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MUSI RAWAS",
+                        "latitude": -3.08333,
+                        "longitude": 103.2
+                    },
                     "id": "ID1605"
                 },
                 {
@@ -8032,6 +10213,7 @@
                             -248
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1613"
                 },
                 {
@@ -8048,6 +10230,11 @@
                             -1646
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN OGAN ILIR",
+                        "latitude": -3.43186,
+                        "longitude": 104.62727
+                    },
                     "id": "ID1610"
                 },
                 {
@@ -8064,6 +10251,11 @@
                             1669
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN OGAN KOMERING ILIR",
+                        "latitude": -3.36667,
+                        "longitude": 105.36667
+                    },
                     "id": "ID1602"
                 },
                 {
@@ -8076,6 +10268,11 @@
                             -1655
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN OGAN KOMERING ULU",
+                        "latitude": -4.13333,
+                        "longitude": 104.03333
+                    },
                     "id": "ID1601"
                 },
                 {
@@ -8093,6 +10290,11 @@
                             -1672
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN OGAN KOMERING ULU SELATAN",
+                        "latitude": -4.65728,
+                        "longitude": 104.00659
+                    },
                     "id": "ID1608"
                 },
                 {
@@ -8106,6 +10308,11 @@
                             -1669
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN OGAN KOMERING ULU TIMUR",
+                        "latitude": -3.85679,
+                        "longitude": 104.75209
+                    },
                     "id": "ID1609"
                 },
                 {
@@ -8120,6 +10327,7 @@
                             -1661
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1612"
                 },
                 {
@@ -8136,6 +10344,11 @@
                             1678
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN ASAHAN",
+                        "latitude": 2.78333,
+                        "longitude": 99.55
+                    },
                     "id": "ID1208"
                 },
                 {
@@ -8148,6 +10361,7 @@
                             1681
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1219"
                 },
                 {
@@ -8162,6 +10376,11 @@
                             1685
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN DAIRI",
+                        "latitude": 2.86667,
+                        "longitude": 98.23333
+                    },
                     "id": "ID1210"
                 },
                 {
@@ -8180,6 +10399,7 @@
                             1692
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1288"
                 },
                 {
@@ -8197,6 +10417,11 @@
                             1701
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN DELI SERDANG",
+                        "latitude": 3.41667,
+                        "longitude": 98.66667
+                    },
                     "id": "ID1212"
                 },
                 {
@@ -8210,6 +10435,11 @@
                             1705
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN HUMBANG HASUNDUTAN",
+                        "latitude": 2.26551,
+                        "longitude": 98.50376
+                    },
                     "id": "ID1215"
                 },
                 {
@@ -8224,6 +10454,11 @@
                             1707
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN KARO",
+                        "latitude": 3.11667,
+                        "longitude": 98.3
+                    },
                     "id": "ID1211"
                 },
                 {
@@ -8234,6 +10469,11 @@
                             -1700
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA BINJAI",
+                        "latitude": 3.8,
+                        "longitude": 108.23333
+                    },
                     "id": "ID1276"
                 },
                 {
@@ -8245,6 +10485,7 @@
                             1711
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1278"
                 },
                 {
@@ -8255,6 +10496,11 @@
                             1712
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA MEDAN",
+                        "latitude": 3.65,
+                        "longitude": 98.66667
+                    },
                     "id": "ID1275"
                 },
                 {
@@ -8264,6 +10510,11 @@
                             1713
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PADANG SIDEMPUAN",
+                        "latitude": 1.37375,
+                        "longitude": 99.26843
+                    },
                     "id": "ID1277"
                 },
                 {
@@ -8273,6 +10524,11 @@
                             1714
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA PEMATANG SIANTAR",
+                        "latitude": 2.96667,
+                        "longitude": 99.05
+                    },
                     "id": "ID1273"
                 },
                 {
@@ -8283,6 +10539,11 @@
                             1716
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA SIBOLGA",
+                        "latitude": 1.73333,
+                        "longitude": 98.8
+                    },
                     "id": "ID1271"
                 },
                 {
@@ -8292,6 +10553,11 @@
                             -1679
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA TANJUNG BALAI",
+                        "latitude": 2.95833,
+                        "longitude": 99.79167
+                    },
                     "id": "ID1272"
                 },
                 {
@@ -8301,6 +10567,11 @@
                             1717
                         ]
                     ],
+                    "properties": {
+                        "name": "KOTA TEBING TINGGI",
+                        "latitude": 3.325,
+                        "longitude": 99.14167
+                    },
                     "id": "ID1274"
                 },
                 {
@@ -8314,6 +10585,11 @@
                             1721
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LABUHAN BATU",
+                        "latitude": 2.26667,
+                        "longitude": 100.1
+                    },
                     "id": "ID1207"
                 },
                 {
@@ -8325,6 +10601,7 @@
                             -1320
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1222"
                 },
                 {
@@ -8340,6 +10617,7 @@
                             1727
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1223"
                 },
                 {
@@ -8356,6 +10634,11 @@
                             -30
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN LANGKAT",
+                        "latitude": 3.71667,
+                        "longitude": 98.21667
+                    },
                     "id": "ID1213"
                 },
                 {
@@ -8369,6 +10652,11 @@
                             1731
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN MANDAILING NATAL",
+                        "latitude": 0.78378,
+                        "longitude": 99.25495
+                    },
                     "id": "ID1202"
                 },
                 {
@@ -8382,6 +10670,11 @@
                             -1710
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN NIAS",
+                        "latitude": 1.03333,
+                        "longitude": 97.76667
+                    },
                     "id": "ID1201"
                 },
                 {
@@ -8394,6 +10687,7 @@
                             -1735
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1225"
                 },
                 {
@@ -8432,6 +10726,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN NIAS SELATAN",
+                        "latitude": 0.77,
+                        "longitude": 97.75
+                    },
                     "id": "ID1214"
                 },
                 {
@@ -8444,6 +10743,7 @@
                             1745
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1224"
                 },
                 {
@@ -8457,6 +10757,7 @@
                             1747
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1221"
                 },
                 {
@@ -8472,6 +10773,7 @@
                             -1724
                         ]
                     ],
+                    "properties": {},
                     "id": "ID1220"
                 },
                 {
@@ -8486,6 +10788,11 @@
                             -1685
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN PAKPAK BHARAT",
+                        "latitude": 2.56667,
+                        "longitude": 98.28333
+                    },
                     "id": "ID1216"
                 },
                 {
@@ -8505,6 +10812,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SAMOSIR",
+                        "latitude": 2.64025,
+                        "longitude": 98.71525
+                    },
                     "id": "ID1217"
                 },
                 {
@@ -8520,6 +10832,11 @@
                             -1718
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SERDANG BEDAGAI",
+                        "latitude": 3.36667,
+                        "longitude": 99.03333
+                    },
                     "id": "ID1218"
                 },
                 {
@@ -8538,6 +10855,11 @@
                             -1715
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN SIMALUNGUN",
+                        "latitude": 2.9,
+                        "longitude": 99
+                    },
                     "id": "ID1209"
                 },
                 {
@@ -8556,6 +10878,11 @@
                             -1714
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TAPANULI SELATAN",
+                        "latitude": 1.51667,
+                        "longitude": 99.25
+                    },
                     "id": "ID1203"
                 },
                 {
@@ -8579,6 +10906,11 @@
                             ]
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TAPANULI TENGAH",
+                        "latitude": 1.9,
+                        "longitude": 98.66667
+                    },
                     "id": "ID1204"
                 },
                 {
@@ -8593,6 +10925,11 @@
                             -1688
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TAPANULI UTARA",
+                        "latitude": 2.0028,
+                        "longitude": 99.0707
+                    },
                     "id": "ID1205"
                 },
                 {
@@ -8606,6 +10943,11 @@
                             -1754
                         ]
                     ],
+                    "properties": {
+                        "name": "KABUPATEN TOBA SAMOSIR",
+                        "latitude": 2.39793,
+                        "longitude": 99.21678
+                    },
                     "id": "ID1206"
                 }
             ]
