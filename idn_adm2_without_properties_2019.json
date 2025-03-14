@@ -20,7 +20,7 @@
                         "cy": 4.45,
                         "cx": 96.16667,
                         "fips": "ID1107",
-                        "locname": " Aceh Barat",
+                        "locname": "Aceh Barat",
                         "iso_name": "Kabupaten Aceh Barat"
                     },
                     "id": "ID1107"
@@ -40,7 +40,7 @@
                         "cy": 3.83333,
                         "cx": 96.88333,
                         "fips": "ID1112",
-                        "locname": " Aceh Barat Daya",
+                        "locname": "Aceh Barat Daya",
                         "iso_name": "Kabupaten Aceh Barat Daya"
                     },
                     "id": "ID1112"
@@ -73,7 +73,7 @@
                         "cy": 5.38333,
                         "cx": 95.51667,
                         "fips": "ID1108",
-                        "locname": " Aceh Besar",
+                        "locname": "Aceh Besar",
                         "iso_name": "Kabupaten Aceh Besar"
                     },
                     "id": "ID1108"
@@ -93,7 +93,7 @@
                         "cy": 4.86,
                         "cx": 95.64,
                         "fips": "ID1116",
-                        "locname": " Aceh Jaya",
+                        "locname": "Aceh Jaya",
                         "iso_name": "Kabupaten Aceh Jaya"
                     },
                     "id": "ID1116"
@@ -115,7 +115,7 @@
                         "cy": 3.16667,
                         "cx": 97.41667,
                         "fips": "ID1103",
-                        "locname": " Aceh Selatan",
+                        "locname": "Aceh Selatan",
                         "iso_name": "Kabupaten Aceh Selatan"
                     },
                     "id": "ID1103"
@@ -148,7 +148,7 @@
                         "cy": 2.41667,
                         "cx": 97.91667,
                         "fips": "ID1102",
-                        "locname": " Aceh Singkil",
+                        "locname": "Aceh Singkil",
                         "iso_name": "Kabupaten Aceh Singkil"
                     },
                     "id": "ID1102"
@@ -169,7 +169,7 @@
                         "cy": 4.25,
                         "cx": 97.96667,
                         "fips": "ID1114",
-                        "locname": " Aceh Tamiang",
+                        "locname": "Aceh Tamiang",
                         "iso_name": "Kabupaten Aceh Tamiang"
                     },
                     "id": "ID1114"
@@ -192,7 +192,7 @@
                         "cy": 4.51,
                         "cx": 96.855,
                         "fips": "ID1106",
-                        "locname": " Aceh Tengah",
+                        "locname": "Aceh Tengah",
                         "iso_name": "Kabupaten Aceh Tengah"
                     },
                     "id": "ID1106"
@@ -214,7 +214,7 @@
                         "cy": 3.36667,
                         "cx": 97.7,
                         "fips": "ID1104",
-                        "locname": " Aceh Tenggara",
+                        "locname": "Aceh Tenggara",
                         "iso_name": "Kabupaten Aceh Tenggara"
                     },
                     "id": "ID1104"
@@ -252,7 +252,7 @@
                         "cy": 4.97,
                         "cx": 97.14,
                         "fips": "ID1111",
-                        "locname": " Aceh Utara",
+                        "locname": "Aceh Utara",
                         "iso_name": "Kabupaten Aceh Utara"
                     },
                     "id": "ID1111"
@@ -272,7 +272,7 @@
                         "cy": 4.73015,
                         "cx": 96.86156,
                         "fips": "ID1117",
-                        "locname": " Bener Meriah",
+                        "locname": "Bener Meriah",
                         "iso_name": "Kabupaten Bener Meriah"
                     },
                     "id": "ID1117"
@@ -294,7 +294,7 @@
                         "cy": 5.08333,
                         "cx": 96.58333,
                         "fips": "ID1110",
-                        "locname": " Bireuen",
+                        "locname": "Bireuen",
                         "iso_name": "Kabupaten Bireuen"
                     },
                     "id": "ID1110"
@@ -318,7 +318,7 @@
                         "cy": 3.95,
                         "cx": 97.39,
                         "fips": "ID1113",
-                        "locname": " Gayo Lues",
+                        "locname": "Gayo Lues",
                         "iso_name": "Kabupaten Gayo Lues"
                     },
                     "id": "ID1113"
@@ -336,7 +336,7 @@
                         "cy": 5.54167,
                         "cx": 95.33333,
                         "fips": "ID1171",
-                        "locname": " Banda Aceh",
+                        "locname": "Banda Aceh",
                         "iso_name": "Kota Banda Aceh"
                     },
                     "id": "ID1171"
@@ -355,7 +355,7 @@
                         "cy": 4.47,
                         "cx": 97.93,
                         "fips": "ID1173",
-                        "locname": " Langsa",
+                        "locname": "Langsa",
                         "iso_name": "Kota Langsa"
                     },
                     "id": "ID1173"
@@ -373,7 +373,7 @@
                         "cy": 5.13333,
                         "cx": 97.06667,
                         "fips": "ID1174",
-                        "locname": " Lhokseumawe",
+                        "locname": "Lhokseumawe",
                         "iso_name": "Kota Lhokseumawe"
                     },
                     "id": "ID1174"
@@ -390,7 +390,7 @@
                         "cy": 5.82164,
                         "cx": 95.31086,
                         "fips": "ID1172",
-                        "locname": " Sabang",
+                        "locname": "Sabang",
                         "iso_name": "Kota Sabang"
                     },
                     "id": "ID1172"
@@ -425,7 +425,7 @@
                         "cy": 4.16667,
                         "cx": 96.51667,
                         "fips": "ID1115",
-                        "locname": " Nagan Raya",
+                        "locname": "Nagan Raya",
                         "iso_name": "Kabupaten Nagan Raya"
                     },
                     "id": "ID1115"
@@ -448,7 +448,7 @@
                         "cy": 5.08,
                         "cx": 96.11,
                         "fips": "ID1109",
-                        "locname": " Pidie",
+                        "locname": "Pidie",
                         "iso_name": "Kabupaten Pidie"
                     },
                     "id": "ID1109"
@@ -484,7 +484,7 @@
                         "cy": 2.61667,
                         "cx": 96.08333,
                         "fips": "ID1101",
-                        "locname": " Simeulue",
+                        "locname": "Simeulue",
                         "iso_name": "Kabupaten Simeulue"
                     },
                     "id": "ID1101"
@@ -506,7 +506,7 @@
                         "cy": -8.51667,
                         "cx": 115.2,
                         "fips": "ID5103",
-                        "locname": " Badung",
+                        "locname": "Badung",
                         "iso_name": "Kabupaten Badung"
                     },
                     "id": "ID5103"
@@ -527,7 +527,7 @@
                         "cy": -8.28333,
                         "cx": 115.35,
                         "fips": "ID5106",
-                        "locname": " Bangli",
+                        "locname": "Bangli",
                         "iso_name": "Kabupaten Bangli"
                     },
                     "id": "ID5106"
@@ -549,7 +549,7 @@
                         "cy": -8.25,
                         "cx": 114.96667,
                         "fips": "ID5108",
-                        "locname": " Buleleng",
+                        "locname": "Buleleng",
                         "iso_name": "Kabupaten Buleleng"
                     },
                     "id": "ID5108"
@@ -570,7 +570,7 @@
                         "cy": -8.46667,
                         "cx": 115.28333,
                         "fips": "ID5104",
-                        "locname": " Gianyar",
+                        "locname": "Gianyar",
                         "iso_name": "Kabupaten Gianyar"
                     },
                     "id": "ID5104"
@@ -589,7 +589,7 @@
                         "cy": -8.3,
                         "cx": 114.66667,
                         "fips": "ID5101",
-                        "locname": " Jembrana",
+                        "locname": "Jembrana",
                         "iso_name": "Kabupaten Jembrana"
                     },
                     "id": "ID5101"
@@ -609,7 +609,7 @@
                         "cy": -8.3891,
                         "cx": 115.5393,
                         "fips": "ID5107",
-                        "locname": " Karang Asem",
+                        "locname": "Karang Asem",
                         "iso_name": "Kabupaten Karang Asem"
                     },
                     "id": "ID5107"
@@ -636,7 +636,7 @@
                         "cy": -8.55,
                         "cx": 115.4,
                         "fips": "ID5105",
-                        "locname": " Klungkung",
+                        "locname": "Klungkung",
                         "iso_name": "Kabupaten Klungkung"
                     },
                     "id": "ID5105"
@@ -655,7 +655,7 @@
                         "cy": -8.66667,
                         "cx": 115.21663,
                         "fips": "ID5171",
-                        "locname": " Denpasar",
+                        "locname": "Denpasar",
                         "iso_name": "Kota Denpasar"
                     },
                     "id": "ID5171"
@@ -675,7 +675,7 @@
                         "cy": -8.43333,
                         "cx": 115.06667,
                         "fips": "ID5102",
-                        "locname": " Tabanan",
+                        "locname": "Tabanan",
                         "iso_name": "Kabupaten Tabanan"
                     },
                     "id": "ID5102"
@@ -693,7 +693,7 @@
                         "cy": -6.01667,
                         "cx": 106.01667,
                         "fips": "ID3672",
-                        "locname": " Cilegon",
+                        "locname": "Cilegon",
                         "iso_name": "Kota Cilegon"
                     },
                     "id": "ID3672"
@@ -724,7 +724,7 @@
                         "cy": -6.17944,
                         "cx": 106.62991,
                         "fips": "ID3671",
-                        "locname": " Tangerang",
+                        "locname": "Tangerang",
                         "iso_name": "Kota Tangerang"
                     },
                     "id": "ID3671"
@@ -760,7 +760,7 @@
                         "cy": -6.65,
                         "cx": 106.21667,
                         "fips": "ID3602",
-                        "locname": " Lebak",
+                        "locname": "Lebak",
                         "iso_name": "Kabupaten Lebak"
                     },
                     "id": "ID3602"
@@ -786,7 +786,7 @@
                         "cy": -6.63333,
                         "cx": 105.75,
                         "fips": "ID3601",
-                        "locname": " Pandeglang",
+                        "locname": "Pandeglang",
                         "iso_name": "Kabupaten Pandeglang"
                     },
                     "id": "ID3601"
@@ -810,7 +810,7 @@
                         "cy": -6.15,
                         "cx": 106,
                         "fips": "ID3604",
-                        "locname": " Serang",
+                        "locname": "Serang",
                         "iso_name": "Kabupaten Serang"
                     },
                     "id": "ID3604"
@@ -834,7 +834,7 @@
                         "cy": -6.2,
                         "cx": 106.46667,
                         "fips": "ID3603",
-                        "locname": " Tangerang",
+                        "locname": "Tangerang",
                         "iso_name": "Kabupaten Tangerang"
                     },
                     "id": "ID3603"
@@ -855,7 +855,7 @@
                         "cy": -4.35,
                         "cx": 103.03333,
                         "fips": "ID1701",
-                        "locname": " Bengkulu Selatan",
+                        "locname": "Bengkulu Selatan",
                         "iso_name": "Kabupaten Bengkulu Selatan"
                     },
                     "id": "ID1701"
@@ -877,7 +877,7 @@
                         "cy": -3.20679,
                         "cx": 102.12616,
                         "fips": "ID1709",
-                        "locname": " Bengkulu Tengah",
+                        "locname": "Bengkulu Tengah",
                         "iso_name": "Kabupaten Bengkulu Tengah"
                     },
                     "id": "ID1709"
@@ -906,7 +906,7 @@
                         "cy": -3.33333,
                         "cx": 102.05,
                         "fips": "ID1703",
-                        "locname": " Bengkulu Utara",
+                        "locname": "Bengkulu Utara",
                         "iso_name": "Kabupaten Bengkulu Utara"
                     },
                     "id": "ID1703"
@@ -928,7 +928,7 @@
                         "cy": -4.78179,
                         "cx": 103.36109,
                         "fips": "ID1704",
-                        "locname": " Kaur",
+                        "locname": "Kaur",
                         "iso_name": "Kabupaten Kaur"
                     },
                     "id": "ID1704"
@@ -948,7 +948,7 @@
                         "cy": -3.60194,
                         "cx": 102.56424,
                         "fips": "ID1708",
-                        "locname": " Kepahiang",
+                        "locname": "Kepahiang",
                         "iso_name": "Kabupaten Kepahiang"
                     },
                     "id": "ID1708"
@@ -981,7 +981,7 @@
                         "cy": -3.24278,
                         "cx": 102.3349,
                         "fips": "ID1707",
-                        "locname": " Lebong",
+                        "locname": "Lebong",
                         "iso_name": "Kabupaten Lebong"
                     },
                     "id": "ID1707"
@@ -1002,7 +1002,7 @@
                         "cy": -3.07438,
                         "cx": 101.54766,
                         "fips": "ID1706",
-                        "locname": " Mukomuko",
+                        "locname": "Mukomuko",
                         "iso_name": "Kabupaten Mukomuko"
                     },
                     "id": "ID1706"
@@ -1026,7 +1026,7 @@
                         "cy": -3.43333,
                         "cx": 102.71667,
                         "fips": "ID1702",
-                        "locname": " Rejang Lebong",
+                        "locname": "Rejang Lebong",
                         "iso_name": "Kabupaten Rejang Lebong"
                     },
                     "id": "ID1702"
@@ -1049,7 +1049,7 @@
                         "cy": -3.96644,
                         "cx": 102.47429,
                         "fips": "ID1705",
-                        "locname": " Seluma",
+                        "locname": "Seluma",
                         "iso_name": "Kabupaten Seluma"
                     },
                     "id": "ID1705"
@@ -1071,7 +1071,7 @@
                         "cy": -7.9,
                         "cx": 110.36667,
                         "fips": "ID3402",
-                        "locname": " Bantul",
+                        "locname": "Bantul",
                         "iso_name": "Kabupaten Bantul"
                     },
                     "id": "ID3402"
@@ -1093,7 +1093,7 @@
                         "cy": -7.98333,
                         "cx": 110.61667,
                         "fips": "ID3403",
-                        "locname": " Gunung Kidul",
+                        "locname": "Gunung Kidul",
                         "iso_name": "Kabupaten Gunung Kidul"
                     },
                     "id": "ID3403"
@@ -1111,7 +1111,7 @@
                         "cy": -7.8,
                         "cx": 110.375,
                         "fips": "ID3471",
-                        "locname": " Yogyakarta",
+                        "locname": "Yogyakarta",
                         "iso_name": "Kota Yogyakarta"
                     },
                     "id": "ID3471"
@@ -1132,7 +1132,7 @@
                         "cy": -7.645,
                         "cx": 110.02694,
                         "fips": "ID3401",
-                        "locname": " Kulon Progo",
+                        "locname": "Kulon Progo",
                         "iso_name": "Kabupaten Kulon Progo"
                     },
                     "id": "ID3401"
@@ -1155,7 +1155,7 @@
                         "cy": -7.68167,
                         "cx": 110.32333,
                         "fips": "ID3404",
-                        "locname": " Sleman",
+                        "locname": "Sleman",
                         "iso_name": "Kabupaten Sleman"
                     },
                     "id": "ID3404"
@@ -1167,7 +1167,7 @@
                         "cy": -5.5985,
                         "cx": 106.55271,
                         "fips": "ID3101",
-                        "locname": " Kepulauan Seribu",
+                        "locname": "Kepulauan Seribu",
                         "iso_name": "Kabupaten Kepulauan Seribu"
                     },
                     "id": "ID3101"
@@ -1188,7 +1188,7 @@
                         "cy": -6.1676,
                         "cx": 106.7673,
                         "fips": "ID3174",
-                        "locname": " Jakarta Barat",
+                        "locname": "Jakarta Barat",
                         "iso_name": "Kota Jakarta Barat"
                     },
                     "id": "ID3174"
@@ -1208,7 +1208,7 @@
                         "cy": -6.1777,
                         "cx": 106.8403,
                         "fips": "ID3173",
-                        "locname": " Jakarta Pusat",
+                        "locname": "Jakarta Pusat",
                         "iso_name": "Kota Jakarta Pusat"
                     },
                     "id": "ID3173"
@@ -1230,7 +1230,7 @@
                         "cy": -6.266,
                         "cx": 106.8135,
                         "fips": "ID3171",
-                        "locname": " Jakarta Selatan",
+                        "locname": "Jakarta Selatan",
                         "iso_name": "Kota Jakarta Selatan"
                     },
                     "id": "ID3171"
@@ -1252,7 +1252,7 @@
                         "cy": -6.2521,
                         "cx": 106.884,
                         "fips": "ID3172",
-                        "locname": " Jakarta Timur",
+                        "locname": "Jakarta Timur",
                         "iso_name": "Kota Jakarta Timur"
                     },
                     "id": "ID3172"
@@ -1274,7 +1274,7 @@
                         "cy": -6.1339,
                         "cx": 106.8823,
                         "fips": "ID3175",
-                        "locname": " Jakarta Utara",
+                        "locname": "Jakarta Utara",
                         "iso_name": "Kota Jakarta Utara"
                     },
                     "id": "ID3175"
@@ -1294,7 +1294,7 @@
                         "cy": 0.62689,
                         "cx": 122.3568,
                         "fips": "ID7501",
-                        "locname": " Boalemo",
+                        "locname": "Boalemo",
                         "iso_name": "Kabupaten Boalemo"
                     },
                     "id": "ID7501"
@@ -1316,7 +1316,7 @@
                         "cy": 0.50296,
                         "cx": 123.27501,
                         "fips": "ID7504",
-                        "locname": " Bone Bolango",
+                        "locname": "Bone Bolango",
                         "iso_name": "Kabupaten Bone Bolango"
                     },
                     "id": "ID7504"
@@ -1337,7 +1337,7 @@
                         "cy": 0.5728,
                         "cx": 122.2337,
                         "fips": "ID7502",
-                        "locname": " Gorontalo",
+                        "locname": "Gorontalo",
                         "iso_name": "Kabupaten Gorontalo"
                     },
                     "id": "ID7502"
@@ -1372,7 +1372,7 @@
                         "cy": 0.53333,
                         "cx": 123.1,
                         "fips": "ID7571",
-                        "locname": " Gorontalo",
+                        "locname": "Gorontalo",
                         "iso_name": "Kota Gorontalo"
                     },
                     "id": "ID7571"
@@ -1393,7 +1393,7 @@
                         "cy": 0.7098,
                         "cx": 121.59582,
                         "fips": "ID7503",
-                        "locname": " Pohuwato",
+                        "locname": "Pohuwato",
                         "iso_name": "Kabupaten Pohuwato"
                     },
                     "id": "ID7503"
@@ -1414,7 +1414,7 @@
                         "cy": -1.75,
                         "cx": 103.11667,
                         "fips": "ID1504",
-                        "locname": " Batang Hari",
+                        "locname": "Batang Hari",
                         "iso_name": "Kabupaten Batang Hari"
                     },
                     "id": "ID1504"
@@ -1434,7 +1434,7 @@
                         "cy": -1.50222,
                         "cx": 101.96,
                         "fips": "ID1509",
-                        "locname": " Bungo",
+                        "locname": "Bungo",
                         "iso_name": "Kabupaten Bungo"
                     },
                     "id": "ID1509"
@@ -1458,7 +1458,7 @@
                         "cy": -2.03333,
                         "cx": 101.53333,
                         "fips": "ID1501",
-                        "locname": " Kerinci",
+                        "locname": "Kerinci",
                         "iso_name": "Kabupaten Kerinci"
                     },
                     "id": "ID1501"
@@ -1475,7 +1475,7 @@
                         "cy": -1.61667,
                         "cx": 103.65,
                         "fips": "ID1571",
-                        "locname": " Jambi",
+                        "locname": "Jambi",
                         "iso_name": "Kota Jambi"
                     },
                     "id": "ID1571"
@@ -1510,7 +1510,7 @@
                         "cy": -2.06933,
                         "cx": 102.13303,
                         "fips": "ID1502",
-                        "locname": " Merangin",
+                        "locname": "Merangin",
                         "iso_name": "Kabupaten Merangin"
                     },
                     "id": "ID1502"
@@ -1534,7 +1534,7 @@
                         "cy": -1.55214,
                         "cx": 103.82163,
                         "fips": "ID1505",
-                        "locname": " Muaro Jambi",
+                        "locname": "Muaro Jambi",
                         "iso_name": "Kabupaten Muaro Jambi"
                     },
                     "id": "ID1505"
@@ -1555,7 +1555,7 @@
                         "cy": -2.3,
                         "cx": 102.65,
                         "fips": "ID1503",
-                        "locname": " Sarolangun",
+                        "locname": "Sarolangun",
                         "iso_name": "Kabupaten Sarolangun"
                     },
                     "id": "ID1503"
@@ -1577,7 +1577,7 @@
                         "cy": -1.1544,
                         "cx": 103.24402,
                         "fips": "ID1507",
-                        "locname": " Tanjung Jabung Barat",
+                        "locname": "Tanjung Jabung Barat",
                         "iso_name": "Kabupaten Tanjung Jabung Barat"
                     },
                     "id": "ID1507"
@@ -1597,7 +1597,7 @@
                         "cy": -1.13198,
                         "cx": 103.61755,
                         "fips": "ID1506",
-                        "locname": " Tanjung Jabung Timur",
+                        "locname": "Tanjung Jabung Timur",
                         "iso_name": "Kabupaten Tanjung Jabung Timur"
                     },
                     "id": "ID1506"
@@ -1622,7 +1622,7 @@
                         "cy": -1.45576,
                         "cx": 102.37473,
                         "fips": "ID1508",
-                        "locname": " Tebo",
+                        "locname": "Tebo",
                         "iso_name": "Kabupaten Tebo"
                     },
                     "id": "ID1508"
@@ -1646,7 +1646,7 @@
                         "cy": -7.1,
                         "cx": 107.6,
                         "fips": "ID3204",
-                        "locname": " Bandung",
+                        "locname": "Bandung",
                         "iso_name": "Kabupaten Bandung"
                     },
                     "id": "ID3204"
@@ -1685,7 +1685,7 @@
                         "cy": -6.24667,
                         "cx": 107.10833,
                         "fips": "ID3216",
-                        "locname": " Bekasi",
+                        "locname": "Bekasi",
                         "iso_name": "Kabupaten Bekasi"
                     },
                     "id": "ID3216"
@@ -1714,7 +1714,7 @@
                         "cy": -6.58333,
                         "cx": 106.71667,
                         "fips": "ID3201",
-                        "locname": " Bogor",
+                        "locname": "Bogor",
                         "iso_name": "Kabupaten Bogor"
                     },
                     "id": "ID3201"
@@ -1739,7 +1739,7 @@
                         "cy": -7.28333,
                         "cx": 108.41667,
                         "fips": "ID3207",
-                        "locname": " Ciamis",
+                        "locname": "Ciamis",
                         "iso_name": "Kabupaten Ciamis"
                     },
                     "id": "ID3207"
@@ -1763,7 +1763,7 @@
                         "cy": -6.7725,
                         "cx": 107.08306,
                         "fips": "ID3203",
-                        "locname": " Cianjur",
+                        "locname": "Cianjur",
                         "iso_name": "Kabupaten Cianjur"
                     },
                     "id": "ID3203"
@@ -1786,7 +1786,7 @@
                         "cy": -6.8,
                         "cx": 108.56667,
                         "fips": "ID3209",
-                        "locname": " Cirebon",
+                        "locname": "Cirebon",
                         "iso_name": "Kabupaten Cirebon"
                     },
                     "id": "ID3209"
@@ -1807,7 +1807,7 @@
                         "cy": -7.38333,
                         "cx": 107.76667,
                         "fips": "ID3205",
-                        "locname": " Garut",
+                        "locname": "Garut",
                         "iso_name": "Kabupaten Garut"
                     },
                     "id": "ID3205"
@@ -1828,7 +1828,7 @@
                         "cy": -6.45,
                         "cx": 108.16667,
                         "fips": "ID3212",
-                        "locname": " Indramayu",
+                        "locname": "Indramayu",
                         "iso_name": "Kabupaten Indramayu"
                     },
                     "id": "ID3212"
@@ -1849,7 +1849,7 @@
                         "cy": -6.26667,
                         "cx": 107.41667,
                         "fips": "ID3215",
-                        "locname": " Karawang",
+                        "locname": "Karawang",
                         "iso_name": "Kabupaten Karawang"
                     },
                     "id": "ID3215"
@@ -1868,7 +1868,7 @@
                         "cy": -6.9175,
                         "cx": 107.62444,
                         "fips": "ID3273",
-                        "locname": " Bandung",
+                        "locname": "Bandung",
                         "iso_name": "Kota Bandung"
                     },
                     "id": "ID3273"
@@ -1886,7 +1886,7 @@
                         "cy": -7.36996,
                         "cx": 108.53209,
                         "fips": "ID3279",
-                        "locname": " Banjar",
+                        "locname": "Banjar",
                         "iso_name": "Kota Banjar"
                     },
                     "id": "ID3279"
@@ -1906,7 +1906,7 @@
                         "cy": -6.28333,
                         "cx": 106.98333,
                         "fips": "ID3275",
-                        "locname": " Bekasi",
+                        "locname": "Bekasi",
                         "iso_name": "Kota Bekasi"
                     },
                     "id": "ID3275"
@@ -1923,7 +1923,7 @@
                         "cy": -6.59167,
                         "cx": 106.8,
                         "fips": "ID3271",
-                        "locname": " Bogor",
+                        "locname": "Bogor",
                         "iso_name": "Kota Bogor"
                     },
                     "id": "ID3271"
@@ -1942,7 +1942,7 @@
                         "cy": -6.89167,
                         "cx": 107.55,
                         "fips": "ID3277",
-                        "locname": " Cimahi",
+                        "locname": "Cimahi",
                         "iso_name": "Kota Cimahi"
                     },
                     "id": "ID3277"
@@ -1960,7 +1960,7 @@
                         "cy": -6.75,
                         "cx": 108.55,
                         "fips": "ID3274",
-                        "locname": " Cirebon",
+                        "locname": "Cirebon",
                         "iso_name": "Kota Cirebon"
                     },
                     "id": "ID3274"
@@ -1981,7 +1981,7 @@
                         "cy": -6.4,
                         "cx": 106.81667,
                         "fips": "ID3276",
-                        "locname": " Depok",
+                        "locname": "Depok",
                         "iso_name": "Kota Depok"
                     },
                     "id": "ID3276"
@@ -1998,7 +1998,7 @@
                         "cy": -6.95,
                         "cx": 106.93333,
                         "fips": "ID3272",
-                        "locname": " Sukabumi",
+                        "locname": "Sukabumi",
                         "iso_name": "Kota Sukabumi"
                     },
                     "id": "ID3272"
@@ -2016,7 +2016,7 @@
                         "cy": -7.35,
                         "cx": 108.21667,
                         "fips": "ID3278",
-                        "locname": " Tasikmalaya",
+                        "locname": "Tasikmalaya",
                         "iso_name": "Kota Tasikmalaya"
                     },
                     "id": "ID3278"
@@ -2037,7 +2037,7 @@
                         "cy": -7,
                         "cx": 108.55,
                         "fips": "ID3208",
-                        "locname": " Kuningan",
+                        "locname": "Kuningan",
                         "iso_name": "Kabupaten Kuningan"
                     },
                     "id": "ID3208"
@@ -2059,7 +2059,7 @@
                         "cy": -6.81667,
                         "cx": 108.28333,
                         "fips": "ID3210",
-                        "locname": " Majalengka",
+                        "locname": "Majalengka",
                         "iso_name": "Kabupaten Majalengka"
                     },
                     "id": "ID3210"
@@ -2094,7 +2094,7 @@
                         "cy": -6.58333,
                         "cx": 107.45,
                         "fips": "ID3214",
-                        "locname": " Purwakarta",
+                        "locname": "Purwakarta",
                         "iso_name": "Kabupaten Purwakarta"
                     },
                     "id": "ID3214"
@@ -2117,7 +2117,7 @@
                         "cy": -6.50833,
                         "cx": 107.7025,
                         "fips": "ID3213",
-                        "locname": " Subang",
+                        "locname": "Subang",
                         "iso_name": "Kabupaten Subang"
                     },
                     "id": "ID3213"
@@ -2140,7 +2140,7 @@
                         "cy": -7.06667,
                         "cx": 106.7,
                         "fips": "ID3202",
-                        "locname": " Sukabumi",
+                        "locname": "Sukabumi",
                         "iso_name": "Kabupaten Sukabumi"
                     },
                     "id": "ID3202"
@@ -2162,7 +2162,7 @@
                         "cy": -6.81667,
                         "cx": 107.98333,
                         "fips": "ID3211",
-                        "locname": " Sumedang",
+                        "locname": "Sumedang",
                         "iso_name": "Kabupaten Sumedang"
                     },
                     "id": "ID3211"
@@ -2186,7 +2186,7 @@
                         "cy": -7.5,
                         "cx": 108.13333,
                         "fips": "ID3206",
-                        "locname": " Tasikmalaya",
+                        "locname": "Tasikmalaya",
                         "iso_name": "Kabupaten Tasikmalaya"
                     },
                     "id": "ID3206"
@@ -2220,7 +2220,7 @@
                         "cy": -7.35111,
                         "cx": 109.5875,
                         "fips": "ID3304",
-                        "locname": " Banjarnegara",
+                        "locname": "Banjarnegara",
                         "iso_name": "Kabupaten Banjarnegara"
                     },
                     "id": "ID3304"
@@ -2243,7 +2243,7 @@
                         "cy": -7.45,
                         "cx": 109.16667,
                         "fips": "ID3302",
-                        "locname": " Banyumas",
+                        "locname": "Banyumas",
                         "iso_name": "Kabupaten Banyumas"
                     },
                     "id": "ID3302"
@@ -2265,7 +2265,7 @@
                         "cy": -7.03333,
                         "cx": 109.88333,
                         "fips": "ID3325",
-                        "locname": " Batang",
+                        "locname": "Batang",
                         "iso_name": "Kabupaten Batang"
                     },
                     "id": "ID3325"
@@ -2287,7 +2287,7 @@
                         "cy": -7.06667,
                         "cx": 111.38333,
                         "fips": "ID3316",
-                        "locname": " Blora",
+                        "locname": "Blora",
                         "iso_name": "Kabupaten Blora"
                     },
                     "id": "ID3316"
@@ -2313,7 +2313,7 @@
                         "cy": -7.5,
                         "cx": 110.7,
                         "fips": "ID3309",
-                        "locname": " Boyolali",
+                        "locname": "Boyolali",
                         "iso_name": "Kabupaten Boyolali"
                     },
                     "id": "ID3309"
@@ -2336,7 +2336,7 @@
                         "cy": -7.05,
                         "cx": 108.9,
                         "fips": "ID3329",
-                        "locname": " Brebes",
+                        "locname": "Brebes",
                         "iso_name": "Kabupaten Brebes"
                     },
                     "id": "ID3329"
@@ -2361,7 +2361,7 @@
                         "cy": -7.57417,
                         "cx": 108.98861,
                         "fips": "ID3301",
-                        "locname": " Cilacap",
+                        "locname": "Cilacap",
                         "iso_name": "Kabupaten Cilacap"
                     },
                     "id": "ID3301"
@@ -2383,7 +2383,7 @@
                         "cy": -6.8993,
                         "cx": 110.6122,
                         "fips": "ID3321",
-                        "locname": " Demak",
+                        "locname": "Demak",
                         "iso_name": "Kabupaten Demak"
                     },
                     "id": "ID3321"
@@ -2408,7 +2408,7 @@
                         "cy": -7.11667,
                         "cx": 110.91667,
                         "fips": "ID3315",
-                        "locname": " Grobogan",
+                        "locname": "Grobogan",
                         "iso_name": "Kabupaten Grobogan"
                     },
                     "id": "ID3315"
@@ -2446,7 +2446,7 @@
                         "cy": -6.58333,
                         "cx": 110.76667,
                         "fips": "ID3320",
-                        "locname": " Jepara",
+                        "locname": "Jepara",
                         "iso_name": "Kabupaten Jepara"
                     },
                     "id": "ID3320"
@@ -2482,7 +2482,7 @@
                         "cy": -7.62806,
                         "cx": 111.0625,
                         "fips": "ID3313",
-                        "locname": " Karanganyar",
+                        "locname": "Karanganyar",
                         "iso_name": "Kabupaten Karanganyar"
                     },
                     "id": "ID3313"
@@ -2504,7 +2504,7 @@
                         "cy": -7.63917,
                         "cx": 109.66056,
                         "fips": "ID3305",
-                        "locname": " Kebumen",
+                        "locname": "Kebumen",
                         "iso_name": "Kabupaten Kebumen"
                     },
                     "id": "ID3305"
@@ -2528,7 +2528,7 @@
                         "cy": -7.0256,
                         "cx": 110.1685,
                         "fips": "ID3324",
-                        "locname": " Kendal",
+                        "locname": "Kendal",
                         "iso_name": "Kabupaten Kendal"
                     },
                     "id": "ID3324"
@@ -2548,7 +2548,7 @@
                         "cy": -7.68333,
                         "cx": 110.61667,
                         "fips": "ID3310",
-                        "locname": " Klaten",
+                        "locname": "Klaten",
                         "iso_name": "Kabupaten Klaten"
                     },
                     "id": "ID3310"
@@ -2565,7 +2565,7 @@
                         "cy": -7.5,
                         "cx": 110.225,
                         "fips": "ID3371",
-                        "locname": " Magelang",
+                        "locname": "Magelang",
                         "iso_name": "Kota Magelang"
                     },
                     "id": "ID3371"
@@ -2584,7 +2584,7 @@
                         "cy": -6.9,
                         "cx": 109.68333,
                         "fips": "ID3375",
-                        "locname": " Pekalongan",
+                        "locname": "Pekalongan",
                         "iso_name": "Kota Pekalongan"
                     },
                     "id": "ID3375"
@@ -2601,7 +2601,7 @@
                         "cy": -7.33278,
                         "cx": 110.48333,
                         "fips": "ID3373",
-                        "locname": " Salatiga",
+                        "locname": "Salatiga",
                         "iso_name": "Kota Salatiga"
                     },
                     "id": "ID3373"
@@ -2621,7 +2621,7 @@
                         "cy": -7.03333,
                         "cx": 110.38333,
                         "fips": "ID3374",
-                        "locname": " Semarang",
+                        "locname": "Semarang",
                         "iso_name": "Kota Semarang"
                     },
                     "id": "ID3374"
@@ -2641,7 +2641,7 @@
                         "cy": -7.55,
                         "cx": 110.81667,
                         "fips": "ID3372",
-                        "locname": " Surakarta",
+                        "locname": "Surakarta",
                         "iso_name": "Kota Surakarta"
                     },
                     "id": "ID3372"
@@ -2660,7 +2660,7 @@
                         "cy": -6.8686,
                         "cx": 109.1129,
                         "fips": "ID3376",
-                        "locname": " Tegal",
+                        "locname": "Tegal",
                         "iso_name": "Kota Tegal"
                     },
                     "id": "ID3376"
@@ -2680,7 +2680,7 @@
                         "cy": -6.8,
                         "cx": 110.86667,
                         "fips": "ID3319",
-                        "locname": " Kudus",
+                        "locname": "Kudus",
                         "iso_name": "Kabupaten Kudus"
                     },
                     "id": "ID3319"
@@ -2706,7 +2706,7 @@
                         "cy": -7.4275,
                         "cx": 110.16194,
                         "fips": "ID3308",
-                        "locname": " Magelang",
+                        "locname": "Magelang",
                         "iso_name": "Kabupaten Magelang"
                     },
                     "id": "ID3308"
@@ -2728,7 +2728,7 @@
                         "cy": -6.76667,
                         "cx": 111.1,
                         "fips": "ID3318",
-                        "locname": " Pati",
+                        "locname": "Pati",
                         "iso_name": "Kabupaten Pati"
                     },
                     "id": "ID3318"
@@ -2750,7 +2750,7 @@
                         "cy": -7.0319,
                         "cx": 109.624,
                         "fips": "ID3326",
-                        "locname": " Pekalongan",
+                        "locname": "Pekalongan",
                         "iso_name": "Kabupaten Pekalongan"
                     },
                     "id": "ID3326"
@@ -2771,7 +2771,7 @@
                         "cy": -7.03333,
                         "cx": 109.4,
                         "fips": "ID3327",
-                        "locname": " Pemalang",
+                        "locname": "Pemalang",
                         "iso_name": "Kabupaten Pemalang"
                     },
                     "id": "ID3327"
@@ -2791,7 +2791,7 @@
                         "cy": -7.28417,
                         "cx": 109.35028,
                         "fips": "ID3303",
-                        "locname": " Purbalingga",
+                        "locname": "Purbalingga",
                         "iso_name": "Kabupaten Purbalingga"
                     },
                     "id": "ID3303"
@@ -2812,7 +2812,7 @@
                         "cy": -7.7,
                         "cx": 109.96667,
                         "fips": "ID3306",
-                        "locname": " Purworejo",
+                        "locname": "Purworejo",
                         "iso_name": "Kabupaten Purworejo"
                     },
                     "id": "ID3306"
@@ -2832,7 +2832,7 @@
                         "cy": -6.78333,
                         "cx": 111.46667,
                         "fips": "ID3317",
-                        "locname": " Rembang",
+                        "locname": "Rembang",
                         "iso_name": "Kabupaten Rembang"
                     },
                     "id": "ID3317"
@@ -2860,7 +2860,7 @@
                         "cy": -7.20667,
                         "cx": 110.44139,
                         "fips": "ID3322",
-                        "locname": " Semarang",
+                        "locname": "Semarang",
                         "iso_name": "Kabupaten Semarang"
                     },
                     "id": "ID3322"
@@ -2885,7 +2885,7 @@
                         "cy": -7.41278,
                         "cx": 110.935,
                         "fips": "ID3314",
-                        "locname": " Sragen",
+                        "locname": "Sragen",
                         "iso_name": "Kabupaten Sragen"
                     },
                     "id": "ID3314"
@@ -2908,7 +2908,7 @@
                         "cy": -7.68333,
                         "cx": 110.83333,
                         "fips": "ID3311",
-                        "locname": " Sukoharjo",
+                        "locname": "Sukoharjo",
                         "iso_name": "Kabupaten Sukoharjo"
                     },
                     "id": "ID3311"
@@ -2929,7 +2929,7 @@
                         "cy": -7.03333,
                         "cx": 109.16667,
                         "fips": "ID3328",
-                        "locname": " Tegal",
+                        "locname": "Tegal",
                         "iso_name": "Kabupaten Tegal"
                     },
                     "id": "ID3328"
@@ -2949,7 +2949,7 @@
                         "cy": -7.25,
                         "cx": 110.11667,
                         "fips": "ID3323",
-                        "locname": " Temanggung",
+                        "locname": "Temanggung",
                         "iso_name": "Kabupaten Temanggung"
                     },
                     "id": "ID3323"
@@ -2984,7 +2984,7 @@
                         "cy": -7.91667,
                         "cx": 111,
                         "fips": "ID3312",
-                        "locname": " Wonogiri",
+                        "locname": "Wonogiri",
                         "iso_name": "Kabupaten Wonogiri"
                     },
                     "id": "ID3312"
@@ -3007,7 +3007,7 @@
                         "cy": -7.36139,
                         "cx": 109.92667,
                         "fips": "ID3307",
-                        "locname": " Wonosobo",
+                        "locname": "Wonosobo",
                         "iso_name": "Kabupaten Wonosobo"
                     },
                     "id": "ID3307"
@@ -3025,7 +3025,7 @@
                         "cy": -7.05,
                         "cx": 112.93333,
                         "fips": "ID3526",
-                        "locname": " Bangkalan",
+                        "locname": "Bangkalan",
                         "iso_name": "Kabupaten Bangkalan"
                     },
                     "id": "ID3526"
@@ -3045,7 +3045,7 @@
                         "cy": -8.33333,
                         "cx": 114.2,
                         "fips": "ID3510",
-                        "locname": " Banyuwangi",
+                        "locname": "Banyuwangi",
                         "iso_name": "Kabupaten Banyuwangi"
                     },
                     "id": "ID3510"
@@ -3068,7 +3068,7 @@
                         "cy": -8.13333,
                         "cx": 112.25,
                         "fips": "ID3505",
-                        "locname": " Blitar",
+                        "locname": "Blitar",
                         "iso_name": "Kabupaten Blitar"
                     },
                     "id": "ID3505"
@@ -3091,7 +3091,7 @@
                         "cy": -7.25,
                         "cx": 111.8,
                         "fips": "ID3522",
-                        "locname": " Bojonegoro",
+                        "locname": "Bojonegoro",
                         "iso_name": "Kabupaten Bojonegoro"
                     },
                     "id": "ID3522"
@@ -3111,7 +3111,7 @@
                         "cy": -7.9404,
                         "cx": 113.9834,
                         "fips": "ID3511",
-                        "locname": " Bondowoso",
+                        "locname": "Bondowoso",
                         "iso_name": "Kabupaten Bondowoso"
                     },
                     "id": "ID3511"
@@ -3139,7 +3139,7 @@
                         "cy": -7.1933,
                         "cx": 112.553,
                         "fips": "ID3525",
-                        "locname": " Gresik",
+                        "locname": "Gresik",
                         "iso_name": "Kabupaten Gresik"
                     },
                     "id": "ID3525"
@@ -3167,7 +3167,7 @@
                         "cy": -8.25,
                         "cx": 113.65,
                         "fips": "ID3509",
-                        "locname": " Jember",
+                        "locname": "Jember",
                         "iso_name": "Kabupaten Jember"
                     },
                     "id": "ID3509"
@@ -3189,7 +3189,7 @@
                         "cy": -7.55,
                         "cx": 112.25,
                         "fips": "ID3517",
-                        "locname": " Jombang",
+                        "locname": "Jombang",
                         "iso_name": "Kabupaten Jombang"
                     },
                     "id": "ID3517"
@@ -3213,7 +3213,7 @@
                         "cy": -7.83333,
                         "cx": 112.16667,
                         "fips": "ID3506",
-                        "locname": " Kediri",
+                        "locname": "Kediri",
                         "iso_name": "Kabupaten Kediri"
                     },
                     "id": "ID3506"
@@ -3232,7 +3232,7 @@
                         "cy": -7.83272,
                         "cx": 112.53751,
                         "fips": "ID3579",
-                        "locname": " Batu",
+                        "locname": "Batu",
                         "iso_name": "Kota Batu"
                     },
                     "id": "ID3579"
@@ -3249,7 +3249,7 @@
                         "cy": -8.1,
                         "cx": 112.16667,
                         "fips": "ID3572",
-                        "locname": " Blitar",
+                        "locname": "Blitar",
                         "iso_name": "Kota Blitar"
                     },
                     "id": "ID3572"
@@ -3266,7 +3266,7 @@
                         "cy": -7.83333,
                         "cx": 112.01667,
                         "fips": "ID3571",
-                        "locname": " Kediri",
+                        "locname": "Kediri",
                         "iso_name": "Kota Kediri"
                     },
                     "id": "ID3571"
@@ -3284,7 +3284,7 @@
                         "cy": -7.63333,
                         "cx": 111.53333,
                         "fips": "ID3577",
-                        "locname": " Madiun",
+                        "locname": "Madiun",
                         "iso_name": "Kota Madiun"
                     },
                     "id": "ID3577"
@@ -3301,7 +3301,7 @@
                         "cy": -7.975,
                         "cx": 112.63333,
                         "fips": "ID3573",
-                        "locname": " Malang",
+                        "locname": "Malang",
                         "iso_name": "Kota Malang"
                     },
                     "id": "ID3573"
@@ -3318,7 +3318,7 @@
                         "cy": -7.46667,
                         "cx": 112.43333,
                         "fips": "ID3576",
-                        "locname": " Mojokerto",
+                        "locname": "Mojokerto",
                         "iso_name": "Kota Mojokerto"
                     },
                     "id": "ID3576"
@@ -3336,7 +3336,7 @@
                         "cy": -7.65,
                         "cx": 112.9,
                         "fips": "ID3575",
-                        "locname": " Pasuruan",
+                        "locname": "Pasuruan",
                         "iso_name": "Kota Pasuruan"
                     },
                     "id": "ID3575"
@@ -3354,7 +3354,7 @@
                         "cy": -7.78333,
                         "cx": 113.21667,
                         "fips": "ID3574",
-                        "locname": " Probolinggo",
+                        "locname": "Probolinggo",
                         "iso_name": "Kota Probolinggo"
                     },
                     "id": "ID3574"
@@ -3373,7 +3373,7 @@
                         "cy": -7.26667,
                         "cx": 112.71667,
                         "fips": "ID3578",
-                        "locname": " Surabaya",
+                        "locname": "Surabaya",
                         "iso_name": "Kota Surabaya"
                     },
                     "id": "ID3578"
@@ -3395,7 +3395,7 @@
                         "cy": -7.13333,
                         "cx": 112.31667,
                         "fips": "ID3524",
-                        "locname": " Lamongan",
+                        "locname": "Lamongan",
                         "iso_name": "Kabupaten Lamongan"
                     },
                     "id": "ID3524"
@@ -3415,7 +3415,7 @@
                         "cy": -8.11667,
                         "cx": 113.15,
                         "fips": "ID3508",
-                        "locname": " Lumajang",
+                        "locname": "Lumajang",
                         "iso_name": "Kabupaten Lumajang"
                     },
                     "id": "ID3508"
@@ -3438,7 +3438,7 @@
                         "cy": -7.61667,
                         "cx": 111.65,
                         "fips": "ID3519",
-                        "locname": " Madiun",
+                        "locname": "Madiun",
                         "iso_name": "Kabupaten Madiun"
                     },
                     "id": "ID3519"
@@ -3461,7 +3461,7 @@
                         "cy": -7.64472,
                         "cx": 111.35917,
                         "fips": "ID3520",
-                        "locname": " Magetan",
+                        "locname": "Magetan",
                         "iso_name": "Kabupaten Magetan"
                     },
                     "id": "ID3520"
@@ -3489,7 +3489,7 @@
                         "cy": -8.16667,
                         "cx": 112.66667,
                         "fips": "ID3507",
-                        "locname": " Malang",
+                        "locname": "Malang",
                         "iso_name": "Kabupaten Malang"
                     },
                     "id": "ID3507"
@@ -3515,7 +3515,7 @@
                         "cy": -7.55,
                         "cx": 112.5,
                         "fips": "ID3516",
-                        "locname": " Mojokerto",
+                        "locname": "Mojokerto",
                         "iso_name": "Kabupaten Mojokerto"
                     },
                     "id": "ID3516"
@@ -3537,7 +3537,7 @@
                         "cy": -7.6,
                         "cx": 111.93333,
                         "fips": "ID3518",
-                        "locname": " Nganjuk",
+                        "locname": "Nganjuk",
                         "iso_name": "Kabupaten Nganjuk"
                     },
                     "id": "ID3518"
@@ -3560,7 +3560,7 @@
                         "cy": -7.47444,
                         "cx": 111.33444,
                         "fips": "ID3521",
-                        "locname": " Ngawi",
+                        "locname": "Ngawi",
                         "iso_name": "Kabupaten Ngawi"
                     },
                     "id": "ID3521"
@@ -3580,7 +3580,7 @@
                         "cy": -8.13333,
                         "cx": 111.16667,
                         "fips": "ID3501",
-                        "locname": " Pacitan",
+                        "locname": "Pacitan",
                         "iso_name": "Kabupaten Pacitan"
                     },
                     "id": "ID3501"
@@ -3600,7 +3600,7 @@
                         "cy": -7.06667,
                         "cx": 113.5,
                         "fips": "ID3528",
-                        "locname": " Pamekasan",
+                        "locname": "Pamekasan",
                         "iso_name": "Kabupaten Pamekasan"
                     },
                     "id": "ID3528"
@@ -3624,7 +3624,7 @@
                         "cy": -7.73333,
                         "cx": 112.83333,
                         "fips": "ID3514",
-                        "locname": " Pasuruan",
+                        "locname": "Pasuruan",
                         "iso_name": "Kabupaten Pasuruan"
                     },
                     "id": "ID3514"
@@ -3647,7 +3647,7 @@
                         "cy": -7.93333,
                         "cx": 111.5,
                         "fips": "ID3502",
-                        "locname": " Ponorogo",
+                        "locname": "Ponorogo",
                         "iso_name": "Kabupaten Ponorogo"
                     },
                     "id": "ID3502"
@@ -3672,7 +3672,7 @@
                         "cy": -7.86667,
                         "cx": 113.31667,
                         "fips": "ID3513",
-                        "locname": " Probolinggo",
+                        "locname": "Probolinggo",
                         "iso_name": "Kabupaten Probolinggo"
                     },
                     "id": "ID3513"
@@ -3692,7 +3692,7 @@
                         "cy": -7.05,
                         "cx": 113.25,
                         "fips": "ID3527",
-                        "locname": " Sampang",
+                        "locname": "Sampang",
                         "iso_name": "Kabupaten Sampang"
                     },
                     "id": "ID3527"
@@ -3713,7 +3713,7 @@
                         "cy": -7.45,
                         "cx": 112.7,
                         "fips": "ID3515",
-                        "locname": " Sidoarjo",
+                        "locname": "Sidoarjo",
                         "iso_name": "Kabupaten Sidoarjo"
                     },
                     "id": "ID3515"
@@ -3733,7 +3733,7 @@
                         "cy": -7.71667,
                         "cx": 114.05,
                         "fips": "ID3512",
-                        "locname": " Situbondo",
+                        "locname": "Situbondo",
                         "iso_name": "Kabupaten Situbondo"
                     },
                     "id": "ID3512"
@@ -3788,7 +3788,7 @@
                         "cy": -7.11667,
                         "cx": 114.33333,
                         "fips": "ID3529",
-                        "locname": " Sumenep",
+                        "locname": "Sumenep",
                         "iso_name": "Kabupaten Sumenep"
                     },
                     "id": "ID3529"
@@ -3808,7 +3808,7 @@
                         "cy": -8.16667,
                         "cx": 111.61667,
                         "fips": "ID3503",
-                        "locname": " Trenggalek",
+                        "locname": "Trenggalek",
                         "iso_name": "Kabupaten Trenggalek"
                     },
                     "id": "ID3503"
@@ -3829,7 +3829,7 @@
                         "cy": -6.96667,
                         "cx": 111.9,
                         "fips": "ID3523",
-                        "locname": " Tuban",
+                        "locname": "Tuban",
                         "iso_name": "Kabupaten Tuban"
                     },
                     "id": "ID3523"
@@ -3851,7 +3851,7 @@
                         "cy": -8.11667,
                         "cx": 111.91667,
                         "fips": "ID3504",
-                        "locname": " Tulungagung",
+                        "locname": "Tulungagung",
                         "iso_name": "Kabupaten Tulungagung"
                     },
                     "id": "ID3504"
@@ -3874,7 +3874,7 @@
                         "cy": 1.06911,
                         "cx": 109.66393,
                         "fips": "ID6102",
-                        "locname": " Bengkayang",
+                        "locname": "Bengkayang",
                         "iso_name": "Kabupaten Bengkayang"
                     },
                     "id": "ID6102"
@@ -3894,7 +3894,7 @@
                         "cy": 0.81667,
                         "cx": 112.76667,
                         "fips": "ID6108",
-                        "locname": " Kapuas Hulu",
+                        "locname": "Kapuas Hulu",
                         "iso_name": "Kabupaten Kapuas Hulu"
                     },
                     "id": "ID6108"
@@ -3960,7 +3960,7 @@
                         "cy": -1.58333,
                         "cx": 110.5,
                         "fips": "ID6106",
-                        "locname": " Ketapang",
+                        "locname": "Ketapang",
                         "iso_name": "Kabupaten Ketapang"
                     },
                     "id": "ID6106"
@@ -3987,7 +3987,7 @@
                         "cy": -0.08333,
                         "cx": 109.36667,
                         "fips": "ID6171",
-                        "locname": " Pontianak",
+                        "locname": "Pontianak",
                         "iso_name": "Kota Pontianak"
                     },
                     "id": "ID6171"
@@ -4006,7 +4006,7 @@
                         "cy": 0.90734,
                         "cx": 109.00103,
                         "fips": "ID6172",
-                        "locname": " Singkawang",
+                        "locname": "Singkawang",
                         "iso_name": "Kota Singkawang"
                     },
                     "id": "ID6172"
@@ -4091,7 +4091,7 @@
                         "cy": 0.42373,
                         "cx": 109.75917,
                         "fips": "ID6103",
-                        "locname": " Landak",
+                        "locname": "Landak",
                         "iso_name": "Kabupaten Landak"
                     },
                     "id": "ID6103"
@@ -4112,7 +4112,7 @@
                         "cy": -0.33617,
                         "cx": 111.698,
                         "fips": "ID6110",
-                        "locname": " Melawi",
+                        "locname": "Melawi",
                         "iso_name": "Kabupaten Melawi"
                     },
                     "id": "ID6110"
@@ -4145,7 +4145,7 @@
                         "cy": 1.41667,
                         "cx": 109.33333,
                         "fips": "ID6101",
-                        "locname": " Sambas",
+                        "locname": "Sambas",
                         "iso_name": "Kabupaten Sambas"
                     },
                     "id": "ID6101"
@@ -4168,7 +4168,7 @@
                         "cy": 0.25472,
                         "cx": 110.45,
                         "fips": "ID6105",
-                        "locname": " Sanggau",
+                        "locname": "Sanggau",
                         "iso_name": "Kabupaten Sanggau"
                     },
                     "id": "ID6105"
@@ -4187,7 +4187,7 @@
                         "cy": 0.03485,
                         "cx": 110.95066,
                         "fips": "ID6109",
-                        "locname": " Sekadau",
+                        "locname": "Sekadau",
                         "iso_name": "Kabupaten Sekadau"
                     },
                     "id": "ID6109"
@@ -4212,7 +4212,7 @@
                         "cy": -0.08333,
                         "cx": 112.08333,
                         "fips": "ID6107",
-                        "locname": " Sintang",
+                        "locname": "Sintang",
                         "iso_name": "Kabupaten Sintang"
                     },
                     "id": "ID6107"
@@ -4233,7 +4233,7 @@
                         "cy": -2.32314,
                         "cx": 115.62922,
                         "fips": "ID6311",
-                        "locname": " Balangan",
+                        "locname": "Balangan",
                         "iso_name": "Kabupaten Balangan"
                     },
                     "id": "ID6311"
@@ -4260,7 +4260,7 @@
                         "cy": -3.31667,
                         "cx": 115.08333,
                         "fips": "ID6303",
-                        "locname": " Banjar",
+                        "locname": "Banjar",
                         "iso_name": "Kabupaten Banjar"
                     },
                     "id": "ID6303"
@@ -4284,7 +4284,7 @@
                         "cy": -3.08333,
                         "cx": 114.61667,
                         "fips": "ID6304",
-                        "locname": " Barito Kuala",
+                        "locname": "Barito Kuala",
                         "iso_name": "Kabupaten Barito Kuala"
                     },
                     "id": "ID6304"
@@ -4305,7 +4305,7 @@
                         "cy": -2.75,
                         "cx": 115.2,
                         "fips": "ID6306",
-                        "locname": " Hulu Sungai Selatan",
+                        "locname": "Hulu Sungai Selatan",
                         "iso_name": "Kabupaten Hulu Sungai Selatan"
                     },
                     "id": "ID6306"
@@ -4325,7 +4325,7 @@
                         "cy": -2.61667,
                         "cx": 115.41667,
                         "fips": "ID6307",
-                        "locname": " Hulu Sungai Tengah",
+                        "locname": "Hulu Sungai Tengah",
                         "iso_name": "Kabupaten Hulu Sungai Tengah"
                     },
                     "id": "ID6307"
@@ -4349,7 +4349,7 @@
                         "cy": -2.45,
                         "cx": 115.13333,
                         "fips": "ID6308",
-                        "locname": " Hulu Sungai Utara",
+                        "locname": "Hulu Sungai Utara",
                         "iso_name": "Kabupaten Hulu Sungai Utara"
                     },
                     "id": "ID6308"
@@ -4367,7 +4367,7 @@
                         "cy": -3.41667,
                         "cx": 114.83333,
                         "fips": "ID6372",
-                        "locname": " Banjar Baru",
+                        "locname": "Banjar Baru",
                         "iso_name": "Kota Banjar Baru"
                     },
                     "id": "ID6372"
@@ -4385,7 +4385,7 @@
                         "cy": -3.32444,
                         "cx": 114.59102,
                         "fips": "ID6371",
-                        "locname": " Banjarmasin",
+                        "locname": "Banjarmasin",
                         "iso_name": "Kota Banjarmasin"
                     },
                     "id": "ID6371"
@@ -4430,7 +4430,7 @@
                         "cy": -3,
                         "cx": 116,
                         "fips": "ID6302",
-                        "locname": "  Baru",
+                        "locname": "Kota Baru",
                         "iso_name": "Kabupaten Kota Baru"
                     },
                     "id": "ID6302"
@@ -4452,7 +4452,7 @@
                         "cy": -1.88333,
                         "cx": 115.5,
                         "fips": "ID6309",
-                        "locname": " Tabalong",
+                        "locname": "Tabalong",
                         "iso_name": "Kabupaten Tabalong"
                     },
                     "id": "ID6309"
@@ -4472,7 +4472,7 @@
                         "cy": -3.45413,
                         "cx": 115.70372,
                         "fips": "ID6310",
-                        "locname": " Tanah Bumbu",
+                        "locname": "Tanah Bumbu",
                         "iso_name": "Kabupaten Tanah Bumbu"
                     },
                     "id": "ID6310"
@@ -4493,7 +4493,7 @@
                         "cy": -3.88333,
                         "cx": 114.86667,
                         "fips": "ID6301",
-                        "locname": " Tanah Laut",
+                        "locname": "Tanah Laut",
                         "iso_name": "Kabupaten Tanah Laut"
                     },
                     "id": "ID6301"
@@ -4513,7 +4513,7 @@
                         "cy": -2.91667,
                         "cx": 115.03333,
                         "fips": "ID6305",
-                        "locname": " Tapin",
+                        "locname": "Tapin",
                         "iso_name": "Kabupaten Tapin"
                     },
                     "id": "ID6305"
@@ -4535,7 +4535,7 @@
                         "cy": -1.86667,
                         "cx": 114.73333,
                         "fips": "ID6204",
-                        "locname": " Barito Selatan",
+                        "locname": "Barito Selatan",
                         "iso_name": "Kabupaten Barito Selatan"
                     },
                     "id": "ID6204"
@@ -4554,7 +4554,7 @@
                         "cy": -1.93333,
                         "cx": 115.1,
                         "fips": "ID6212",
-                        "locname": " Barito Timur",
+                        "locname": "Barito Timur",
                         "iso_name": "Kabupaten Barito Timur"
                     },
                     "id": "ID6212"
@@ -4577,7 +4577,7 @@
                         "cy": -0.98333,
                         "cx": 115.1,
                         "fips": "ID6205",
-                        "locname": " Barito Utara",
+                        "locname": "Barito Utara",
                         "iso_name": "Kabupaten Barito Utara"
                     },
                     "id": "ID6205"
@@ -4599,7 +4599,7 @@
                         "cy": -0.95,
                         "cx": 113.5,
                         "fips": "ID6211",
-                        "locname": " Gunung Mas",
+                        "locname": "Gunung Mas",
                         "iso_name": "Kabupaten Gunung Mas"
                     },
                     "id": "ID6211"
@@ -4622,7 +4622,7 @@
                         "cy": -2.01667,
                         "cx": 114.38333,
                         "fips": "ID6203",
-                        "locname": " Kapuas",
+                        "locname": "Kapuas",
                         "iso_name": "Kabupaten Kapuas"
                     },
                     "id": "ID6203"
@@ -4653,7 +4653,7 @@
                         "cy": -2.06667,
                         "cx": 113.4,
                         "fips": "ID6209",
-                        "locname": " Katingan",
+                        "locname": "Katingan",
                         "iso_name": "Kabupaten Katingan"
                     },
                     "id": "ID6209"
@@ -4672,7 +4672,7 @@
                         "cy": -1.76979,
                         "cx": 113.73126,
                         "fips": "ID6271",
-                        "locname": " Palangka Raya",
+                        "locname": "Palangka Raya",
                         "iso_name": "Kota Palangka Raya"
                     },
                     "id": "ID6271"
@@ -4692,7 +4692,7 @@
                         "cy": -2.4,
                         "cx": 111.73333,
                         "fips": "ID6201",
-                        "locname": " Waringin Barat",
+                        "locname": "Kotawaringin Barat",
                         "iso_name": "Kabupaten Kotawaringin Barat"
                     },
                     "id": "ID6201"
@@ -4711,7 +4711,7 @@
                         "cy": -2.08333,
                         "cx": 112.75,
                         "fips": "ID6202",
-                        "locname": " Waringin Timur",
+                        "locname": "Kotawaringin Timur",
                         "iso_name": "Kabupaten Kotawaringin Timur"
                     },
                     "id": "ID6202"
@@ -4732,7 +4732,7 @@
                         "cy": -1.83828,
                         "cx": 111.2869,
                         "fips": "ID6207",
-                        "locname": " Lamandau",
+                        "locname": "Lamandau",
                         "iso_name": "Kabupaten Lamandau"
                     },
                     "id": "ID6207"
@@ -4754,7 +4754,7 @@
                         "cy": -0.01667,
                         "cx": 114.26667,
                         "fips": "ID6213",
-                        "locname": " Murung Raya",
+                        "locname": "Murung Raya",
                         "iso_name": "Kabupaten Murung Raya"
                     },
                     "id": "ID6213"
@@ -4775,7 +4775,7 @@
                         "cy": -3.11858,
                         "cx": 113.8623,
                         "fips": "ID6210",
-                        "locname": " Pulang Pisau",
+                        "locname": "Pulang Pisau",
                         "iso_name": "Kabupaten Pulang Pisau"
                     },
                     "id": "ID6210"
@@ -4797,7 +4797,7 @@
                         "cy": -2.33333,
                         "cx": 112.25,
                         "fips": "ID6208",
-                        "locname": " Seruyan",
+                        "locname": "Seruyan",
                         "iso_name": "Kabupaten Seruyan"
                     },
                     "id": "ID6208"
@@ -4817,7 +4817,7 @@
                         "cy": -2.62675,
                         "cx": 111.23681,
                         "fips": "ID6206",
-                        "locname": " Sukamara",
+                        "locname": "Sukamara",
                         "iso_name": "Kabupaten Sukamara"
                     },
                     "id": "ID6206"
@@ -4874,7 +4874,7 @@
                         "cy": 2,
                         "cx": 117.3,
                         "fips": "ID6405",
-                        "locname": " Berau",
+                        "locname": "Berau",
                         "iso_name": "Kabupaten Berau"
                     },
                     "id": "ID6405"
@@ -4893,7 +4893,7 @@
                         "cy": -1.16667,
                         "cx": 116.88333,
                         "fips": "ID6471",
-                        "locname": " Balikpapan",
+                        "locname": "Balikpapan",
                         "iso_name": "Kota Balikpapan"
                     },
                     "id": "ID6471"
@@ -4912,7 +4912,7 @@
                         "cy": 0.12526,
                         "cx": 117.49603,
                         "fips": "ID6474",
-                        "locname": " Bontang",
+                        "locname": "Bontang",
                         "iso_name": "Kota Bontang"
                     },
                     "id": "ID6474"
@@ -4930,7 +4930,7 @@
                         "cy": -0.43333,
                         "cx": 117.18333,
                         "fips": "ID6472",
-                        "locname": " Samarinda",
+                        "locname": "Samarinda",
                         "iso_name": "Kota Samarinda"
                     },
                     "id": "ID6472"
@@ -4951,7 +4951,7 @@
                         "cy": -0.59417,
                         "cx": 115.51575,
                         "fips": "ID6402",
-                        "locname": " Kutai Barat",
+                        "locname": "Kutai Barat",
                         "iso_name": "Kabupaten Kutai Barat"
                     },
                     "id": "ID6402"
@@ -5075,7 +5075,7 @@
                         "cy": -0.44019,
                         "cx": 116.98139,
                         "fips": "ID6403",
-                        "locname": " Kutai Kartanegara",
+                        "locname": "Kutai Kartanegara",
                         "iso_name": "Kabupaten Kutai Kartanegara"
                     },
                     "id": "ID6403"
@@ -5098,7 +5098,7 @@
                         "cy": 1.03769,
                         "cx": 117.83112,
                         "fips": "ID6404",
-                        "locname": " Kutai Timur",
+                        "locname": "Kutai Timur",
                         "iso_name": "Kabupaten Kutai Timur"
                     },
                     "id": "ID6404"
@@ -5137,7 +5137,7 @@
                         "cy": -1.43517,
                         "cx": 116.23535,
                         "fips": "ID6401",
-                        "locname": " Paser",
+                        "locname": "Paser",
                         "iso_name": "Kabupaten Paser"
                     },
                     "id": "ID6401"
@@ -5158,7 +5158,7 @@
                         "cy": -1.25,
                         "cx": 116.83333,
                         "fips": "ID6409",
-                        "locname": " Penajam Paser Utara",
+                        "locname": "Penajam Paser Utara",
                         "iso_name": "Kabupaten Penajam Paser Utara"
                     },
                     "id": "ID6409"
@@ -5257,7 +5257,7 @@
                         "cy": 3,
                         "cx": 117.16667,
                         "fips": "ID6502",
-                        "locname": " Bulungan",
+                        "locname": "Bulungan",
                         "iso_name": "Kabupaten Bulungan"
                     },
                     "id": "ID6502"
@@ -5274,7 +5274,7 @@
                         "cy": 3.36667,
                         "cx": 117.6,
                         "fips": "ID6571",
-                        "locname": " Tarakan",
+                        "locname": "Tarakan",
                         "iso_name": "Kota Tarakan"
                     },
                     "id": "ID6571"
@@ -5298,7 +5298,7 @@
                         "cy": 2.45,
                         "cx": 115.68333,
                         "fips": "ID6501",
-                        "locname": " Malinau",
+                        "locname": "Malinau",
                         "iso_name": "Kabupaten Malinau"
                     },
                     "id": "ID6501"
@@ -5344,7 +5344,7 @@
                         "cy": 4.13333,
                         "cx": 116.7,
                         "fips": "ID6504",
-                        "locname": " Nunukan",
+                        "locname": "Nunukan",
                         "iso_name": "Kabupaten Nunukan"
                     },
                     "id": "ID6504"
@@ -5416,7 +5416,7 @@
                         "cy": -1.91667,
                         "cx": 105.93333,
                         "fips": "ID1901",
-                        "locname": " Bangka",
+                        "locname": "Bangka",
                         "iso_name": "Kabupaten Bangka"
                     },
                     "id": "ID1901"
@@ -5434,7 +5434,7 @@
                         "cy": -1.95839,
                         "cx": 105.53741,
                         "fips": "ID1903",
-                        "locname": " Bangka Barat",
+                        "locname": "Bangka Barat",
                         "iso_name": "Kabupaten Bangka Barat"
                     },
                     "id": "ID1903"
@@ -5464,7 +5464,7 @@
                         "cy": -2.66803,
                         "cx": 106.01257,
                         "fips": "ID1905",
-                        "locname": " Bangka Selatan",
+                        "locname": "Bangka Selatan",
                         "iso_name": "Kabupaten Bangka Selatan"
                     },
                     "id": "ID1905"
@@ -5485,7 +5485,7 @@
                         "cy": -2.33989,
                         "cx": 106.1142,
                         "fips": "ID1904",
-                        "locname": " Bangka Tengah",
+                        "locname": "Bangka Tengah",
                         "iso_name": "Kabupaten Bangka Tengah"
                     },
                     "id": "ID1904"
@@ -5520,7 +5520,7 @@
                         "cy": -2.86667,
                         "cx": 107.7,
                         "fips": "ID1902",
-                        "locname": " Belitung",
+                        "locname": "Belitung",
                         "iso_name": "Kabupaten Belitung"
                     },
                     "id": "ID1902"
@@ -5538,7 +5538,7 @@
                         "cy": -2.9627,
                         "cx": 108.15216,
                         "fips": "ID1906",
-                        "locname": " Belitung Timur",
+                        "locname": "Belitung Timur",
                         "iso_name": "Kabupaten Belitung Timur"
                     },
                     "id": "ID1906"
@@ -5557,7 +5557,7 @@
                         "cy": -2.13333,
                         "cx": 106.13333,
                         "fips": "ID1971",
-                        "locname": " Pangkal Pinang",
+                        "locname": "Pangkal Pinang",
                         "iso_name": "Kota Pangkal Pinang"
                     },
                     "id": "ID1971"
@@ -5679,7 +5679,7 @@
                         "cy": 0.80764,
                         "cx": 103.41911,
                         "fips": "ID2101",
-                        "locname": " Karimun",
+                        "locname": "Karimun",
                         "iso_name": "Kabupaten Karimun"
                     },
                     "id": "ID2101"
@@ -5774,7 +5774,7 @@
                         "cy": 0.91683,
                         "cx": 104.44329,
                         "fips": "ID2172",
-                        "locname": " Tanjung Pinang",
+                        "locname": "Tanjung Pinang",
                         "iso_name": "Kota Tanjung Pinang"
                     },
                     "id": "ID2172"
@@ -5818,7 +5818,7 @@
                         "cy": 0.2,
                         "cx": 104.61667,
                         "fips": "ID2104",
-                        "locname": " Lingga",
+                        "locname": "Lingga",
                         "iso_name": "Kabupaten Lingga"
                     },
                     "id": "ID2104"
@@ -5857,7 +5857,7 @@
                         "cy": 4.71417,
                         "cx": 107.97639,
                         "fips": "ID2103",
-                        "locname": " Natuna",
+                        "locname": "Natuna",
                         "iso_name": "Kabupaten Natuna"
                     },
                     "id": "ID2103"
@@ -5888,7 +5888,7 @@
                         "cy": -5.41667,
                         "cx": 105.25,
                         "fips": "ID1871",
-                        "locname": " Bandar Lampung",
+                        "locname": "Bandar Lampung",
                         "iso_name": "Kota Bandar Lampung"
                     },
                     "id": "ID1871"
@@ -5906,7 +5906,7 @@
                         "cy": -5.11856,
                         "cx": 105.29949,
                         "fips": "ID1872",
-                        "locname": " Metro",
+                        "locname": "Metro",
                         "iso_name": "Kota Metro"
                     },
                     "id": "ID1872"
@@ -5933,7 +5933,7 @@
                         "cy": -5.14904,
                         "cx": 104.19309,
                         "fips": "ID1801",
-                        "locname": " Lampung Barat",
+                        "locname": "Lampung Barat",
                         "iso_name": "Kabupaten Lampung Barat"
                     },
                     "id": "ID1801"
@@ -5966,7 +5966,7 @@
                         "cy": -5.4531,
                         "cx": 104.9877,
                         "fips": "ID1803",
-                        "locname": " Lampung Selatan",
+                        "locname": "Lampung Selatan",
                         "iso_name": "Kabupaten Lampung Selatan"
                     },
                     "id": "ID1803"
@@ -5992,7 +5992,7 @@
                         "cy": -4.86667,
                         "cx": 105.26667,
                         "fips": "ID1805",
-                        "locname": " Lampung Tengah",
+                        "locname": "Lampung Tengah",
                         "iso_name": "Kabupaten Lampung Tengah"
                     },
                     "id": "ID1805"
@@ -6013,7 +6013,7 @@
                         "cy": -5.10273,
                         "cx": 105.68003,
                         "fips": "ID1804",
-                        "locname": " Lampung Timur",
+                        "locname": "Lampung Timur",
                         "iso_name": "Kabupaten Lampung Timur"
                     },
                     "id": "ID1804"
@@ -6033,7 +6033,7 @@
                         "cy": -4.81667,
                         "cx": 104.8,
                         "fips": "ID1806",
-                        "locname": " Lampung Utara",
+                        "locname": "Lampung Utara",
                         "iso_name": "Kabupaten Lampung Utara"
                     },
                     "id": "ID1806"
@@ -6113,7 +6113,7 @@
                         "cy": -5.38508,
                         "cx": 104.62349,
                         "fips": "ID1802",
-                        "locname": " Tanggamus",
+                        "locname": "Tanggamus",
                         "iso_name": "Kabupaten Tanggamus"
                     },
                     "id": "ID1802"
@@ -6135,7 +6135,7 @@
                         "cy": -4.43975,
                         "cx": 105.0444,
                         "fips": "ID1812",
-                        "locname": " Tulang Bawang Barat",
+                        "locname": "Tulang Bawang Barat",
                         "iso_name": "Kabupaten Tulang Bawang Barat"
                     },
                     "id": "ID1812"
@@ -6172,7 +6172,7 @@
                         "cy": -4.44705,
                         "cx": 104.52753,
                         "fips": "ID1807",
-                        "locname": " Way Kanan",
+                        "locname": "Way Kanan",
                         "iso_name": "Kabupaten Way Kanan"
                     },
                     "id": "ID1807"
@@ -6190,7 +6190,7 @@
                         "cy": -3.32767,
                         "cx": 126.68413,
                         "fips": "ID8104",
-                        "locname": " Buru",
+                        "locname": "Buru",
                         "iso_name": "Kabupaten Buru"
                     },
                     "id": "ID8104"
@@ -6342,7 +6342,7 @@
                         "cy": -6.17059,
                         "cx": 134.46991,
                         "fips": "ID8105",
-                        "locname": " Kepulauan Aru",
+                        "locname": "Kepulauan Aru",
                         "iso_name": "Kabupaten Kepulauan Aru"
                     },
                     "id": "ID8105"
@@ -6360,7 +6360,7 @@
                         "cy": -3.7,
                         "cx": 128.18333,
                         "fips": "ID8171",
-                        "locname": " Ambon",
+                        "locname": "Ambon",
                         "iso_name": "Kota Ambon"
                     },
                     "id": "ID8171"
@@ -6502,7 +6502,7 @@
                         "cy": -3.29167,
                         "cx": 128.9675,
                         "fips": "ID8103",
-                        "locname": " Maluku Tengah",
+                        "locname": "Maluku Tengah",
                         "iso_name": "Kabupaten Maluku Tengah"
                     },
                     "id": "ID8103"
@@ -6526,7 +6526,7 @@
                         "cy": -5.75,
                         "cx": 132.73334,
                         "fips": "ID8102",
-                        "locname": " Maluku Tenggara",
+                        "locname": "Maluku Tenggara",
                         "iso_name": "Kabupaten Maluku Tenggara"
                     },
                     "id": "ID8102"
@@ -6590,7 +6590,7 @@
                         "cy": -7.61186,
                         "cx": 131.38,
                         "fips": "ID8101",
-                        "locname": " Maluku Tenggara Barat",
+                        "locname": "Maluku Tenggara Barat",
                         "iso_name": "Kabupaten Maluku Tenggara Barat"
                     },
                     "id": "ID8101"
@@ -6625,7 +6625,7 @@
                         "cy": -3.1027,
                         "cx": 128.42996,
                         "fips": "ID8106",
-                        "locname": " Seram Bagian Barat",
+                        "locname": "Seram Bagian Barat",
                         "iso_name": "Kabupaten Seram Bagian Barat"
                     },
                     "id": "ID8106"
@@ -6660,7 +6660,7 @@
                         "cy": -3.39851,
                         "cx": 130.39166,
                         "fips": "ID8107",
-                        "locname": " Seram Bagian Timur",
+                        "locname": "Seram Bagian Timur",
                         "iso_name": "Kabupaten Seram Bagian Timur"
                     },
                     "id": "ID8107"
@@ -6680,7 +6680,7 @@
                         "cy": 1.41709,
                         "cx": 127.55264,
                         "fips": "ID8201",
-                        "locname": " Halmahera Barat",
+                        "locname": "Halmahera Barat",
                         "iso_name": "Kabupaten Halmahera Barat"
                     },
                     "id": "ID8201"
@@ -6781,7 +6781,7 @@
                         "cy": -0.3955,
                         "cx": 127.90833,
                         "fips": "ID8204",
-                        "locname": " Halmahera Selatan",
+                        "locname": "Halmahera Selatan",
                         "iso_name": "Kabupaten Halmahera Selatan"
                     },
                     "id": "ID8204"
@@ -6818,7 +6818,7 @@
                         "cy": 0.48056,
                         "cx": 128.25,
                         "fips": "ID8202",
-                        "locname": " Halmahera Tengah",
+                        "locname": "Halmahera Tengah",
                         "iso_name": "Kabupaten Halmahera Tengah"
                     },
                     "id": "ID8202"
@@ -6839,7 +6839,7 @@
                         "cy": 1.33517,
                         "cx": 128.48627,
                         "fips": "ID8206",
-                        "locname": " Halmahera Timur",
+                        "locname": "Halmahera Timur",
                         "iso_name": "Kabupaten Halmahera Timur"
                     },
                     "id": "ID8206"
@@ -6865,7 +6865,7 @@
                         "cy": 1.73194,
                         "cx": 128.00778,
                         "fips": "ID8205",
-                        "locname": " Halmahera Utara",
+                        "locname": "Halmahera Utara",
                         "iso_name": "Kabupaten Halmahera Utara"
                     },
                     "id": "ID8205"
@@ -6894,7 +6894,7 @@
                         "cy": -1.8646,
                         "cx": 125.69046,
                         "fips": "ID8203",
-                        "locname": " Kepulauan Sula",
+                        "locname": "Kepulauan Sula",
                         "iso_name": "Kabupaten Kepulauan Sula"
                     },
                     "id": "ID8203"
@@ -6918,7 +6918,7 @@
                         "cy": 0.89618,
                         "cx": 127.31016,
                         "fips": "ID8271",
-                        "locname": " Ternate",
+                        "locname": "Ternate",
                         "iso_name": "Kota Ternate"
                     },
                     "id": "ID8271"
@@ -6946,7 +6946,7 @@
                         "cy": 0.60962,
                         "cx": 127.56981,
                         "fips": "ID8272",
-                        "locname": " Tidore Kepulauan",
+                        "locname": "Tidore Kepulauan",
                         "iso_name": "Kota Tidore Kepulauan"
                     },
                     "id": "ID8272"
@@ -7018,7 +7018,7 @@
                         "cy": -8.6,
                         "cx": 118.61667,
                         "fips": "ID5206",
-                        "locname": " Bima",
+                        "locname": "Bima",
                         "iso_name": "Kabupaten Bima"
                     },
                     "id": "ID5206"
@@ -7040,7 +7040,7 @@
                         "cy": -8.5094,
                         "cx": 118.4816,
                         "fips": "ID5205",
-                        "locname": " Dompu",
+                        "locname": "Dompu",
                         "iso_name": "Kabupaten Dompu"
                     },
                     "id": "ID5205"
@@ -7058,7 +7058,7 @@
                         "cy": -8.46728,
                         "cx": 118.75259,
                         "fips": "ID5272",
-                        "locname": " Bima",
+                        "locname": "Bima",
                         "iso_name": "Kota Bima"
                     },
                     "id": "ID5272"
@@ -7076,7 +7076,7 @@
                         "cy": -8.5833,
                         "cx": 116.1167,
                         "fips": "ID5271",
-                        "locname": " Mataram",
+                        "locname": "Mataram",
                         "iso_name": "Kota Mataram"
                     },
                     "id": "ID5271"
@@ -7097,7 +7097,7 @@
                         "cy": -8.69583,
                         "cx": 116.11667,
                         "fips": "ID5201",
-                        "locname": " Lombok Barat",
+                        "locname": "Lombok Barat",
                         "iso_name": "Kabupaten Lombok Barat"
                     },
                     "id": "ID5201"
@@ -7117,7 +7117,7 @@
                         "cy": -8.7,
                         "cx": 116.3,
                         "fips": "ID5202",
-                        "locname": " Lombok Tengah",
+                        "locname": "Lombok Tengah",
                         "iso_name": "Kabupaten Lombok Tengah"
                     },
                     "id": "ID5202"
@@ -7136,7 +7136,7 @@
                         "cy": -8.53333,
                         "cx": 116.53333,
                         "fips": "ID5203",
-                        "locname": " Lombok Timur",
+                        "locname": "Lombok Timur",
                         "iso_name": "Kabupaten Lombok Timur"
                     },
                     "id": "ID5203"
@@ -7186,7 +7186,7 @@
                         "cy": -8.7439,
                         "cx": 117.3324,
                         "fips": "ID5204",
-                        "locname": " Sumbawa",
+                        "locname": "Sumbawa",
                         "iso_name": "Kabupaten Sumbawa"
                     },
                     "id": "ID5204"
@@ -7204,7 +7204,7 @@
                         "cy": -8.75159,
                         "cx": 116.92132,
                         "fips": "ID5207",
-                        "locname": " Sumbawa Barat",
+                        "locname": "Sumbawa Barat",
                         "iso_name": "Kabupaten Sumbawa Barat"
                     },
                     "id": "ID5207"
@@ -7233,7 +7233,7 @@
                         "cy": -8.3,
                         "cx": 124.56667,
                         "fips": "ID5307",
-                        "locname": " Alor",
+                        "locname": "Alor",
                         "iso_name": "Kabupaten Alor"
                     },
                     "id": "ID5307"
@@ -7252,7 +7252,7 @@
                         "cy": -9.41258,
                         "cx": 124.95066,
                         "fips": "ID5306",
-                        "locname": " Belu",
+                        "locname": "Belu",
                         "iso_name": "Kabupaten Belu"
                     },
                     "id": "ID5306"
@@ -7272,7 +7272,7 @@
                         "cy": -8.84056,
                         "cx": 121.66389,
                         "fips": "ID5311",
-                        "locname": " Ende",
+                        "locname": "Ende",
                         "iso_name": "Kabupaten Ende"
                     },
                     "id": "ID5311"
@@ -7302,7 +7302,7 @@
                         "cy": -8.24224,
                         "cx": 122.96817,
                         "fips": "ID5309",
-                        "locname": " Flores Timur",
+                        "locname": "Flores Timur",
                         "iso_name": "Kabupaten Flores Timur"
                     },
                     "id": "ID5309"
@@ -7320,7 +7320,7 @@
                         "cy": -10.21667,
                         "cx": 123.6,
                         "fips": "ID5371",
-                        "locname": " Kupang",
+                        "locname": "Kupang",
                         "iso_name": "Kota Kupang"
                     },
                     "id": "ID5371"
@@ -7348,7 +7348,7 @@
                         "cy": -9.91667,
                         "cx": 123.83333,
                         "fips": "ID5303",
-                        "locname": " Kupang",
+                        "locname": "Kupang",
                         "iso_name": "Kabupaten Kupang"
                     },
                     "id": "ID5303"
@@ -7365,7 +7365,7 @@
                         "cy": -8.41396,
                         "cx": 123.55225,
                         "fips": "ID5308",
-                        "locname": " Lembata",
+                        "locname": "Lembata",
                         "iso_name": "Kabupaten Lembata"
                     },
                     "id": "ID5308"
@@ -7405,7 +7405,7 @@
                         "cy": -8.56667,
                         "cx": 120.41667,
                         "fips": "ID5313",
-                        "locname": " Manggarai",
+                        "locname": "Manggarai",
                         "iso_name": "Kabupaten Manggarai"
                     },
                     "id": "ID5313"
@@ -7435,7 +7435,7 @@
                         "cy": -8.64484,
                         "cx": 119.88281,
                         "fips": "ID5315",
-                        "locname": " Manggarai Barat",
+                        "locname": "Manggarai Barat",
                         "iso_name": "Kabupaten Manggarai Barat"
                     },
                     "id": "ID5315"
@@ -7481,7 +7481,7 @@
                         "cy": -8.66667,
                         "cx": 121,
                         "fips": "ID5312",
-                        "locname": " Ngada",
+                        "locname": "Ngada",
                         "iso_name": "Kabupaten Ngada"
                     },
                     "id": "ID5312"
@@ -7498,7 +7498,7 @@
                         "cy": -10.73617,
                         "cx": 123.12054,
                         "fips": "ID5314",
-                        "locname": " Rote Ndao",
+                        "locname": "Rote Ndao",
                         "iso_name": "Kabupaten Rote Ndao"
                     },
                     "id": "ID5314"
@@ -7547,7 +7547,7 @@
                         "cy": -8.66667,
                         "cx": 122.36667,
                         "fips": "ID5310",
-                        "locname": " Sikka",
+                        "locname": "Sikka",
                         "iso_name": "Kabupaten Sikka"
                     },
                     "id": "ID5310"
@@ -7567,7 +7567,7 @@
                         "cy": -9.56667,
                         "cx": 119.45,
                         "fips": "ID5301",
-                        "locname": " Sumba Barat",
+                        "locname": "Sumba Barat",
                         "iso_name": "Kabupaten Sumba Barat"
                     },
                     "id": "ID5301"
@@ -7609,7 +7609,7 @@
                         "cy": -9.88333,
                         "cx": 120.25,
                         "fips": "ID5302",
-                        "locname": " Sumba Timur",
+                        "locname": "Sumba Timur",
                         "iso_name": "Kabupaten Sumba Timur"
                     },
                     "id": "ID5302"
@@ -7629,7 +7629,7 @@
                         "cy": -9.83333,
                         "cx": 124.4,
                         "fips": "ID5304",
-                        "locname": " Timor Tengah Selatan",
+                        "locname": "Timor Tengah Selatan",
                         "iso_name": "Kabupaten Timor Tengah Selatan"
                     },
                     "id": "ID5304"
@@ -7650,7 +7650,7 @@
                         "cy": -9.33136,
                         "cx": 124.51904,
                         "fips": "ID5305",
-                        "locname": " Timor Tengah Utara",
+                        "locname": "Timor Tengah Utara",
                         "iso_name": "Kabupaten Timor Tengah Utara"
                     },
                     "id": "ID5305"
@@ -7671,7 +7671,7 @@
                         "cy": -5.3795,
                         "cx": 138.46344,
                         "fips": "ID9415",
-                        "locname": " Asmat",
+                        "locname": "Asmat",
                         "iso_name": "Kabupaten Asmat"
                     },
                     "id": "ID9415"
@@ -7696,7 +7696,7 @@
                         "cy": -1.03333,
                         "cx": 136,
                         "fips": "ID9409",
-                        "locname": " Biak Numfor",
+                        "locname": "Biak Numfor",
                         "iso_name": "Kabupaten Biak Numfor"
                     },
                     "id": "ID9409"
@@ -7717,7 +7717,7 @@
                         "cy": -5.70519,
                         "cx": 140.36349,
                         "fips": "ID9413",
-                        "locname": " Boven Digoel",
+                        "locname": "Boven Digoel",
                         "iso_name": "Kabupaten Boven Digoel"
                     },
                     "id": "ID9413"
@@ -7779,7 +7779,7 @@
                         "cy": -3,
                         "cx": 139.95,
                         "fips": "ID9403",
-                        "locname": " Jayapura",
+                        "locname": "Jayapura",
                         "iso_name": "Kabupaten Jayapura"
                     },
                     "id": "ID9403"
@@ -7800,7 +7800,7 @@
                         "cy": -4.08333,
                         "cx": 139.08333,
                         "fips": "ID9402",
-                        "locname": " Jayawijaya",
+                        "locname": "Jayawijaya",
                         "iso_name": "Kabupaten Jayawijaya"
                     },
                     "id": "ID9402"
@@ -7820,7 +7820,7 @@
                         "cy": -3.3,
                         "cx": 140.61667,
                         "fips": "ID9420",
-                        "locname": " Keerom",
+                        "locname": "Keerom",
                         "iso_name": "Kabupaten Keerom"
                     },
                     "id": "ID9420"
@@ -7844,7 +7844,7 @@
                         "cy": -1.78773,
                         "cx": 136.27716,
                         "fips": "ID9408",
-                        "locname": " Kepulauan Yapen",
+                        "locname": "Kepulauan Yapen",
                         "iso_name": "Kabupaten Kepulauan Yapen"
                     },
                     "id": "ID9408"
@@ -7863,7 +7863,7 @@
                         "cy": -2.64647,
                         "cx": 140.77779,
                         "fips": "ID9471",
-                        "locname": " Jayapura",
+                        "locname": "Jayapura",
                         "iso_name": "Kota Jayapura"
                     },
                     "id": "ID9471"
@@ -7936,7 +7936,7 @@
                         "cy": -6.49971,
                         "cx": 139.34441,
                         "fips": "ID9414",
-                        "locname": " Mappi",
+                        "locname": "Mappi",
                         "iso_name": "Kabupaten Mappi"
                     },
                     "id": "ID9414"
@@ -7987,7 +7987,7 @@
                         "cy": -7.66667,
                         "cx": 139.66667,
                         "fips": "ID9401",
-                        "locname": " Merauke",
+                        "locname": "Merauke",
                         "iso_name": "Kabupaten Merauke"
                     },
                     "id": "ID9401"
@@ -8011,7 +8011,7 @@
                         "cy": -4.54357,
                         "cx": 136.56555,
                         "fips": "ID9412",
-                        "locname": " Mimika",
+                        "locname": "Mimika",
                         "iso_name": "Kabupaten Mimika"
                     },
                     "id": "ID9412"
@@ -8041,7 +8041,7 @@
                         "cy": -3.54016,
                         "cx": 135.55511,
                         "fips": "ID9404",
-                        "locname": " Nabire",
+                        "locname": "Nabire",
                         "iso_name": "Kabupaten Nabire"
                     },
                     "id": "ID9404"
@@ -8077,7 +8077,7 @@
                         "cy": -3.9,
                         "cx": 136.60001,
                         "fips": "ID9410",
-                        "locname": " Paniai",
+                        "locname": "Paniai",
                         "iso_name": "Kabupaten Paniai"
                     },
                     "id": "ID9410"
@@ -8098,7 +8098,7 @@
                         "cy": -4.52167,
                         "cx": 140.29541,
                         "fips": "ID9417",
-                        "locname": " Pegunungan Bintang",
+                        "locname": "Pegunungan Bintang",
                         "iso_name": "Kabupaten Pegunungan Bintang"
                     },
                     "id": "ID9417"
@@ -8134,7 +8134,7 @@
                         "cy": -3.67241,
                         "cx": 137.43896,
                         "fips": "ID9411",
-                        "locname": " Puncak Jaya",
+                        "locname": "Puncak Jaya",
                         "iso_name": "Kabupaten Puncak Jaya"
                     },
                     "id": "ID9411"
@@ -8155,7 +8155,7 @@
                         "cy": -2.41667,
                         "cx": 139.08333,
                         "fips": "ID9419",
-                        "locname": " Sarmi",
+                        "locname": "Sarmi",
                         "iso_name": "Kabupaten Sarmi"
                     },
                     "id": "ID9419"
@@ -8173,7 +8173,7 @@
                         "cy": -0.73881,
                         "cx": 135.61111,
                         "fips": "ID9427",
-                        "locname": " Supiori",
+                        "locname": "Supiori",
                         "iso_name": "Kabupaten Supiori"
                     },
                     "id": "ID9427"
@@ -8193,7 +8193,7 @@
                         "cy": -3.42661,
                         "cx": 137.41699,
                         "fips": "ID9418",
-                        "locname": " Tolikara",
+                        "locname": "Tolikara",
                         "iso_name": "Kabupaten Tolikara"
                     },
                     "id": "ID9418"
@@ -8214,7 +8214,7 @@
                         "cy": -2.286,
                         "cx": 137.01837,
                         "fips": "ID9426",
-                        "locname": " Waropen",
+                        "locname": "Waropen",
                         "iso_name": "Kabupaten Waropen"
                     },
                     "id": "ID9426"
@@ -8237,7 +8237,7 @@
                         "cy": -4.60403,
                         "cx": 139.58405,
                         "fips": "ID9416",
-                        "locname": " Yahukimo",
+                        "locname": "Yahukimo",
                         "iso_name": "Kabupaten Yahukimo"
                     },
                     "id": "ID9416"
@@ -8277,7 +8277,7 @@
                         "cy": -2.92641,
                         "cx": 132.29608,
                         "fips": "ID9101",
-                        "locname": " Fak-Fak",
+                        "locname": "Fak-Fak",
                         "iso_name": "Kabupaten Fak-Fak"
                     },
                     "id": "ID9101"
@@ -8317,7 +8317,7 @@
                         "cy": -3.66093,
                         "cx": 133.77451,
                         "fips": "ID9102",
-                        "locname": " Kaimana",
+                        "locname": "Kaimana",
                         "iso_name": "Kabupaten Kaimana"
                     },
                     "id": "ID9102"
@@ -8335,7 +8335,7 @@
                         "cy": -0.86507,
                         "cx": 131.25153,
                         "fips": "ID9171",
-                        "locname": " Sorong",
+                        "locname": "Sorong",
                         "iso_name": "Kota Sorong"
                     },
                     "id": "ID9171"
@@ -8355,7 +8355,7 @@
                         "cy": -0.9,
                         "cx": 133.75,
                         "fips": "ID9105",
-                        "locname": " Manokwari",
+                        "locname": "Manokwari",
                         "iso_name": "Kabupaten Manokwari"
                     },
                     "id": "ID9105"
@@ -8454,7 +8454,7 @@
                         "cy": -0.5,
                         "cx": 130,
                         "fips": "ID9108",
-                        "locname": " Raja Ampat",
+                        "locname": "Raja Ampat",
                         "iso_name": "Kabupaten Raja Ampat"
                     },
                     "id": "ID9108"
@@ -8483,7 +8483,7 @@
                         "cy": -1.16667,
                         "cx": 131.5,
                         "fips": "ID9107",
-                        "locname": " Sorong",
+                        "locname": "Sorong",
                         "iso_name": "Kabupaten Sorong"
                     },
                     "id": "ID9107"
@@ -8504,7 +8504,7 @@
                         "cy": -1.50495,
                         "cx": 132.28638,
                         "fips": "ID9106",
-                        "locname": " Sorong Selatan",
+                        "locname": "Sorong Selatan",
                         "iso_name": "Kabupaten Sorong Selatan"
                     },
                     "id": "ID9106"
@@ -8562,7 +8562,7 @@
                         "cy": -1.88037,
                         "cx": 133.33105,
                         "fips": "ID9104",
-                        "locname": " Teluk Bintuni",
+                        "locname": "Teluk Bintuni",
                         "iso_name": "Kabupaten Teluk Bintuni"
                     },
                     "id": "ID9104"
@@ -8600,7 +8600,7 @@
                         "cy": -2.7,
                         "cx": 134.5,
                         "fips": "ID9103",
-                        "locname": " Teluk Wondama",
+                        "locname": "Teluk Wondama",
                         "iso_name": "Kabupaten Teluk Wondama"
                     },
                     "id": "ID9103"
@@ -8633,7 +8633,7 @@
                         "cy": 0.9838,
                         "cx": 102.5096,
                         "fips": "ID1408",
-                        "locname": " Bengkalis",
+                        "locname": "Bengkalis",
                         "iso_name": "Kabupaten Bengkalis"
                     },
                     "id": "ID1408"
@@ -8691,7 +8691,7 @@
                         "cy": -0.33333,
                         "cx": 103.16667,
                         "fips": "ID1403",
-                        "locname": " Indragiri Hilir",
+                        "locname": "Indragiri Hilir",
                         "iso_name": "Kabupaten Indragiri Hilir"
                     },
                     "id": "ID1403"
@@ -8711,7 +8711,7 @@
                         "cy": -0.55,
                         "cx": 102.31667,
                         "fips": "ID1402",
-                        "locname": " Indragiri Hulu",
+                        "locname": "Indragiri Hulu",
                         "iso_name": "Kabupaten Indragiri Hulu"
                     },
                     "id": "ID1402"
@@ -8736,7 +8736,7 @@
                         "cy": 0.2344,
                         "cx": 101.2131,
                         "fips": "ID1406",
-                        "locname": " Kampar",
+                        "locname": "Kampar",
                         "iso_name": "Kabupaten Kampar"
                     },
                     "id": "ID1406"
@@ -8775,7 +8775,7 @@
                         "cy": 0.97488,
                         "cx": 102.69539,
                         "fips": "ID1410",
-                        "locname": " Kepulauan Meranti",
+                        "locname": "Kepulauan Meranti",
                         "iso_name": "Kabupaten Kepulauan Meranti"
                     },
                     "id": "ID1410"
@@ -8794,7 +8794,7 @@
                         "cy": 1.61592,
                         "cx": 101.4917,
                         "fips": "ID1473",
-                        "locname": " Dumai",
+                        "locname": "Dumai",
                         "iso_name": "Kota Dumai"
                     },
                     "id": "ID1473"
@@ -8814,7 +8814,7 @@
                         "cy": 0.53333,
                         "cx": 101.46667,
                         "fips": "ID1471",
-                        "locname": " Pekanbaru",
+                        "locname": "Pekanbaru",
                         "iso_name": "Kota Pekanbaru"
                     },
                     "id": "ID1471"
@@ -8836,7 +8836,7 @@
                         "cy": -0.47532,
                         "cx": 101.45857,
                         "fips": "ID1401",
-                        "locname": " Kuantan Singingi",
+                        "locname": "Kuantan Singingi",
                         "iso_name": "Kabupaten Kuantan Singingi"
                     },
                     "id": "ID1401"
@@ -8876,7 +8876,7 @@
                         "cy": 0.20822,
                         "cx": 102.18607,
                         "fips": "ID1404",
-                        "locname": " Pelalawan",
+                        "locname": "Pelalawan",
                         "iso_name": "Kabupaten Pelalawan"
                     },
                     "id": "ID1404"
@@ -8911,7 +8911,7 @@
                         "cy": 2.16599,
                         "cx": 100.82514,
                         "fips": "ID1409",
-                        "locname": " Rokan Hilir",
+                        "locname": "Rokan Hilir",
                         "iso_name": "Kabupaten Rokan Hilir"
                     },
                     "id": "ID1409"
@@ -8935,7 +8935,7 @@
                         "cy": 0.88333,
                         "cx": 100.48333,
                         "fips": "ID1407",
-                        "locname": " Rokan Hulu",
+                        "locname": "Rokan Hulu",
                         "iso_name": "Kabupaten Rokan Hulu"
                     },
                     "id": "ID1407"
@@ -8958,7 +8958,7 @@
                         "cy": 0.97453,
                         "cx": 102.01355,
                         "fips": "ID1405",
-                        "locname": " Siak",
+                        "locname": "Siak",
                         "iso_name": "Kabupaten Siak"
                     },
                     "id": "ID1405"
@@ -8978,7 +8978,7 @@
                         "cy": -3.15,
                         "cx": 118.86667,
                         "fips": "ID7601",
-                        "locname": " Majene",
+                        "locname": "Majene",
                         "iso_name": "Kabupaten Majene"
                     },
                     "id": "ID7601"
@@ -8999,7 +8999,7 @@
                         "cy": -2.96492,
                         "cx": 119.30631,
                         "fips": "ID7603",
-                        "locname": " Mamasa",
+                        "locname": "Mamasa",
                         "iso_name": "Kabupaten Mamasa"
                     },
                     "id": "ID7603"
@@ -9022,7 +9022,7 @@
                         "cy": -2.5,
                         "cx": 119.41667,
                         "fips": "ID7604",
-                        "locname": " Mamuju",
+                        "locname": "Mamuju",
                         "iso_name": "Kabupaten Mamuju"
                     },
                     "id": "ID7604"
@@ -9056,7 +9056,7 @@
                         "cy": -1.51639,
                         "cx": 119.42139,
                         "fips": "ID7605",
-                        "locname": " Mamuju Utara",
+                        "locname": "Mamuju Utara",
                         "iso_name": "Kabupaten Mamuju Utara"
                     },
                     "id": "ID7605"
@@ -9076,7 +9076,7 @@
                         "cy": -3.3,
                         "cx": 119.16667,
                         "fips": "ID7602",
-                        "locname": " Polewali Mandar",
+                        "locname": "Polewali Mandar",
                         "iso_name": "Kabupaten Polewali Mandar"
                     },
                     "id": "ID7602"
@@ -9097,7 +9097,7 @@
                         "cy": -5.48333,
                         "cx": 119.98333,
                         "fips": "ID7303",
-                        "locname": " Bantaeng",
+                        "locname": "Bantaeng",
                         "iso_name": "Kabupaten Bantaeng"
                     },
                     "id": "ID7303"
@@ -9119,7 +9119,7 @@
                         "cy": -4.43333,
                         "cx": 119.68333,
                         "fips": "ID7310",
-                        "locname": " Barru",
+                        "locname": "Barru",
                         "iso_name": "Kabupaten Barru"
                     },
                     "id": "ID7310"
@@ -9143,7 +9143,7 @@
                         "cy": -4.7,
                         "cx": 120.13333,
                         "fips": "ID7311",
-                        "locname": " Bone",
+                        "locname": "Bone",
                         "iso_name": "Kabupaten Bone"
                     },
                     "id": "ID7311"
@@ -9162,7 +9162,7 @@
                         "cy": -5.41667,
                         "cx": 120.23333,
                         "fips": "ID7302",
-                        "locname": " Bulukumba",
+                        "locname": "Bulukumba",
                         "iso_name": "Kabupaten Bulukumba"
                     },
                     "id": "ID7302"
@@ -9182,7 +9182,7 @@
                         "cy": -3.5,
                         "cx": 119.86667,
                         "fips": "ID7316",
-                        "locname": " Enrekang",
+                        "locname": "Enrekang",
                         "iso_name": "Kabupaten Enrekang"
                     },
                     "id": "ID7316"
@@ -9205,7 +9205,7 @@
                         "cy": -5.31667,
                         "cx": 119.75,
                         "fips": "ID7306",
-                        "locname": " Gowa",
+                        "locname": "Gowa",
                         "iso_name": "Kabupaten Gowa"
                     },
                     "id": "ID7306"
@@ -9225,7 +9225,7 @@
                         "cy": -5.63333,
                         "cx": 119.73333,
                         "fips": "ID7304",
-                        "locname": " Jeneponto",
+                        "locname": "Jeneponto",
                         "iso_name": "Kabupaten Jeneponto"
                     },
                     "id": "ID7304"
@@ -9269,7 +9269,7 @@
                         "cy": -6.81667,
                         "cx": 120.8,
                         "fips": "ID7301",
-                        "locname": " Kepulauan Selayar",
+                        "locname": "Kepulauan Selayar",
                         "iso_name": "Kabupaten Kepulauan Selayar"
                     },
                     "id": "ID7301"
@@ -9289,7 +9289,7 @@
                         "cy": -5.15,
                         "cx": 119.45,
                         "fips": "ID7371",
-                        "locname": " Makassar",
+                        "locname": "Makassar",
                         "iso_name": "Kota Makassar"
                     },
                     "id": "ID7371"
@@ -9309,7 +9309,7 @@
                         "cy": -2.97841,
                         "cx": 120.11078,
                         "fips": "ID7373",
-                        "locname": " Palopo",
+                        "locname": "Palopo",
                         "iso_name": "Kota Palopo"
                     },
                     "id": "ID7373"
@@ -9329,7 +9329,7 @@
                         "cy": -4.03333,
                         "cx": 119.65,
                         "fips": "ID7372",
-                        "locname": " Pare-Pare",
+                        "locname": "Pare-Pare",
                         "iso_name": "Kota Pare-Pare"
                     },
                     "id": "ID7372"
@@ -9362,7 +9362,7 @@
                         "cy": -2.5577,
                         "cx": 121.3242,
                         "fips": "ID7317",
-                        "locname": " Luwu",
+                        "locname": "Luwu",
                         "iso_name": "Kabupaten Luwu"
                     },
                     "id": "ID7317"
@@ -9385,7 +9385,7 @@
                         "cy": -2.50957,
                         "cx": 120.3978,
                         "fips": "ID7325",
-                        "locname": " Luwu Timur",
+                        "locname": "Luwu Timur",
                         "iso_name": "Kabupaten Luwu Timur"
                     },
                     "id": "ID7325"
@@ -9409,7 +9409,7 @@
                         "cy": -2.6,
                         "cx": 120.25,
                         "fips": "ID7322",
-                        "locname": " Luwu Utara",
+                        "locname": "Luwu Utara",
                         "iso_name": "Kabupaten Luwu Utara"
                     },
                     "id": "ID7322"
@@ -9430,7 +9430,7 @@
                         "cy": -5.05,
                         "cx": 119.71667,
                         "fips": "ID7308",
-                        "locname": " Maros",
+                        "locname": "Maros",
                         "iso_name": "Kabupaten Maros"
                     },
                     "id": "ID7308"
@@ -9465,7 +9465,7 @@
                         "cy": -4.7827,
                         "cx": 119.5506,
                         "fips": "ID7309",
-                        "locname": " Pangkajene Dan Kepulauan",
+                        "locname": "Pangkajene Dan Kepulauan",
                         "iso_name": "Kabupaten Pangkajene Dan Kepulauan"
                     },
                     "id": "ID7309"
@@ -9488,7 +9488,7 @@
                         "cy": -3.61667,
                         "cx": 119.6,
                         "fips": "ID7315",
-                        "locname": " Pinrang",
+                        "locname": "Pinrang",
                         "iso_name": "Kabupaten Pinrang"
                     },
                     "id": "ID7315"
@@ -9511,7 +9511,7 @@
                         "cy": -3.85,
                         "cx": 119.96667,
                         "fips": "ID7314",
-                        "locname": " Sidenreng Rappang",
+                        "locname": "Sidenreng Rappang",
                         "iso_name": "Kabupaten Sidenreng Rappang"
                     },
                     "id": "ID7314"
@@ -9532,7 +9532,7 @@
                         "cy": -5.21667,
                         "cx": 120.15,
                         "fips": "ID7307",
-                        "locname": " Sinjai",
+                        "locname": "Sinjai",
                         "iso_name": "Kabupaten Sinjai"
                     },
                     "id": "ID7307"
@@ -9552,7 +9552,7 @@
                         "cy": -4.3842,
                         "cx": 119.89,
                         "fips": "ID7312",
-                        "locname": " Soppeng",
+                        "locname": "Soppeng",
                         "iso_name": "Kabupaten Soppeng"
                     },
                     "id": "ID7312"
@@ -9579,7 +9579,7 @@
                         "cy": -5.41667,
                         "cx": 119.51667,
                         "fips": "ID7305",
-                        "locname": " Takalar",
+                        "locname": "Takalar",
                         "iso_name": "Kabupaten Takalar"
                     },
                     "id": "ID7305"
@@ -9601,7 +9601,7 @@
                         "cy": -3.0024,
                         "cx": 119.79655,
                         "fips": "ID7318",
-                        "locname": " Tana Toraja",
+                        "locname": "Tana Toraja",
                         "iso_name": "Kabupaten Tana Toraja"
                     },
                     "id": "ID7318"
@@ -9637,7 +9637,7 @@
                         "cy": -4,
                         "cx": 120.16667,
                         "fips": "ID7313",
-                        "locname": " Wajo",
+                        "locname": "Wajo",
                         "iso_name": "Kabupaten Wajo"
                     },
                     "id": "ID7313"
@@ -9656,7 +9656,7 @@
                         "cy": -1.2835,
                         "cx": 122.8892,
                         "fips": "ID7202",
-                        "locname": " Banggai",
+                        "locname": "Banggai",
                         "iso_name": "Kabupaten Banggai"
                     },
                     "id": "ID7202"
@@ -9680,7 +9680,7 @@
                         "cy": -1.6424,
                         "cx": 123.54881,
                         "fips": "ID7201",
-                        "locname": " Banggai Kepulauan",
+                        "locname": "Banggai Kepulauan",
                         "iso_name": "Kabupaten Banggai Kepulauan"
                     },
                     "id": "ID7201"
@@ -9738,7 +9738,7 @@
                         "cy": 0.75,
                         "cx": 120.75,
                         "fips": "ID7207",
-                        "locname": " Buol",
+                        "locname": "Buol",
                         "iso_name": "Kabupaten Buol"
                     },
                     "id": "ID7207"
@@ -9768,7 +9768,7 @@
                         "cy": -0.58333,
                         "cx": 119.85,
                         "fips": "ID7205",
-                        "locname": " Donggala",
+                        "locname": "Donggala",
                         "iso_name": "Kabupaten Donggala"
                     },
                     "id": "ID7205"
@@ -9789,7 +9789,7 @@
                         "cy": -0.86972,
                         "cx": 119.9,
                         "fips": "ID7271",
-                        "locname": " Palu",
+                        "locname": "Palu",
                         "iso_name": "Kota Palu"
                     },
                     "id": "ID7271"
@@ -9817,7 +9817,7 @@
                         "cy": -1.89342,
                         "cx": 121.25473,
                         "fips": "ID7203",
-                        "locname": " Morowali",
+                        "locname": "Morowali",
                         "iso_name": "Kabupaten Morowali"
                     },
                     "id": "ID7203"
@@ -9856,7 +9856,7 @@
                         "cy": 0.3368,
                         "cx": 120.17841,
                         "fips": "ID7208",
-                        "locname": " Parigi Moutong",
+                        "locname": "Parigi Moutong",
                         "iso_name": "Kabupaten Parigi Moutong"
                     },
                     "id": "ID7208"
@@ -9879,7 +9879,7 @@
                         "cy": -1.65,
                         "cx": 120.5,
                         "fips": "ID7204",
-                        "locname": " Poso",
+                        "locname": "Poso",
                         "iso_name": "Kabupaten Poso"
                     },
                     "id": "ID7204"
@@ -9942,7 +9942,7 @@
                         "cy": -1.2036,
                         "cx": 121.48201,
                         "fips": "ID7209",
-                        "locname": " Tojo Una-Una",
+                        "locname": "Tojo Una-Una",
                         "iso_name": "Kabupaten Tojo Una-Una"
                     },
                     "id": "ID7209"
@@ -9962,7 +9962,7 @@
                         "cy": 1.30862,
                         "cx": 120.88643,
                         "fips": "ID7206",
-                        "locname": " Toli-Toli",
+                        "locname": "Toli-Toli",
                         "iso_name": "Kabupaten Toli-Toli"
                     },
                     "id": "ID7206"
@@ -9990,7 +9990,7 @@
                         "cy": -4.6257,
                         "cx": 121.81641,
                         "fips": "ID7406",
-                        "locname": " Bombana",
+                        "locname": "Bombana",
                         "iso_name": "Kabupaten Bombana"
                     },
                     "id": "ID7406"
@@ -10012,7 +10012,7 @@
                         "cy": -5.31667,
                         "cx": 122.58333,
                         "fips": "ID7401",
-                        "locname": " Buton",
+                        "locname": "Buton",
                         "iso_name": "Kabupaten Buton"
                     },
                     "id": "ID7401"
@@ -10101,7 +10101,7 @@
                         "cy": -4.08333,
                         "cx": 121.66667,
                         "fips": "ID7404",
-                        "locname": " Kolaka",
+                        "locname": "Kolaka",
                         "iso_name": "Kabupaten Kolaka"
                     },
                     "id": "ID7404"
@@ -10138,7 +10138,7 @@
                         "cy": -3.10452,
                         "cx": 121.12427,
                         "fips": "ID7408",
-                        "locname": " Kolaka Utara",
+                        "locname": "Kolaka Utara",
                         "iso_name": "Kabupaten Kolaka Utara"
                     },
                     "id": "ID7408"
@@ -10193,7 +10193,7 @@
                         "cy": -4.19191,
                         "cx": 122.44854,
                         "fips": "ID7405",
-                        "locname": " Konawe Selatan",
+                        "locname": "Konawe Selatan",
                         "iso_name": "Kabupaten Konawe Selatan"
                     },
                     "id": "ID7405"
@@ -10239,7 +10239,7 @@
                         "cy": -5.477,
                         "cx": 122.6166,
                         "fips": "ID7472",
-                        "locname": " Baubau",
+                        "locname": "Baubau",
                         "iso_name": "Kota Baubau"
                     },
                     "id": "ID7472"
@@ -10258,7 +10258,7 @@
                         "cy": -3.98333,
                         "cx": 122.5,
                         "fips": "ID7471",
-                        "locname": " Kendari",
+                        "locname": "Kendari",
                         "iso_name": "Kota Kendari"
                     },
                     "id": "ID7471"
@@ -10292,7 +10292,7 @@
                         "cy": -4.96667,
                         "cx": 122.66667,
                         "fips": "ID7402",
-                        "locname": " Muna",
+                        "locname": "Muna",
                         "iso_name": "Kabupaten Muna"
                     },
                     "id": "ID7402"
@@ -10342,7 +10342,7 @@
                         "cy": -5.31934,
                         "cx": 123.5948,
                         "fips": "ID7407",
-                        "locname": " Wakatobi",
+                        "locname": "Wakatobi",
                         "iso_name": "Kabupaten Wakatobi"
                     },
                     "id": "ID7407"
@@ -10365,7 +10365,7 @@
                         "cy": 0.75,
                         "cx": 124.08333,
                         "fips": "ID7101",
-                        "locname": " Bolaang Mongondow",
+                        "locname": "Bolaang Mongondow",
                         "iso_name": "Kabupaten Bolaang Mongondow"
                     },
                     "id": "ID7101"
@@ -10436,7 +10436,7 @@
                         "cy": 3.5,
                         "cx": 125.55,
                         "fips": "ID7103",
-                        "locname": " Kepulauan Sangihe",
+                        "locname": "Kepulauan Sangihe",
                         "iso_name": "Kabupaten Kepulauan Sangihe"
                     },
                     "id": "ID7103"
@@ -10465,7 +10465,7 @@
                         "cy": 4.31178,
                         "cx": 126.78085,
                         "fips": "ID7104",
-                        "locname": " Kepulauan Talaud",
+                        "locname": "Kepulauan Talaud",
                         "iso_name": "Kabupaten Kepulauan Talaud"
                     },
                     "id": "ID7104"
@@ -10490,7 +10490,7 @@
                         "cy": 1.48333,
                         "cx": 125.15,
                         "fips": "ID7172",
-                        "locname": " Bitung",
+                        "locname": "Bitung",
                         "iso_name": "Kota Bitung"
                     },
                     "id": "ID7172"
@@ -10520,7 +10520,7 @@
                         "cy": 1.51667,
                         "cx": 124.88333,
                         "fips": "ID7171",
-                        "locname": " Manado",
+                        "locname": "Manado",
                         "iso_name": "Kota Manado"
                     },
                     "id": "ID7171"
@@ -10537,7 +10537,7 @@
                         "cy": 1.31307,
                         "cx": 124.83404,
                         "fips": "ID7173",
-                        "locname": " Tomohon",
+                        "locname": "Tomohon",
                         "iso_name": "Kota Tomohon"
                     },
                     "id": "ID7173"
@@ -10565,7 +10565,7 @@
                         "cy": 1.2537,
                         "cx": 124.83,
                         "fips": "ID7102",
-                        "locname": " Minahasa",
+                        "locname": "Minahasa",
                         "iso_name": "Kabupaten Minahasa"
                     },
                     "id": "ID7102"
@@ -10586,7 +10586,7 @@
                         "cy": 1.21291,
                         "cx": 124.59708,
                         "fips": "ID7105",
-                        "locname": " Minahasa Selatan",
+                        "locname": "Minahasa Selatan",
                         "iso_name": "Kabupaten Minahasa Selatan"
                     },
                     "id": "ID7105"
@@ -10627,7 +10627,7 @@
                         "cy": 1.4025,
                         "cx": 124.96,
                         "fips": "ID7106",
-                        "locname": " Minahasa Utara",
+                        "locname": "Minahasa Utara",
                         "iso_name": "Kabupaten Minahasa Utara"
                     },
                     "id": "ID7106"
@@ -10674,7 +10674,7 @@
                         "cy": -0.25,
                         "cx": 100.16667,
                         "fips": "ID1307",
-                        "locname": " Agam",
+                        "locname": "Agam",
                         "iso_name": "Kabupaten Agam"
                     },
                     "id": "ID1307"
@@ -10708,7 +10708,7 @@
                         "cy": -1.05,
                         "cx": 101.367,
                         "fips": "ID1311",
-                        "locname": " Dharmasraya",
+                        "locname": "Dharmasraya",
                         "iso_name": "Kabupaten Dharmasraya"
                     },
                     "id": "ID1311"
@@ -10742,7 +10742,7 @@
                         "cy": 1.98917,
                         "cx": 99.51889,
                         "fips": "ID1301",
-                        "locname": " Kepulauan Mentawai",
+                        "locname": "Kepulauan Mentawai",
                         "iso_name": "Kabupaten Kepulauan Mentawai"
                     },
                     "id": "ID1301"
@@ -10759,7 +10759,7 @@
                         "cy": -0.275,
                         "cx": 100.375,
                         "fips": "ID1375",
-                        "locname": " Bukittinggi",
+                        "locname": "Bukittinggi",
                         "iso_name": "Kota Bukittinggi"
                     },
                     "id": "ID1375"
@@ -10781,7 +10781,7 @@
                         "cy": -0.98333,
                         "cx": 100.45,
                         "fips": "ID1371",
-                        "locname": " Padang",
+                        "locname": "Padang",
                         "iso_name": "Kota Padang"
                     },
                     "id": "ID1371"
@@ -10798,7 +10798,7 @@
                         "cy": -0.45,
                         "cx": 100.43333,
                         "fips": "ID1374",
-                        "locname": " Padang Panjang",
+                        "locname": "Padang Panjang",
                         "iso_name": "Kota Padang Panjang"
                     },
                     "id": "ID1374"
@@ -10816,7 +10816,7 @@
                         "cy": -0.62682,
                         "cx": 100.12047,
                         "fips": "ID1377",
-                        "locname": " Pariaman",
+                        "locname": "Pariaman",
                         "iso_name": "Kota Pariaman"
                     },
                     "id": "ID1377"
@@ -10833,7 +10833,7 @@
                         "cy": -0.23333,
                         "cx": 100.63333,
                         "fips": "ID1376",
-                        "locname": " Payakumbuh",
+                        "locname": "Payakumbuh",
                         "iso_name": "Kota Payakumbuh"
                     },
                     "id": "ID1376"
@@ -10852,7 +10852,7 @@
                         "cy": -0.6,
                         "cx": 100.75,
                         "fips": "ID1373",
-                        "locname": " Sawah Lunto",
+                        "locname": "Sawah Lunto",
                         "iso_name": "Kota Sawah Lunto"
                     },
                     "id": "ID1373"
@@ -10870,7 +10870,7 @@
                         "cy": -0.76667,
                         "cx": 100.61667,
                         "fips": "ID1372",
-                        "locname": " Solok",
+                        "locname": "Solok",
                         "iso_name": "Kota Solok"
                     },
                     "id": "ID1372"
@@ -10895,7 +10895,7 @@
                         "cy": -0.0168,
                         "cx": 100.5872,
                         "fips": "ID1308",
-                        "locname": " Lima Puluh ",
+                        "locname": "Lima Puluh Kota",
                         "iso_name": "Kabupaten Lima Puluh Kota"
                     },
                     "id": "ID1308"
@@ -10918,7 +10918,7 @@
                         "cy": -0.6,
                         "cx": 100.28333,
                         "fips": "ID1306",
-                        "locname": " Padang Pariaman",
+                        "locname": "Padang Pariaman",
                         "iso_name": "Kabupaten Padang Pariaman"
                     },
                     "id": "ID1306"
@@ -10940,7 +10940,7 @@
                         "cy": 0.42503,
                         "cx": 99.94606,
                         "fips": "ID1309",
-                        "locname": " Pasaman",
+                        "locname": "Pasaman",
                         "iso_name": "Kabupaten Pasaman"
                     },
                     "id": "ID1309"
@@ -10960,7 +10960,7 @@
                         "cy": 0.28152,
                         "cx": 99.51965,
                         "fips": "ID1312",
-                        "locname": " Pasaman Barat",
+                        "locname": "Pasaman Barat",
                         "iso_name": "Kabupaten Pasaman Barat"
                     },
                     "id": "ID1312"
@@ -10984,7 +10984,7 @@
                         "cy": -1.58333,
                         "cx": 100.85,
                         "fips": "ID1302",
-                        "locname": " Pesisir Selatan",
+                        "locname": "Pesisir Selatan",
                         "iso_name": "Kabupaten Pesisir Selatan"
                     },
                     "id": "ID1302"
@@ -11007,7 +11007,7 @@
                         "cy": -1.1827,
                         "cx": 101.6056,
                         "fips": "ID1304",
-                        "locname": " Sijunjung",
+                        "locname": "Sijunjung",
                         "iso_name": "Kabupaten Sijunjung"
                     },
                     "id": "ID1304"
@@ -11035,7 +11035,7 @@
                         "cy": -0.96667,
                         "cx": 100.81667,
                         "fips": "ID1303",
-                        "locname": " Solok",
+                        "locname": "Solok",
                         "iso_name": "Kabupaten Solok"
                     },
                     "id": "ID1303"
@@ -11055,7 +11055,7 @@
                         "cy": -1.23333,
                         "cx": 101.417,
                         "fips": "ID1310",
-                        "locname": " Solok Selatan",
+                        "locname": "Solok Selatan",
                         "iso_name": "Kabupaten Solok Selatan"
                     },
                     "id": "ID1310"
@@ -11082,7 +11082,7 @@
                         "cy": -0.4555,
                         "cx": 100.5771,
                         "fips": "ID1305",
-                        "locname": " Tanah Datar",
+                        "locname": "Tanah Datar",
                         "iso_name": "Kabupaten Tanah Datar"
                     },
                     "id": "ID1305"
@@ -11119,7 +11119,7 @@
                         "cy": -2.88333,
                         "cx": 104.38306,
                         "fips": "ID1607",
-                        "locname": " Banyu Asin",
+                        "locname": "Banyu Asin",
                         "iso_name": "Kabupaten Banyu Asin"
                     },
                     "id": "ID1607"
@@ -11164,7 +11164,7 @@
                         "cy": -3.29308,
                         "cx": 102.85503,
                         "fips": "ID1674",
-                        "locname": " Lubuk Linggau",
+                        "locname": "Lubuk Linggau",
                         "iso_name": "Kota Lubuk Linggau"
                     },
                     "id": "ID1674"
@@ -11185,7 +11185,7 @@
                         "cy": -4.13055,
                         "cx": 103.26822,
                         "fips": "ID1673",
-                        "locname": " Pagar Alam",
+                        "locname": "Pagar Alam",
                         "iso_name": "Kota Pagar Alam"
                     },
                     "id": "ID1673"
@@ -11204,7 +11204,7 @@
                         "cy": -3,
                         "cx": 104.71667,
                         "fips": "ID1671",
-                        "locname": " Palembang",
+                        "locname": "Palembang",
                         "iso_name": "Kota Palembang"
                     },
                     "id": "ID1671"
@@ -11224,7 +11224,7 @@
                         "cy": -3.46202,
                         "cx": 104.2229,
                         "fips": "ID1672",
-                        "locname": " Prabumulih",
+                        "locname": "Prabumulih",
                         "iso_name": "Kota Prabumulih"
                     },
                     "id": "ID1672"
@@ -11254,7 +11254,7 @@
                         "cy": -3.7864,
                         "cx": 103.5428,
                         "fips": "ID1604",
-                        "locname": " Lahat",
+                        "locname": "Lahat",
                         "iso_name": "Kabupaten Lahat"
                     },
                     "id": "ID1604"
@@ -11290,7 +11290,7 @@
                         "cy": -4.2327,
                         "cx": 103.6141,
                         "fips": "ID1603",
-                        "locname": " Muara Enim",
+                        "locname": "Muara Enim",
                         "iso_name": "Kabupaten Muara Enim"
                     },
                     "id": "ID1603"
@@ -11313,7 +11313,7 @@
                         "cy": -2.41667,
                         "cx": 103.75,
                         "fips": "ID1606",
-                        "locname": " Musi Banyu Asin",
+                        "locname": "Musi Banyu Asin",
                         "iso_name": "Kabupaten Musi Banyu Asin"
                     },
                     "id": "ID1606"
@@ -11339,7 +11339,7 @@
                         "cy": -3.08333,
                         "cx": 103.2,
                         "fips": "ID1605",
-                        "locname": " Musi Rawas",
+                        "locname": "Musi Rawas",
                         "iso_name": "Kabupaten Musi Rawas"
                     },
                     "id": "ID1605"
@@ -11377,7 +11377,7 @@
                         "cy": -3.43186,
                         "cx": 104.62727,
                         "fips": "ID1610",
-                        "locname": " Ogan Ilir",
+                        "locname": "Ogan Ilir",
                         "iso_name": "Kabupaten Ogan Ilir"
                     },
                     "id": "ID1610"
@@ -11401,7 +11401,7 @@
                         "cy": -3.36667,
                         "cx": 105.36667,
                         "fips": "ID1602",
-                        "locname": " Ogan Komering Ilir",
+                        "locname": "Ogan Komering Ilir",
                         "iso_name": "Kabupaten Ogan Komering Ilir"
                     },
                     "id": "ID1602"
@@ -11421,7 +11421,7 @@
                         "cy": -4.13333,
                         "cx": 104.03333,
                         "fips": "ID1601",
-                        "locname": " Ogan Komering Ulu",
+                        "locname": "Ogan Komering Ulu",
                         "iso_name": "Kabupaten Ogan Komering Ulu"
                     },
                     "id": "ID1601"
@@ -11446,7 +11446,7 @@
                         "cy": -4.65728,
                         "cx": 104.00659,
                         "fips": "ID1608",
-                        "locname": " Ogan Komering Ulu Selatan",
+                        "locname": "Ogan Komering Ulu Selatan",
                         "iso_name": "Kabupaten Ogan Komering Ulu Selatan"
                     },
                     "id": "ID1608"
@@ -11467,7 +11467,7 @@
                         "cy": -3.85679,
                         "cx": 104.75209,
                         "fips": "ID1609",
-                        "locname": " Ogan Komering Ulu Timur",
+                        "locname": "Ogan Komering Ulu Timur",
                         "iso_name": "Kabupaten Ogan Komering Ulu Timur"
                     },
                     "id": "ID1609"
@@ -11506,7 +11506,7 @@
                         "cy": 2.78333,
                         "cx": 99.55,
                         "fips": "ID1208",
-                        "locname": " Asahan",
+                        "locname": "Asahan",
                         "iso_name": "Kabupaten Asahan"
                     },
                     "id": "ID1208"
@@ -11541,7 +11541,7 @@
                         "cy": 2.86667,
                         "cx": 98.23333,
                         "fips": "ID1210",
-                        "locname": " Dairi",
+                        "locname": "Dairi",
                         "iso_name": "Kabupaten Dairi"
                     },
                     "id": "ID1210"
@@ -11585,7 +11585,7 @@
                         "cy": 3.41667,
                         "cx": 98.66667,
                         "fips": "ID1212",
-                        "locname": " Deli Serdang",
+                        "locname": "Deli Serdang",
                         "iso_name": "Kabupaten Deli Serdang"
                     },
                     "id": "ID1212"
@@ -11606,7 +11606,7 @@
                         "cy": 2.26551,
                         "cx": 98.50376,
                         "fips": "ID1215",
-                        "locname": " Humbang Hasundutan",
+                        "locname": "Humbang Hasundutan",
                         "iso_name": "Kabupaten Humbang Hasundutan"
                     },
                     "id": "ID1215"
@@ -11628,7 +11628,7 @@
                         "cy": 3.11667,
                         "cx": 98.3,
                         "fips": "ID1211",
-                        "locname": " Karo",
+                        "locname": "Karo",
                         "iso_name": "Kabupaten Karo"
                     },
                     "id": "ID1211"
@@ -11646,7 +11646,7 @@
                         "cy": 3.8,
                         "cx": 108.23333,
                         "fips": "ID1276",
-                        "locname": " Binjai",
+                        "locname": "Binjai",
                         "iso_name": "Kota Binjai"
                     },
                     "id": "ID1276"
@@ -11676,7 +11676,7 @@
                         "cy": 3.65,
                         "cx": 98.66667,
                         "fips": "ID1275",
-                        "locname": " Medan",
+                        "locname": "Medan",
                         "iso_name": "Kota Medan"
                     },
                     "id": "ID1275"
@@ -11693,7 +11693,7 @@
                         "cy": 1.37375,
                         "cx": 99.26843,
                         "fips": "ID1277",
-                        "locname": " Padang Sidempuan",
+                        "locname": "Padang Sidempuan",
                         "iso_name": "Kota Padang Sidempuan"
                     },
                     "id": "ID1277"
@@ -11710,7 +11710,7 @@
                         "cy": 2.96667,
                         "cx": 99.05,
                         "fips": "ID1273",
-                        "locname": " Pematang Siantar",
+                        "locname": "Pematang Siantar",
                         "iso_name": "Kota Pematang Siantar"
                     },
                     "id": "ID1273"
@@ -11728,7 +11728,7 @@
                         "cy": 1.73333,
                         "cx": 98.8,
                         "fips": "ID1271",
-                        "locname": " Sibolga",
+                        "locname": "Sibolga",
                         "iso_name": "Kota Sibolga"
                     },
                     "id": "ID1271"
@@ -11745,7 +11745,7 @@
                         "cy": 2.95833,
                         "cx": 99.79167,
                         "fips": "ID1272",
-                        "locname": " Tanjung Balai",
+                        "locname": "Tanjung Balai",
                         "iso_name": "Kota Tanjung Balai"
                     },
                     "id": "ID1272"
@@ -11762,7 +11762,7 @@
                         "cy": 3.325,
                         "cx": 99.14167,
                         "fips": "ID1274",
-                        "locname": " Tebing Tinggi",
+                        "locname": "Tebing Tinggi",
                         "iso_name": "Kota Tebing Tinggi"
                     },
                     "id": "ID1274"
@@ -11783,7 +11783,7 @@
                         "cy": 2.26667,
                         "cx": 100.1,
                         "fips": "ID1207",
-                        "locname": " Labuhan Batu",
+                        "locname": "Labuhan Batu",
                         "iso_name": "Kabupaten Labuhan Batu"
                     },
                     "id": "ID1207"
@@ -11835,7 +11835,7 @@
                         "cy": 3.71667,
                         "cx": 98.21667,
                         "fips": "ID1213",
-                        "locname": " Langkat",
+                        "locname": "Langkat",
                         "iso_name": "Kabupaten Langkat"
                     },
                     "id": "ID1213"
@@ -11856,7 +11856,7 @@
                         "cy": 0.78378,
                         "cx": 99.25495,
                         "fips": "ID1202",
-                        "locname": " Mandailing Natal",
+                        "locname": "Mandailing Natal",
                         "iso_name": "Kabupaten Mandailing Natal"
                     },
                     "id": "ID1202"
@@ -11877,7 +11877,7 @@
                         "cy": 1.03333,
                         "cx": 97.76667,
                         "fips": "ID1201",
-                        "locname": " Nias",
+                        "locname": "Nias",
                         "iso_name": "Kabupaten Nias"
                     },
                     "id": "ID1201"
@@ -11936,7 +11936,7 @@
                         "cy": 0.77,
                         "cx": 97.75,
                         "fips": "ID1214",
-                        "locname": " Nias Selatan",
+                        "locname": "Nias Selatan",
                         "iso_name": "Kabupaten Nias Selatan"
                     },
                     "id": "ID1214"
@@ -12001,7 +12001,7 @@
                         "cy": 2.56667,
                         "cx": 98.28333,
                         "fips": "ID1216",
-                        "locname": " Pakpak Bharat",
+                        "locname": "Pakpak Bharat",
                         "iso_name": "Kabupaten Pakpak Bharat"
                     },
                     "id": "ID1216"
@@ -12028,7 +12028,7 @@
                         "cy": 2.64025,
                         "cx": 98.71525,
                         "fips": "ID1217",
-                        "locname": " Samosir",
+                        "locname": "Samosir",
                         "iso_name": "Kabupaten Samosir"
                     },
                     "id": "ID1217"
@@ -12051,7 +12051,7 @@
                         "cy": 3.36667,
                         "cx": 99.03333,
                         "fips": "ID1218",
-                        "locname": " Serdang Bedagai",
+                        "locname": "Serdang Bedagai",
                         "iso_name": "Kabupaten Serdang Bedagai"
                     },
                     "id": "ID1218"
@@ -12077,7 +12077,7 @@
                         "cy": 2.9,
                         "cx": 99,
                         "fips": "ID1209",
-                        "locname": " Simalungun",
+                        "locname": "Simalungun",
                         "iso_name": "Kabupaten Simalungun"
                     },
                     "id": "ID1209"
@@ -12103,7 +12103,7 @@
                         "cy": 1.51667,
                         "cx": 99.25,
                         "fips": "ID1203",
-                        "locname": " Tapanuli Selatan",
+                        "locname": "Tapanuli Selatan",
                         "iso_name": "Kabupaten Tapanuli Selatan"
                     },
                     "id": "ID1203"
@@ -12134,7 +12134,7 @@
                         "cy": 1.9,
                         "cx": 98.66667,
                         "fips": "ID1204",
-                        "locname": " Tapanuli Tengah",
+                        "locname": "Tapanuli Tengah",
                         "iso_name": "Kabupaten Tapanuli Tengah"
                     },
                     "id": "ID1204"
@@ -12156,7 +12156,7 @@
                         "cy": 2.0028,
                         "cx": 99.0707,
                         "fips": "ID1205",
-                        "locname": " Tapanuli Utara",
+                        "locname": "Tapanuli Utara",
                         "iso_name": "Kabupaten Tapanuli Utara"
                     },
                     "id": "ID1205"
@@ -12177,7 +12177,7 @@
                         "cy": 2.39793,
                         "cx": 99.21678,
                         "fips": "ID1206",
-                        "locname": " Toba Samosir",
+                        "locname": "Toba Samosir",
                         "iso_name": "Kabupaten Toba Samosir"
                     },
                     "id": "ID1206"
